@@ -1,0 +1,404 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+typedef struct memory_node
+{
+	char * real_name;
+	char * remembered_name;
+	struct memory_node * next;
+	struct memory_node * previous;
+}MEMORY_DATA;
+
+typedef struct char_node
+{
+	char * name;
+	MEMORY_DATA * memory;
+}CHAR_DATA;
+
+/*** At creation/login init memory to NULL ***/
+
+
+//Tested
+void add_memory_node(CHAR_DATA * ch, CHAR_DATA * victim, char * remebered_name);
+void remove_memory_node(CHAR_DATA * ch, MEMORY_DATA * node_to_remove);
+void replace_memory_node(MEMORY_DATA * node_to_fix, char * new_name);
+MEMORY_DATA * memory_search_real_name(MEMORY_DATA * memory_start, char * search_name);
+MEMORY_DATA * memory_search_remembered_name(MEMORY_DATA * memory_start, char * search_name);
+void find_memory(MEMORY_DATA * potential_memories, MEMORY_DATA * memory_start, char * search_name);
+void do_remember(CHAR_DATA * ch, char * argument);
+void do_forget(CHAR_DATA * ch, char * argument);
+//Test Func
+void display_list(CHAR_DATA * ch);
+// Test searching and removing off of a search, also update off a search
+// Make a wrapper function for the remembered name search so I can find multiple instances of the same name
+
+int main(void)
+{
+	CHAR_DATA * some_char;
+	CHAR_DATA * another_char;
+	CHAR_DATA * third_char;
+	CHAR_DATA * fourth_char;
+	CHAR_DATA * fifth_char;
+	CHAR_DATA * sixth_char;
+
+	MEMORY_DATA * temp_memory;
+	MEMORY_DATA * current;
+	MEMORY_DATA * name_holder;
+	int i;
+	int temp;
+
+	some_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+	another_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+	third_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+	fourth_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+	fifth_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+	sixth_char = (CHAR_DATA *)malloc(sizeof(CHAR_DATA));
+
+	some_char->name = strdup("James");
+	some_char->memory = NULL;
+	
+	another_char->name = strdup("Billy");
+	another_char->memory = NULL;
+
+	third_char->name = strdup("Timothy");
+	third_char->memory = NULL;
+
+	fourth_char->name = strdup("Layla");
+	fourth_char->memory = NULL;
+
+	fifth_char->name = strdup("Jeff");
+	fifth_char->memory = NULL;
+
+	sixth_char->name = strdup("Anna");
+	sixth_char->memory = NULL;
+
+	printf("%s is char 1.\n%s is char 2.\n\n", some_char->name, another_char->name);
+
+	add_memory_node(some_char, another_char, "Jill");
+	add_memory_node(some_char, third_char, "Hote");
+	add_memory_node(some_char, fourth_char, "Jill");
+	add_memory_node(some_char, fifth_char, "Jill");
+	add_memory_node(some_char, sixth_char, "Ben");
+
+	display_list(some_char);
+/*
+	remove_memory_node(some_char, some_char->memory);
+	
+	display_list(some_char);
+
+	remove_memory_node(some_char, some_char->memory->next);
+	
+	display_list(some_char);
+
+	add_memory_node(some_char, sixth_char, "Hotei");
+
+	display_list(some_char);
+*/
+/*
+	replace_memory_node(some_char->memory->next, "BUBBA!!!");
+	printf("Renamed: %s to %s\n\n", some_char->memory->next->real_name, some_char->memory->next->remembered_name);
+*/
+/*
+	name_holder = memory_search_real_name(some_char->memory, "Billy");
+
+	if (name_holder == NULL)
+		printf("I don't remember that person!\n\n");
+	else
+		printf("I remember that person as %s.\n\n", name_holder->remembered_name);
+*/
+/*
+	temp_memory = memory_search_remembered_name(some_char->memory, "Jimbo");
+
+	if (temp_memory == NULL)
+		printf("I don't remember that person!\n\n");
+	else
+		printf("I remember %s as %s.\n\n", temp_memory->real_name, temp_memory->remembered_name);
+*/	
+/*
+	temp_memory = memory_search_remembered_name(some_char->memory, "Jill");
+
+	if (temp_memory != NULL)
+		remove_memory_node(some_char, temp_memory);
+	else
+		printf("Couldn't find anyone to remove!\n\n");
+		
+	display_list(some_char);
+*/
+/*
+	temp_memory = (MEMORY_DATA *)malloc(sizeof(MEMORY_DATA));
+	temp_memory->next = NULL;
+
+	find_memory(temp_memory, some_char->memory, "Jill");
+
+	current = temp_memory->next;
+
+	for (i = 1; current != NULL; current = current->next, i++)
+	{
+		printf("%x)%s is %s\n", i, current->remembered_name, current->real_name);
+	}	
+
+	printf("Who do you want to re-remember?");
+	scanf("%x", &temp);
+
+	current = temp_memory->next;
+
+	for (i = 1; i < temp; i++)
+	{
+		current = current->next;
+	}
+
+	replace_memory_node(memory_search_real_name(some_char->memory, current->real_name), "Ringo!");
+
+	display_list(some_char);
+*/
+	
+	return 0;
+}
+
+
+/******************************************************************************
+* Adding a memory to the player's memory list.
+*
+* You pass in the character whose memory list is being updated, the character
+* who is being remembered, and the name they're being remembered by.
+*
+* A node is created and filled with the appropriate data then placed at the
+* head of the list.
+******************************************************************************/
+void add_memory_node(CHAR_DATA * ch, CHAR_DATA * victim, char * remembered_name)
+{
+	MEMORY_DATA * temp;
+
+	temp = (MEMORY_DATA *)malloc(sizeof(MEMORY_DATA));
+
+	temp->real_name = strdup(victim->name);
+
+	temp->remembered_name = strdup(remembered_name);
+
+	temp->next = ch->memory;
+	
+	if (ch->memory != NULL)
+			ch->memory->previous = temp;
+	
+	temp->previous = NULL;
+	ch->memory = temp;
+}
+
+
+/******************************************************************************
+* Removing an association a player has between a remembered name and another
+* player.
+* 
+* You pass the node you want to remove.
+*
+* Links are reconfigured to maintain the list.
+*
+* The node is then removed from the linked list and it, along with it's data,
+* is freed from memory.
+******************************************************************************/
+void remove_memory_node(CHAR_DATA * ch, MEMORY_DATA * node_to_remove)
+{
+	MEMORY_DATA * temp;
+
+/*
+	Let the node after the one we're dropping, point to the node before
+	the one we're dropping. If it's the head we're dropping, previous
+	will be pointing to NULL like it should be anyway.
+*/
+	temp = node_to_remove->next;
+	
+	if (node_to_remove->next != NULL)
+		temp->previous = node_to_remove->previous;
+
+	/* Are we removing the head of the list? */
+	if (node_to_remove->previous == NULL)
+		ch->memory = temp;	// Head of the list is reassigned
+
+	else
+	{
+	/* temp is the previous node and then temp->next is redirected */
+		temp = node_to_remove->previous;
+		temp->next = node_to_remove->next;
+										   
+	}
+
+	free(node_to_remove->real_name); //free the name
+	free(node_to_remove->remembered_name); //free the other name
+	free(node_to_remove); //free the node
+}
+
+
+/******************************************************************************
+* Replacing one remembered name with another.
+*
+* You've found a node you want to switch the remembered name for.
+* That node is passed along with the new name to remember a player by.
+* The name is replaced.
+******************************************************************************/
+void replace_memory_node(MEMORY_DATA * node_to_fix, char * new_name)
+{
+	free(node_to_fix->remembered_name);
+
+	node_to_fix->remembered_name = strdup(new_name);
+}
+
+
+/******************************************************************************
+* Search a player's memory by actual player names.
+*
+* Used for do_look and things to that effect.
+* 
+* Return the node with the "remembered name" for that player.
+* If one isn't found, return NULL.
+******************************************************************************/
+MEMORY_DATA * memory_search_real_name(MEMORY_DATA * memory_start, char * search_name)
+{
+	MEMORY_DATA * current;
+
+	for (current = memory_start; current != NULL; current = current->next)
+	{
+		if (strcmp(current->real_name, search_name) == 0)
+			break;
+	}
+
+	return current;
+}
+
+
+/******************************************************************************
+* Search a player's memory by remembered names.
+*
+* Used to remove a node or replace a node.
+* 
+* Returns the node with the remembered name you pass to it.
+* If it's not found, NULL is returned.
+******************************************************************************/
+MEMORY_DATA * memory_search_remembered_name(MEMORY_DATA * memory_start, char * search_name)
+{
+	MEMORY_DATA * current;
+
+	current = memory_start;
+
+	while ((current != NULL) && (strcmp(current->remembered_name, search_name) != 0))
+	{
+		current = current->next;
+	}
+	return current;
+}
+
+
+/******************************************************************************
+* Wrapper for the memory_search_remembered_name function
+*
+* Returns a list of potential memories a player is looking for
+*
+* Assumes potential_memories is already malloc'd prior to this call
+*
+* Returns potential_memories filled with a list of possible memories
+******************************************************************************/
+void find_memory(MEMORY_DATA * potential_memories, MEMORY_DATA * memory_start, char * search_name)
+{
+	MEMORY_DATA * returned_val;
+
+	returned_val = memory_search_remembered_name(memory_start, search_name);
+
+	while(returned_val != NULL)
+	{
+		potential_memories->next = (MEMORY_DATA *)malloc(sizeof(MEMORY_DATA));
+		potential_memories->next->previous = potential_memories;
+		potential_memories = potential_memories->next;
+
+		potential_memories->real_name = strdup(returned_val->real_name);
+		potential_memories->remembered_name = strdup(returned_val->remembered_name);
+		potential_memories->next = NULL;
+		
+		returned_val = memory_search_remembered_name(returned_val->next, search_name);
+	}
+}
+
+
+void do_remember(CHAR_DATA * ch, char * argument)
+{
+	CHAR_DATA * victim;
+	char * arg1;
+	char * arg2;
+
+	argument = one_argument(argument, arg1);
+	argument = one_argument(argument, arg2);
+
+	// break up arg into arg1 & arg2
+	// arg1 gives victim name from shortdesc
+	// success
+		// add_node & display new memory
+	// failure
+		// check arg2 for "as"
+		// success
+			// get arg3
+				// if it's a name
+					// find_memory protocol
+				// else
+					// display appropriate message
+		// failure
+		// return that person isn't here message
+}
+
+
+void do_forget(CHAR_DATA * ch, char * argument)
+{
+	MEMORY_DATA * potential_mem;
+	MEMORY_DATA * current_mem;
+	char * arg1;
+	
+	//implement numbering protocol
+
+	potential_mem = (MEMORY_DATA *)malloc(sizeof(MEMORY_DATA));
+	one_argument(argument, arg1);
+
+	// get name from remembered
+	find_memory(potential_mem, ch->memory, arg1);
+
+	current_mem = potential_mem->next;
+
+	if(current_mem != NULL)
+	{
+		if(current_mem->next == NULL)
+		{
+			remove_memory_node(ch, memory_search_real_name(ch->memory, current_mem->real_name));
+/*
+	Free the copies of the memories because find_memory returns a new set of memories
+	rather than a reference to the players memories.
+*/
+			free(current_mem->real_name);
+			free(current_mem->remembered_name);
+			free(current_mem);
+			free(potential_mem);
+		}
+		else
+		{
+			// remove_node/find_memory protocol
+		}
+	}
+	else
+	{
+		send_to_char("You don't remember anyone by that name.\n\r", ch);
+	}
+}
+
+/* Temp function to test with */
+void display_list(CHAR_DATA * ch)
+{
+	MEMORY_DATA * current;
+	int x = 1;
+
+	current = ch->memory;
+
+	while (current != NULL)
+	{
+		printf("%x) %s remembers %s as %s.\n", x, ch->name, current->real_name, current->remembered_name);
+		x++;
+		current = current->next;
+	}
+
+	printf ("\n");
+}
