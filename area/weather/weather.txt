@@ -1,0 +1,6 @@
+time: 10:50
+wind_dir: NW
+wind_spd: 08
+clouds: broken 013 
+temp: 07 
+broken 016 
