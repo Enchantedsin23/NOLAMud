@@ -1,0 +1,173 @@
+/************************************************************
+ * This code has been created for the Twilight Reconquista  *
+ * Anyone may use it if they wish                           *
+ * We ask only for credit in the login or MOTD              *
+ ************************************************************/
+
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "merc.h"
+/*
+merc.h
+
+typedef struct memory_cell
+{
+	CHAR_DATA * ch;
+	char * remembered_name;
+	struct memory_cell * next;
+} MEMORY_DATA;
+
+/*
+initialize startcell->ch to null
+need a func to set desc keywords either by players or by taking shortdesc and dropping common characters
+*/
+
+add to charsheets
+
+MEMORY_DATA * remembered_players;
+
+void remove_node(MEMORY_DATA ** head, MEMORY_DATA * node_to_remove)
+{
+	MEMORY_DATA * temp;
+	
+	temp = *head;
+
+	if (temp == node_to_remove)
+		*head = temp->next;
+
+	while (temp->next != node_to_remove)
+	{
+		temp = temp->next;
+	}
+	
+	temp->next = node_to_remove->next;
+
+	free(node_to_remove);	
+}
+
+
+void add_to_char_memory(MEMORY_DATA * char_mem, CHAR_DATA * victim, char * alias)
+{
+	MEMORY_DATA * current;	
+
+	if (char_mem->ch == NULL)
+		current = char_mem;
+	else
+	{
+		char_mem->next = (MEMORY_DATA *)malloc(sizeof(MEMORY_DATA));
+		current = char_mem->next;
+	}
+
+	current->ch = victim;
+	current->remembered_name = (char *)calloc(16, sizeof(char));
+	strcpy(char_mem->remembered_name, alias);	
+	current->next = NULL;
+}
+
+
+MEMORY_DATA * search_char_memory(MEMORY_DATA * char_mem, CHAR_DATA * victim)
+{
+	MEMORY_DATA * result;
+
+	result = char_mem;
+
+	while (result != NULL && result->ch != victim)
+	{
+		result = result->next;
+	}
+
+	return result;
+}
+
+
+// Also needs a check for duplicate aliases 
+void do_remember(CHAR_DATA * ch, char * argument)
+{
+	CHAR_DATA * victim;
+	MEMORY_DATA * memory_node;
+	char arg1[MAX_INPUT_LENGTH];
+	char arg2[MAX_INPUT_LENGTH];
+	
+	//remember oldname newname replaces names
+
+	argument = one_argument(argument, arg1);
+	
+	if ((victim = get_char_room(ch, arg1)) != NULL)
+	//I'll have to duplicate get_char_room but to take desc keywords instead of the name and use that instead	
+		memory_node = search_char_memory(ch->remembered_players, victim);
+
+	if (memory_node != NULL)
+	{
+		replace_node(memory_node, argument);
+		send_to_char("Alias changed.\r\n", ch);
+		return;
+	}
+
+	argument = one_argument(argument, arg2);
+
+	add_to_char_memory(ch->remembered_players, victim, arg2);
+}
+
+
+void replace_node(MEMORY_DATA * memory_node, char * argument)
+{
+	strcpy(memory_node->remembered_name, argument);
+}
+
+
+void do_forget(CHAR_DATA * ch, char * argument)
+{
+	MEMORY_DATA * memory_node;
+	CHAR_DATA * victim;
+	char buf[MAX_INPUT_LENGTH];
+	char arg1[MAX_INPUT_LENGTH];
+	char alias[MAX_INPUT_LENGTH];
+
+	argument = one_argument(argument, arg1);
+	
+	strcpy(alias, arg1);
+	arg1 = get_name_from_alias(ch->remembered_players, arg1);
+
+	if (arg1 == NULL)
+	{
+		sprintf(buf, "You don't remember anyone by that name.\r\n");
+		send_to_char(buf, ch);
+		return;
+	}
+
+	memory_node = search_char_memory(ch->remembered_players, victim);	
+		
+        remove_node(&(ch->char_mem), memory_node);
+	sprintf(buf, "You have forgotten %s.\n\r", alias);
+	send_to_char(buf, ch);
+}
+
+
+char * get_name_from_alias(MEMORY_DATA * memory_node, char * argument)
+{
+	MEMORY_DATA * current;
+	char player_name[MAX_INPUT_LENGTH];
+
+	for (current = memory_node; current != NULL; current = current->next)
+	{
+		if ((strcmp(argument, current->remembered_name)) == 0)
+		{
+			strcpy(player_name, current->ch->name);	
+			break;
+		}
+	}
+	
+	if (strcmp(player_name, current->ch->name) == 0)
+		return player_name;
+	else
+		return NULL;
+}
+
+*/

@@ -1,0 +1,4 @@
+mxp.c can be removed with a slight change to comm.c
+ki.c contains two functions, to be transferred to another file
+m_c.c moved to m_c.removed (contained mobprog shit)
+
