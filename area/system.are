@@ -1,0 +1,177 @@
+#AREADATA
+Name        System~
+Builders    Merc~
+VNUMs       100 999
+Security    3
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOM_V1
+#100
+...~
+~
+0 271372 0
+1
+-1 -1
+S
+#108
+~
+~
+0 4 0
+1
+-1 -1
+S
+#168
+Champions Square~
+~
+0 4 0
+1
+0 0
+S
+#210
+~
+~
+0 4 0
+1
+0 0
+S
+#402
+~
+~
+0 4 0
+1
+-1 -1
+S
+#403
+~
+~
+0 4 0
+1
+-1 -1
+S
+#404
+`rSparse Quarters`n~
+If one would manage to make it inside here, they would find that the door
+leading in is even more heavily reinforced on the inside than the out,
+veritably covered in latches, deadbolts, and other locks.  This room is
+somewhat spacious, though not particularly well-furnished.  A bed with a
+comfortable mattress and a few blankets rests upon the western wall, a small
+desk to the north.  The north wall in front of the desk is covered in
+screens, each labelled by camera location, depicting security camera feeds
+in both color and infrared from each part of the house.  A telephone is
+hooked up to rest upon the desk, along with a laptop computer.  The walls
+are bare aside from this, and there is nothing even hinting at luxury aside
+from the bed in the room.  
+~
+0 4 0
+1
+0 0
+S
+#405
+~
+~
+0 4 0
+1
+-1 -1
+S
+#407
+~
+~
+0 4 0
+1
+-1 -1
+S
+#408
+~
+~
+0 4 0
+1
+-1 -1
+S
+#410
+~
+~
+0 4 0
+1
+-1 -1
+S
+#541
+~
+~
+0 4 0
+1
+-1 -1
+S
+#580
+~
+~
+0 4 0
+1
+-1 -1
+S
+#582
+~
+~
+0 4 0
+1
+-1 -1
+S
+#674
+~
+~
+0 4 0
+1
+0 0
+S
+#706
+~
+~
+0 4 0
+1
+0 0
+S
+#722
+~
+~
+0 4 0
+1
+0 0
+S
+#801
+~
+~
+0 4 0
+1
+0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

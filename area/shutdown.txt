@@ -1,0 +1,260 @@
+[*****] [*****] FILE: oldobj2.are LINE: 431
+[*****] [*****] FILE: oldobj2.are LINE: 511
+[*****] [*****] FILE: oldobj2.are LINE: 519
+[*****] [*****] FILE: oldobj2.are LINE: 527
+[   11] Lumikant: world Shutdown by Lumikant.
+[*****] [*****] FILE: tr.are LINE: 13604
+[*****] [*****] FILE: tr.are LINE: 13604
+[*****] [*****] FILE: tr.are LINE: 13604
+[*****] [*****] FILE: tr.are LINE: 13604
+[*****] [*****] FILE: oldobj.are LINE: 1919
+[*****] [*****] FILE: oldobj.are LINE: 1919
+[*****] [*****] FILE: oldobj.are LINE: 1019
+[*****] [*****] FILE: oldobj.are LINE: 1019
+[*****] [*****] FILE: oldobj.are LINE: 1019
+[*****] [*****] FILE: oldobj.are LINE: 1919
+[*****] [*****] FILE: oldobj.are LINE: 1927
+[ 5109] Cone: world Shutdown by Cone.
+[ 5109] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[*****] [*****] FILE: oldobj.are LINE: 1949
+[*****] [*****] FILE: oldobj.are LINE: 1949
+[    1] Lumikant: world Shutdown by Lumikant.
+[*****] [*****] FILE: help.are LINE: 6338
+[*****] [*****] FILE: help.are LINE: 21
+[*****] [*****] FILE: help.are LINE: 4346
+[*****] [*****] FILE: help.are LINE: 4346
+[*****] [*****] FILE: help.are LINE: 8399
+[   13] Lea: world Shutdown by Lea.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[   10] Cone: world Shutdown by Cone.
+[*****] [*****] FILE: help.are LINE: 6174
+[*****] [*****] FILE: help.are LINE: 6175
+[*****] [*****] FILE: help.are LINE: 6175
+[*****] [*****] FILE: help.are LINE: 6179
+[*****] [*****] FILE: help.are LINE: 6178
+[*****] [*****] FILE: help.are LINE: 6184
+[   13] Lea: world Shutdown by Lea.
+[20005] Lea: world Shutdown by Lea.
+[20194] Lea: world Shutdown by Lea.
+[ 3700] Lea: world Shutdown by Lea.
+[   13] Lea: world Shutdown by Lea.
+[*****] [*****] FILE: venice.are LINE: 34959
+[*****] [*****] FILE: venice.are LINE: 34959
+[*****] [*****] FILE: venice.are LINE: 34959
+[*****] [*****] FILE: midgaard.are LINE: 0
+[*****] [*****] FILE: help.are LINE: 5209
+[*****] [*****] FILE: midgaard.are LINE: 0
+[*****] [*****] FILE: midgaard.are LINE: 0
+[*****] [*****] FILE: midgaard.are LINE: 0
+[*****] [*****] FILE: venice.are LINE: 28081
+[   13] Kallisti: world Shutdown by Kallisti.
+[   13] Kallisti: world Shutdown by Kallisti.
+[*****] [*****] FILE: midgaard.are LINE: 0
+[   23] Kurt: world Shutdown by Kurt.
+[   23] Kurt: world Shutdown by Kurt.
+[20147] Freya: world Shutdown by Freya.
+[   13] Freya: world Shutdown by Freya.
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[   13] Freya: world Shutdown by Freya.
+[    5] Kurt: world Shutdown by Kurt.
+[   13] Freya: world Shutdown by Freya.
+[*****] [*****] FILE: miami.are LINE: 751
+[    3] Kurt: world Shutdown by Kurt.
+[    3] Kurt: world Shutdown by Kurt.
+[   13] Freya: world Shutdown by Freya.
+[*****] [*****] FILE: limbo.are LINE: 751
+[*****] [*****] FILE: limbo.are LINE: 751
+[*****] [*****] FILE: limbo.are LINE: 743
+[*****] [*****] FILE: limbo.are LINE: 751
+[*****] [*****] FILE: limbo.are LINE: 751
+[*****] [*****] FILE: miami.are LINE: 1821
+[*****] [*****] FILE: miami.are LINE: 1821
+[*****] [*****] FILE: miami.are LINE: 1821
+[*****] [*****] FILE: miami.are LINE: 1821
+[*****] [*****] FILE: miami.are LINE: 1821
+[ 5002] Kurt: world Shutdown by Kurt.
+[13060] Kurt: world Shutdown by Kurt.
+[13060] Kurt: world Shutdown by Kurt.
+[    8] Kurt: world Shutdown by Kurt.
+[   13] Freya: world Shutdown by Freya.
+[*****] [*****] FILE: help.are LINE: 6586
+[*****] [*****] FILE: help.are LINE: 19
+[*****] [*****] FILE: help.are LINE: 19
+[    8] Kurt: world Shutdown by Kurt.
+[15320] Kurt: world Shutdown by Kurt.
+[13006] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[20151] Kurt: world Shutdown by Kurt.
+[   25] Kurt: world Shutdown by Kurt.
+[   25] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[   25] Kurt: world Shutdown by Kurt.
+[*****] [*****] FILE: miamiother.are LINE: 4540
+[*****] [*****] FILE: miamiother.are LINE: 4540
+[   13] Leanna: world Shutdown by Leanna.
+[ 3700] Kurt: world Shutdown by Kurt.
+[ 6050] Kurt: world Shutdown by Kurt.
+[   13] Leanna: world Shutdown by Leanna.
+[ 6007] Leanna: world Shutdown by Leanna.
+[ 6007] Leanna: world Shutdown by Leanna.
+[ 6007] Leanna: world Shutdown by Leanna.
+[*****] [*****] FILE: darkages.are LINE: 28
+[*****] [*****] FILE: darkages.are LINE: 28
+[   13] Leanna: world Shutdown by Leanna.
+[   13] Leanna: world Shutdown by Leanna.
+[*****] [*****] FILE: none.are LINE: 35
+[*****] [*****] FILE: none.are LINE: 35
+[   13] Leanna: world Shutdown by Leanna.
+[    5] Kurt: world Shutdown by Kurt.
+[    5] Kurt: world Shutdown by Kurt.
+[    5] Kurt: world Shutdown by Kurt.
+[   13] Leanna: world Shutdown by Leanna.
+[   30] Kurt: world Shutdown by Kurt.
+[   30] Kurt: world Shutdown by Kurt.
+[   30] Kurt: world Shutdown by Kurt.
+[   13] Leanna: world Shutdown by Leanna.
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[*****] [*****] FILE: miamiother.are LINE: 17584
+[   13] Zillah: world Shutdown by Zillah.
+[*****] [*****] FILE: miamiother.are LINE: 20886
+[*****] [*****] FILE: miamiother.are LINE: 20888
+[*****] [*****] FILE: miamiother.are LINE: 20890
+[*****] [*****] FILE: miamiother.are LINE: 20891
+[*****] [*****] FILE: miamiother.are LINE: 20891
+[*****] [*****] FILE: miamiother.are LINE: 20891
+[*****] [*****] FILE: miamiother.are LINE: 20891
+[   13] Leanna: world Shutdown by Leanna.
+[   13] Leanna: world Shutdown by Leanna.
+[ 3700] Kurt: world Shutdown by Kurt.
+[   13] Zillah: world Shutdown by Zillah.
+[*****] [*****] FILE: help.are LINE: 12041
+[   13] Zillah: world Shutdown by Zillah.
+[   13] Zillah: world Shutdown by Zillah.
+[ 6997] Zillah: world Shutdown by Zillah.
+[*****] [*****] FILE: help.are LINE: 3
+[*****] [*****] FILE: help.are LINE: 3
+[*****] [*****] FILE: losangeles.are LINE: 35146
+[*****] [*****] FILE: losangeles.are LINE: 35146
+[*****] [*****] FILE: losangeles.are LINE: 35146
+[*****] [*****] FILE: losangeles.are LINE: 35223
+[*****] [*****] FILE: losangeles.are LINE: 35223
+[*****] [*****] FILE: losangeles.are LINE: 35223
+[*****] [*****] FILE: losangeles.are LINE: 35223
+[   13] Persephone: world Shutdown by Persephone.
+[*****] [*****] FILE: help.are LINE: 3
+[12087] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[*****] [*****] FILE: limbo.are LINE: 779
+[   16] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[ 6007] Muse: world Shutdown by Muse.
+[*****] [*****] FILE: limbo.are LINE: 798
+[*****] [*****] FILE: limbo.are LINE: 798
+[12361] Muse: world Shutdown by Muse.
+[12361] Muse: world Shutdown by Muse.
+[12361] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[   13] Muse: world Shutdown by Muse.
+[*****] [*****] FILE: neworleans.are LINE: 2996
+[*****] [*****] FILE: neworleans.are LINE: 2996
+[*****] [*****] FILE: chicago.are LINE: 9314
+[*****] [*****] FILE: chicago.are LINE: 9314
+[*****] [*****] FILE: chicago.are LINE: 9318
+[*****] [*****] FILE: chicago.are LINE: 9314
+[*****] [*****] FILE: chicago.are LINE: 9314
+[*****] [*****] FILE: system.are LINE: 112
+[*****] [*****] FILE: none.are LINE: 4195
+[*****] [*****] FILE: oldobj.are LINE: 2093
+[*****] [*****] FILE: oldobj.are LINE: 1078
+[*****] [*****] FILE: oldobj.are LINE: 1078
+[*****] [*****] FILE: oldobj.are LINE: 2093
+[   13] Muse: world Shutdown by Muse.
+[*****] [*****] FILE: neworleans.are LINE: 51096
+[*****] [*****] FILE: neworleans.are LINE: 51096
+[*****] [*****] FILE: neworleans.are LINE: 51102
+[*****] [*****] FILE: neworleans.are LINE: 51102
+[ 3700] Jormungand: world Shutdown by Jormungand.
+[*****] [*****] FILE: london.are LINE: 235
+[*****] [*****] FILE: london.are LINE: 235
+[*****] [*****] FILE: london.are LINE: 3940
+[*****] [*****] FILE: london.are LINE: 3940
+[*****] [*****] FILE: london.are LINE: 3940
+[*****] [*****] FILE: help.are LINE: 18
+[*****] [*****] FILE: help.are LINE: 18
+[*****] [*****] FILE: help.are LINE: 19
+[*****] [*****] FILE: help.are LINE: 19
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[20141] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[20115] Merry: world Shutdown by Merry.
+[20157] Merry: world Shutdown by Merry.
+[20157] Merry: world Shutdown by Merry.
+[   15] Merry: world Shutdown by Merry.
+[20140] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[20000] Merry: world Shutdown by Merry.
+[20027] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[20031] Merry: world Shutdown by Merry.
+[20037] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[   13] Merry: world Shutdown by Merry.
+[*****] [*****] FILE: help.are LINE: 586
+[ 3700] Enigma: world Shutdown by Enigma.
+[*****] [*****] FILE: limbo.are LINE: 1105
+[*****] [*****] FILE: limbo.are LINE: 1105
+[*****] [*****] FILE: limbo.are LINE: 1109
+[*****] [*****] FILE: limbo.are LINE: 1105
+[*****] [*****] FILE: limbo.are LINE: 1108
+[*****] [*****] FILE: midgaard.are LINE: 898
+[*****] [*****] FILE: limbo.are LINE: 506
+[*****] [*****] FILE: midgaard.are LINE: 898
+[*****] [*****] FILE: help.are LINE: 53
+[*****] [*****] FILE: help.are LINE: 3
+[20129] Enigma: world Shutdown by Enigma.
+[   13] Enigma: world Shutdown by Enigma.

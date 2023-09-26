@@ -1,0 +1,2201 @@
+#AREADATA
+Name        Objects 2 (Defunct)~
+Builders    Kavir~
+VNUMs       1000 1999
+Security    6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1000
+etched great axe~
+an Etched Great-Axe~
+A long poleaxe is embedded into the floor.~
+~
+5 0 8193
+0 7 6 3
+10 2000 0
+#1001
+chain mail hauberk~
+a Chainmail Hauberk~
+A hauberk of chainmail lies on the floor.~
+~
+9 0 9
+3 1 0 0
+20 5000 0
+#1002
+umbrella newbie~
+a large black umbrella situated on a curving ashwood handle~
+A large black umbrella situated on a curving ashwood handle is here.
+~
+~
+5 0 8193
+0 0 0 0
+1 2000 0
+#1003
+back pack~
+a generic#e backpack#n~
+A generic backpack for restringing.
+~
+~
+15 0 1025
+100 0 0 0
+20 700 0
+#1004
+mask~
+a generic #wmask#n~
+A generic #wmask#n
+~
+~
+9 0 -32767
+0 0 0 0
+1 6 0
+#1005
+shield~
+a shot of whiskey~
+A shot glass lies on the floor.
+~
+~
+17 0 8193
+1 1 5 0
+1 10 0
+#1006
+bottle wine~
+a bottle of cheap wine~
+A bottle of wine lies on the ground.
+~
+~
+17 0 8193
+6 6 2 0
+3 100 0
+#1007
+dress bodice~
+a dress and bodice~
+A dress and a bodice lie on the ground.
+~
+~
+13 0 9
+0 0 0 0
+5 50 0
+#1008
+shirt newbie~
+a simple white tee shirt with a single pocket on the breast~
+A simple white tee shirt with a single pocket on the breast is here.
+~
+~
+13 0 9
+0 0 0 0
+3 30 0
+#1009
+vehicle~
+a generic vehicle~
+A generic vehicle idles on the curb, waiting for an owner to restring it.
+~
+~
+27 0 1
+0 0 0 0
+5 40 0
+V
+This is a generic vehicle. Use this space to describe the interior.
+~
+This is a generic vehicle. Use this space to describe the exterior.
+~
+#1010
+tattoo newbie~
+a plain, black-inked tattoo worked in slim sinuous patterns~
+A plain, black-inked tattoo worked in slim sinuous patterns is here.
+~
+~
+13 0 257
+0 0 0 0
+3 30 0
+#1011
+jeans newbie~
+a pair of blue jeans with some noticeable wear on the knees~
+A pair of blue jeans with some noticeable wear on the knees are here.
+~
+~
+13 0 33
+0 0 0 0
+3 40 0
+#1012
+mask newbie domino~
+a generic domino mask made of cheaply patterned faux-velvet~
+A generic domino mask made of cheaply patterned faux-velvet is here.
+~
+~
+13 0 -32767
+0 0 0 0
+4 50 0
+#1013
+blouse~
+a blouse~
+A blouse lies upon the ground.
+~
+~
+13 0 9
+0 0 0 0
+3 35 0
+#1014
+boots~
+a pair of short, leather boots~
+A pair of boots lies on the ground.
+~
+~
+13 0 65
+0 0 0 0
+3 40 0
+#1015
+boots~
+a pair of thigh-high leather boots~
+A pair of thigh-high leather boots lies on the ground.
+~
+~
+13 0 65
+0 0 0 0
+5 60 0
+#1016
+gloves newbie~
+a pair of plain work gloves with light ribbing on the cuffs~
+A pair of plain work gloves with light ribbing on the cuffs are here.
+~
+~
+13 0 129
+0 0 0 0
+2 10 0
+#1017
+bread~
+a loaf of bread~
+A loaf of bread lies on the floor.
+~
+~
+19 0 1
+3 0 0 0
+2 4 0
+#1018
+sweet bread~
+a sweet bread~
+A small loaf of sweet bread lies on the floor.
+~
+~
+19 0 1
+1 0 0 0
+1 6 0
+#1019
+Golden Crescent White Wine~
+golden Crescent white wine~
+An expensive-looking bottle of wine lies on the floor.
+~
+~
+17 0 8193
+1 1 2 0
+4 200 0
+#1020
+fine dagger~
+a fine dagger~
+An exquisite dagger lies embedded into the ground.
+~
+~
+5 0 8193
+0 4 1 2
+3 400 0
+#1021
+short sword~
+a short sword~
+A short-bladed sword lies on the ground.
+~
+~
+5 0 8193
+0 6 2 3
+6 1500 0
+#1022
+quarterstaff staff~
+a stout quarterstaff~
+A stout staff lies on the ground.
+~
+~
+5 0 8193
+0 4 1 7
+7 75 0
+#1023
+hand axe~
+a sharp hand axe~
+A small axe lies on the floor.
+~
+~
+5 0 8193
+0 7 5 3
+10 200 0
+#1024
+mace~
+a short-handled mace~
+A small mace is on the floor.
+~
+~
+5 0 8193
+0 6 4 7
+10 1000 0
+#1025
+hauberk studded~
+a suit of studded leather armor~
+A hauberk of studded leather lies on the floor.
+~
+~
+9 0 9
+1 0 0 0
+10 800 0
+#1026
+knife~
+a plain knife~
+A small knife lies on the ground.
+~
+~
+5 0 8193
+0 5 1 3
+2 25 0
+#1027
+side of beef~
+a side of beef~
+A large section of meat lies on the floor.
+~
+~
+19 0 1
+5 0 0 0
+5 40 0
+#1028
+mutton~
+a hunk of mutton~
+A chunk of mutton lies on the floor.
+~
+~
+19 0 1
+3 0 0 0
+2 30 0
+#1029
+closet~
+the closet~
+A large closet stands against the wall.
+~
+~
+15 0 0
+200 0 0 0
+10000 100 0
+#1030
+Poster~
+#GN#gote#n~
+#gA note is posted to a wall here for all to read.#n
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+note~
+#GT#ghe #GN#gormans have largely settled into #GB#gritain for good. 
+#GT#ghis is an age of expansion for #GE#gngland, as the #GN#gormans have
+imposed a thorough bureaucracy encompassing the nobility, the peasentry, and
+the #GC#ghurch.  #GK#ging #GR#gichard the #GL#gionhearted rules #GE#gngland,
+but for most of his reign he has been away at the crusades.  #GR#gichard's
+brother, #GJ#gohn, rules in his absence, and rumors have it that he has
+ambitions of becoming king himself.  #GU#gnder #GJ#gohn, the royal household
+supports itself and maintains its power through an elaborately organized
+central administration that is paid for through taxes levied on the trade of
+merchants and the coin of the common people.  #GT#ghe people of #GE#gngland
+cannot support the extravegance of #GJ#gohn and his rule.  #GT#ghe #GS#gaxon
+outlaw nobility fights against the excesses of #GJ#gohn joined by an
+independant group of bandits and robbers lead by #GR#gobin #GL#geeland. 
+#GT#ghis is a call to any noble defenders who can assist the common people
+of #GE#gngland and the rightful rule of #GK#ging #GR#gichard.  
+~
+#1031
+message~
+#RA M#eessage#n~
+#eSomething is scrawled here on the back wall of the cave.#n
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+something~
+#RS#eeperated from troops...  #RT#eemplars turned on us...  Attempted
+assassination...  Barely escaped...  Retreating from the front...  Seeking
+#RP#ehilip #RI A#eugustus#n 
+~
+E
+scrawl~
+#RS#eeperated from troops...  #RT#eemplars turned on us...  Attempted
+assassination...  Barely escaped...  Retreating from the front...  Seeking
+#RP#ehilip #RI A#eugustus#n 
+~
+E
+wall~
+#RS#eeperated from troops...  #RT#eemplars turned on us...  Attempted
+assassination...  Barely escaped...  Retreating from the front...  Seeking
+#RP#ehilip #RI A#eugustus#n 
+~
+#1032
+string glass~
+#CN#cecklace #wof #CD#cuchamps#n~
+#cWhat looks like a linked string of glass is lying here.#n
+~
+~
+9 0 8197
+0 0 0 0
+0 50000 0
+#1033
+gold band~
+#pR#yichard's #pR#ying.#n~
+#pA ring with a gold band is here, enscribed with a lion.#n
+~
+~
+9 1 8195
+0 0 0 0
+0 40000 0
+#1034
+smashed flag~
+#pK#ying #pR#yichard's #pS#ytandard#n~
+#pA purple and #ygold #pstandard is smashed into the ground here.#n
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+standard~
+You see a standard on the ground, ripped and smashed into the ground.  On
+closer inspection the lion on the side reveals that it is King Richard's
+personal standard.  Blood trails around the area into the mountains.  You
+are sure King Richard is in there somewhere.  It may just be a matter of
+luck finding him in that maze.  Will you just give up and go home?  Or
+search for a king...  
+~
+#1035
+canoe~
+a deerskin canoe~
+A deerskin canoe lies on the floor.
+~
+~
+22 0 8193
+0 0 0 0
+0 2 0
+#1036
+scarab~
+#wA beetle figurine#n~
+#wA stark white beetle figurine is here.#n
+~
+~
+28 1 8193
+0 0 0 0
+0 0 0
+E
+figurine~
+#wThis figurine is carved into the shape of a round beetle.  Its legs and
+mandibles are tucked under its body.  At a glance it looks like a large
+white stone.  
+~
+#1037
+scimitar~
+a scimitar~
+A scimitar lays on the floor.
+~
+~
+5 0 8193
+0 6 3 3
+10 0 0
+#1038
+coif~
+a coif of chainmail~
+A chainmail coif lies on the ground.
+~
+~
+13 0 17
+0 0 0 0
+10 100 0
+#1039
+two-handed sword~
+a two-handed sword~
+A massive sword lies on the ground.
+~
+~
+5 0 8193
+0 5 6 3
+30 1000 0
+#1040
+toga~
+a white toga~
+A white toga lies on the ground.
+~
+~
+13 0 9
+0 0 0 0
+2 10 0
+#1041
+broad sword~
+a broad sword~
+A broad sword lays on the ground.
+~
+~
+5 0 8193
+0 6 4 3
+15 2000 0
+#1042
+Chey~
+(null)~
+Tue Nov 13 22:24:12 2001~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#1043
+desk~
+a well-kept wooden desk~
+A large wooden desk is here, well organized and tidy.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1044
+wooden bench~
+a wooden bench~
+A long wooden bench lies here, providing a place to sit for the weary traveller.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1045
+stone bench~
+a stone bench~
+A stone bench stands here, providing rest for the weary traveller.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1046
+chair~
+a wooden chair~
+A small, non-descript wooden chair.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1047
+bar stool~
+a bar stool~
+A wooden bar stool, placed right beside the bar.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1048
+table wooden~
+a wooden table~
+A large wooden table is here, a small candle burning softly in the centre.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1049
+bed~
+a canopied bed~
+A huge, canopied bed is here, covered in the finest silk.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#1050
+pick axe~
+a pickaxe~
+A particularly sturdy-looking pickaxe is here.
+~
+~
+5 0 8193
+0 6 3 0
+0 0 0
+#1051
+raphael key~
+raphael's Jewelry key~
+Raphael's Jewelry key
+~
+~
+18 0 8193
+0 0 0 0
+0 2 0
+#1052
+salvatore key~
+salvatore's Smithy key~
+Salvatore's Smithy key
+~
+~
+18 0 8193
+0 0 0 0
+0 2 0
+#1053
+backshop key~
+a small key with some arabic carvings~
+A small key with some arabic carvings
+~
+~
+18 0 8193
+0 0 0 0
+0 8 0
+#1147
+Gleaming Scimitar~
+#eA #wG#eleaming #wS#ecimitar#n~
+A gleaming scimitar is here.
+~
+~
+5 16738 8193
+0 7 9 3
+0 20000 0
+E
+scimitar~
+#eThis #wD#eamascene #wB#elade is made of a strange
+#w"#bstar#e-#bmetal#w" #esurrounded by silver.  Arabic writing etched into
+the flat of the metal along the silver's razor edge.  The crossguard is
+curved upward slightly, wrapped in silver.  #wTwo diamonds #eare embedded
+into the crossguard extending down.  Resembling fangs, the crossguard has
+the appearance of a deadly grin.  The handle has been engraved with a
+mysterious mural, the engraved lines filled with silver.  Tiny #Rrubies#e,
+#Gemeralds#e, and #Bsapphires #ehave been strategically placed on the handle
+to coincide with the mural.  The base of the hilt is circled by the rare
+black pearl.  
+~
+E
+mural~
+#eOn close inspection of the blade's mural, you see the story of a
+wander, who has traveled across many lands battling all sorts of opponents. 
+He's penetrated #Gforests #eand crossed many #Brivers #ein search of his
+opponents.  All for the chance to taste #Rblood#e.  
+~
+#1148
+a Note~
+a Note~
+#CN#cotice#e: Any violence within the #yG#oolden #yC#orescent#e is punishible by the owners and the Lord of #CN#cew #CE#cnoch#e.  Harm anyone within #Rat your own risk#e.#n
+~
+~
+8 1 0
+0 0 0 0
+0 0 0
+#1155
+master key~
+master key~
+Master key
+~
+~
+18 0 0
+0 0 0 0
+1 0 0
+#1156
+master bedroom key~
+the Master Bedroom Key~
+The Master Bedroom Key
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1157
+keep key~
+the Keep Key~
+The Keep Key
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1249
+dress sundress~
+a pretty sundress with flowers~
+A strikingly beautiful sundress, with a dazzling floral pattern is here
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1998
+shell~
+a shotgun shell~
+A shotgun shell lies on the ground.
+~
+~
+32 0 8193
+0 0 0 0
+0 0 0
+#1999
+shotgun~
+a double-barelled shotgun~
+A large shotgun lies on the ground.
+~
+~
+31 0 8193
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOM_V1
+#1000
+`cAn Ample Chamber`n~
+Immediately drawing the attention in his room is the striking deep red
+canopy with silver threaded ivy that can be drawn about the bed for
+privacy while the occupant rests. A medium-sized table has been placed
+beside the bed, and upon it lie several items common for a woman; a 
+bone handled hair brush, matching looking-glass and a tiny bin with a
+hinged lid that corresponds in design with the brush and glass, most 
+likely filled with powder. A dark wood screen sections off a portion of 
+the room for dressing, set at an angle beside an unadorned armoire. Over 
+the pair of candle-sconces that hover in place upon the walls at opposite 
+ends in this room are paper lanterns that have been crafted so as to 
+filter the light into something more comforting, while keeping the 
+flammable paper at a safe distance from the actual flame. A little box
+is partially visible hidden beneath the bed, and upon it an iron latch.
+At the foot of the bed is a worn trunk that looks out of place with the 
+rest of the room, and atop it sits a single, small iron key. 
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1005
+S
+#1001
+`eA Stone Corridor`n~
+At the very top of what would be a wholly darkened, stone staircase
+where it not for the candle-sconces that have been afixed every five feet
+or so along the ascent, spans a moderatly sized landing with a smooth
+stone floor and a crimson runner that leads into a closed, iron-reinforced 
+door north. Above the door a large banner bears an insignia of a mailed
+fist holding three perfect feathers inside the palm. The stairway only goes
+down from here.
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1010
+D5
+~
+~
+0 0 1005
+S
+#1002
+`eLeCroix Keep `n-`e The Inner Wall~
+Between a large, circular wall of what would almost appear to be solid 
+stone and a considerably larger circular wall that has been built around
+the smaller wall, is a moderatly small space that could fit possibly one
+or two men standing shoulder to shoulder. No grass or other plantlife
+grows in this space, the area being so frequently compacted by travel 
+that it could not even if the sun were able to infiltrate the tall, thick
+stone. A large arched doorway of iron-reinforced wood leads through the
+inner wall to a tower, which is visible in the distance over the wall.
+`n
+`w((`CYou must have `wIC`C permission or `wrequest `Cto enter the Keep to the north`w))`n
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 1003
+S
+#1003
+`eA Broad Courtyard`n~
+At the inside of the smaller of the two stone walls spans a large 
+courtyard, riddled with large orange trees and other greenery. Exotic 
+flowers drape from the top of the stone wall that encloses the courtyard, 
+and also can be seen drooping from vines along the tower at the center of 
+the enclosure. A large stable can be seen to the left side of the tower; 
+even the slightest steady breeze brings the scent of hay and animals to 
+the nose of any passerby. A small stone building is visible to the east,
+a moderate distance from the tower itself, though not far enough to make
+frequent trips from the main place of occupance difficult. An elegant,
+though strikingly simple cross is mounted above the door of the building.
+At the near center of the courtyard is a stone fountain, merrily sending
+an endless stream of sparkling water that occasionally catches the light
+from the windows of the tower into the air. A gigantic orange tree with 
+a huge, ancient trunk stretches it's massive branches over the path 
+between the tower and the surrounding wall.
+`n
+`w((`CYou must`w request`C to go up/climb the tree. It requires a roll.`w))`n
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 1004
+D1
+~
+~
+1 0 1008
+D2
+~
+~
+1 0 1002
+D3
+~
+~
+1 0 1011
+D4
+~
+~
+0 0 1007
+S
+#1004
+`eBase of the Tower`n~
+A circular, stone-walled room with candleabras that bask the entirety of 
+the entrance hall in warm yellow light. The room is actually very large,
+with a meticulously crafted, smooth stone floor with crimson runners
+that lead from the entrance to each possible exit. A rack of candles has
+been placed near the wide, dark entrance to a staircase that seems to 
+have been cut from the very stone itself. Sweeping fabric of crimson and
+black trimmed with silver frames the upper border of the staircase
+entrance, and lining the walls in an elegantly masculine fashion are a
+series of portraits, labelled with small engraved markers for each pictured
+generation of the LeCroix noble line. Beneath an ebony framed portrait 
+labelled 'Sir Ambrose LeCroix' is an insignia; a mailed fist clutching in
+it's hand three perfect feathers. Other than the entrance itself and a 
+large, iron-reinforced dungeon-style door to the north, there is not a 
+single window or other opening to the base of the tower. 
+`n
+`w((`CYou must have prior`w IC permission`C to go north from this room`w))`n
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1009
+D2
+~
+~
+1 0 1003
+D4
+~
+~
+0 0 1005
+S
+#1005
+`eA Candlelit Corridor`n~
+At a midway section of what would be a wholly darkened, stone staircase
+where it not for the candle-sconces that have been afixed every five feet
+or so along the ascent, spans a moderatly sized landing with a smooth
+stone floor and a crimson runner that leads both into the hallway east
+and to the iron-reinforced door north. Through the hallway is visible a
+slight glow, as though there were more candles lit in whatever room lies
+at the end. The stairwell continues upward, though from here no sign of
+where it leads is discernable.
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1000
+D1
+~
+~
+0 0 1006
+D4
+~
+~
+0 0 1001
+D5
+~
+~
+0 0 1004
+S
+#1006
+`eCommon Room`n~
+This is a large, spacious room with smooth stone walls, accented with 
+crimson and black banners that drape from the ceiling and a similar style 
+of decor that frames all tapestries and portraits upon the walls. On top 
+of a thick, black rug, a round table sits with a cushion upon the seat of 
+each chair that surrounds it. A round, black iron chandelier which casts
+soft yellow light upon the room hangs over the center of the table. In
+another portrion of the room are arranged a pair of large, rather oddly
+comfortable looking chairs, which sit facing each other with a small 
+table between them. Upon the table is a chess board with masterfully
+crafted bone pieces. A prominent archway opens to the west from the 
+common room to a stairwell.
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+0 0 1005
+S
+#1007
+`gIn the Branches of an Orange Tree`n~
+Cradled among a series of massive, steady branches, a person who has
+managed to climb into the tree would find that it is a wholly comfortable 
+place to dwell. Through the curling green leaves that line the whole of
+every branch, occaisional fat, plump oranges can be seen, the few 
+remaining fruits being those that could not be picked by the servants 
+from the ground. The branches themselves stretch up toward the sky as 
+though attempting to reach it, and hold any occupant of the tree in a 
+natural seat of bark and foliage. A view of the tower, courtyard, walls
+and part of Calle de Santa Marie is visible from the branches.
+`n
+`w((`CYou must `wrequest `Cto climb down from the tree. It requires a roll.`w))`n
+~
+0 0 0
+1
+0 0
+D5
+~
+~
+0 0 1003
+S
+#1008
+`eA Modest Chapel`n~
+The soft, yellow light of candles makes visible the contents of this
+small chapel. Considering the small size of the building, the roof is 
+extraordinairily high, with smooth wooden beams that span across the 
+whole of the vaulted ceiling. Candleholders line the sides of the 
+walls and span along the clean tiled floors into a single confessional
+booth. A mounted cross has been placed upon the wall above a simple
+kneeling pad, and an altar directly beneath it with an arrangement of
+always freshly cut flowers upon a pure white runner. A wide basin has
+been placed upon a pedastel by the door, for blessing ones self with 
+the sign of the cross upon entering.
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1003
+S
+#1009
+`eAn Moderately Sized Armoury`n~
+This is a moderatly sized armoury with racks and shelves lining every inch 
+of each wall, save only for space for a door. Despite the dense content all 
+items are arranged in an organized manner; sets of chain mail are placed 
+onto headless dummies, an ample selection of swords are arranged all upon 
+one wall, spears on another. Maces of all shapes, some rather exotic, are 
+placed into wooden racks, and knives in sheepskin sheaths ready for the 
+taking hang in a straight row from the underside of a shelf, upon which are 
+several heavy crossbows and short quivers of thick arrows. The door that
+leads south is heavily fortified, and two apparantly identical iron bolted
+locks upon the outer frame reinforce security.
+`n
+`w((`CYou must`w request `Cto take anything from this room`w))`n
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1004
+S
+#1010
+`eA Large Chamber`n~
+The distinctive smell of ink and paper hits the nose as one progresses
+into this large, rather masculine chamber. Shelves that span from the
+high stone ceiling to the thick carpeted floor are packed with texts
+and scrolls of various size, shape and apparant age. A massive bed with
+a canopy that can be drawn to a close by the tug of a thick black tassel
+sits atop a slightly raised dias, and a kneeling pad obviously put to 
+use for prayer is fixed to the side of the frame. A large desk with an
+assortment of rolled parchement and a single seal that is set next to a
+basin filled with crimson wax sticks and tinder box appears to be the
+most-used object in the room, due to the very slight clutter that lies
+upon the dark wooden surface. Against a wall opposite the bed is an
+armoire completely lacking in decoration, that sits half opened and
+reveals several pieces of attire, all in crimson, black and silver.
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1001
+S
+#1011
+`eThe Stables`n~
+A simple wooden structure with a packed stone foundation and an open
+base that allows for the earth itself to act as floor. Several stalls
+with hinged, wooden doors and individual feeding and watering troughs
+line one entire wall, while the entirety of the opposite is occupied
+by racks that contain a selection of saddles, harnesses, bridles, 
+coarse hoof picks and other equestrian tools. A thin layer of packed
+hay lines the floor, and the smell of animals is ever present. Upon 
+the wall opposite the door is a ladder that leads to what would
+appear to be a loft.
+~
+0 65544 0
+1
+0 0
+D1
+~
+~
+1 0 1003
+D4
+~
+~
+1 0 1012
+S
+#1012
+`eLoft Above the Stables`n~
+Built into an eave over the stables is what would be a spacious loft,
+where it not for the stacks of hay that fill almost the entirety of
+the space. One whole side is free of a wall, and it leaves the entirety
+of the stable below open for an unobstructed view from above. There are
+a few random items lying atop one of the hay stacks; a baler, and a
+wound length of twine. Amidst a few of the stacks is a slightly packed
+area, making it seem as though someone or something spends a bit of
+time sitting or otherwise occupying the space. The smell of animals
+from down below is everpresent, though here seems to compete somewhat
+with the sweet smell of hay.
+~
+0 8 0
+1
+0 0
+D5
+~
+~
+1 0 1011
+S
+#1013
+`pA Cozy Home`n~
+This is cozy, simple four walled home.  A large window bordered by heavy,
+rose embroidered curtains that billow in the consistantly warm breeze takes
+up a moderate portion of the northern wall.  Four ordinary arm chairs that
+have been cushioned by pillows meticulously embroidered with rose vines upon
+the edges and hems have been arranged in a pleasantly spaced circle, and at
+the middle of them is a circular rug of thick, deep red.  Several dark,
+etched beams support the flat ceiling above, and the scent of neroli perfume
+fills the room, providing a sense of relaxation to the environment.  Massive
+wooden slats line the walls.  A sturdy wooden ladder has been propped
+against the eastern wall, and and a trapdoor in the ceiling with a cord upon
+it to allow it to be tugged open from the lower floor leads to what is
+assumed to be a loft.  Draping across the beams of the ceiling in deep arcs
+are deeply dyed flags of deep crimson, indigo, violet and viridian, hanging
+from lengths of leather cord.  Taking up almost the full entirety of one
+wall is a stone hearth with an iron rod that has been mounted to extend
+through the entirety and allow for pots or other cooking utensils to hang
+over the flame.  In cupboards to the side of the hearth are several dry
+loaves, apples, and a few other food items.  
+`n
+`w((`CYou must get `w4+`C successes on an `walertness`C roll to notice that the slats are
+moveable.`w))`n
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 1036
+D4
+~
+~
+1 0 1014
+S
+#1014
+`pA Small Loft`n~
+The ceiling here is very low, being perhaps six feet from the solid wooden
+floor and supported by thick, age-etched beams. The walls are covered in
+billowing indigo `wfabric`n, and there is no window nor sign that the outside
+world even exists save for the trapdoor in the floor, through which a 
+leather cord can be pulled completely through to disallow anyone to be 
+able to open it from below. A table with a locked drawer is upon the left 
+wall, and atop it lies a bone-handled brush, coinciding mirror, a small 
+bin of powder, and several other such items common for usage by a woman.
+The surface of the desk is ink-stained in places, but there are curiously 
+no signs of writing utensils. A single `wlantern`n sits upon the desk, casting
+warm orangish-yellow light from the tiny, flickering flame within the 
+glass, and acting as the only illumination for the loft. Against the 
+farthest wall is a large bed with piles of thick blankets and two huge
+pillows at the head. The frame is massive, crafted of dark oak and lacking
+a canopy. A screen of dark wood is placed beside a stout series of shelves
+lined with clothing to allow privacy while dressing.
+~
+0 0 0
+1
+0 0
+E
+lantern~
+Well-polished tin has been hammered, shaped and smoothed into an
+exquisite rose-bloom shape.  The front has been left out and the edges
+curved inward, to allow for a sliding sheet of delicate glass to be moved up
+and down.  Behind the glass are the effects of a lantern, and always burning
+within by a carefully adjusted knob which allows just a touch of oil to be
+used at a time is a gentle flame of yellowish-orange that provides both the
+only illumination for the room, and a touch of warmth to the immediate
+surroundings.  
+~
+E
+fabric~
+Thick, indigo fabric so dark that it is almost black fully lines the
+walls of the loft, making the room as a whole appear almost enclosed in
+moonless, starless night.  The fabric is soft but sturdy, and muffles out
+most sound from the outdoors, in addition to keeping sound within from
+escaping.  
+~
+D5
+~
+~
+1 0 1013
+S
+#1015
+`bA Dark Stairwell`n~
+Lurking from underneath the main staircase a dust dappled stone stairwell 
+leads down into the depths of the ground, showing the resent passing of 
+foot falls both stout and dragged.  The dank path strewn with the 
+occasional cobweb is lit with small brass lanterns, their flickering light 
+causes the shadows to dance and writhe about as if they were trapped in 
+an eternal state of agony.  The steep turning angle of the stairs is 
+reminiscent of a trek through steep hills, a spill would make a painful, if 
+not lethal fall were someone pushed or careless.  A smooth handrail gives 
+the only means of support its security a cruel mockery against what lays 
+in wait below.
+~
+0 8 0
+1
+0 0
+D4
+~
+~
+0 0 1016
+S
+#1016
+`bA Waypoint`n~
+Laborious care has been taken to smooth the stone of the walls and 
+floors, lending a regal air to the expansive room the dank stairway 
+spill out into, acting as a waypoint between the world above and 
+what waits beyond.  Standing stout and attentive to either edge of 
+the arching doorway is a foreboding guard dressed in ready armor 
+and the stark clinical white tabard of Knights of Acre, the shattered 
+red cross hinting at what is to come with an odd twist of irony. Just 
+beyond sprawls a thick heavy desk of dark wood, a barrel chested 
+man waiting patiently behind its curled form to scribe into his 
+tome the fate of the damned.  Lurking in the waiting shadows, 
+perched like gaping maws ready to swallow the unwilling dwells a 
+pair of doors one crafted of heavy wood door, the other a sturdy 
+tomb of metal.
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1017
+D1
+~
+~
+1 0 1018
+D4
+~
+~
+0 0 1015
+S
+#1017
+`bThe Room of Salvation`n~
+The room blossoms out into a stretching chamber the same great care and 
+dedication to craftsmanship showing in every rock adorning both walls 
+and floor, the smooth stone lending the room an air of quiet elegance.  
+A painted and carved sign perches atop the arching doorway, declaring 
+for all who enter in boldly scripted Latin, Spanish and Arabic Through 
+here lay salvation. The stone tiled floor has been stained with a 
+foreboding reddish tinge, perhaps purposeful or simply from years of use. 
+Slightly concaved in angle it allows for a steady even flow of various 
+liquids to pass into small grooves chiseled deep into the stone itself 
+that trail off to a central drainage point in the far wall. The dead 
+center of the room is raised in a dais type platform to feature two high 
+back wooden chairs crafted of the finest make, positioned like thrones 
+viewing over their court.  Upon even the slightest inspection, even from 
+this distance, harsh steel restraints glint dull in the dim lighting at 
+the arms, legs and torso accentuated in its purpose all the further by 
+the small thorn like spikes that lay placed about them like a cushion 
+for the awaiting flesh.  In the corner, lurking in the dimmest of 
+lighting, an artfully crafted iron maiden sits, its hinges slightly 
+ajar like open arms as it awaits an occupant. Settled near its base, 
+several earthen ware containers of blooming flowers linger, showing great 
+care and time taken in their tending, giving the nook a reminder of home.  
+Centuries worth of divine knowledge on cleansing the soul adorn the room 
+ranging from a chair adorned rack to the sweet simple melodic tones of 
+half starved dogs tearing into a most unwilling unrepentant soul. 
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1016
+S
+#1018
+`bHalls of the Damned`n~
+A short hallway stretches back further into the recesses of this 
+stately holding the stones here seeming course in cut compares to the 
+previous rooms. It is lit by a few lanterns, and each wall has a 
+sturdy steel door. In the center of the stone floor of the hallway 
+rests a large battered metal plate with a ring adoring it lending to 
+mind the thoughts of a trap door, though it looks that it would need 
+two men to lift.  One door flank each side of the hallway, much like 
+sightless eyes peering out over the stark surrounding the occasional 
+sob or wail lending a morbid music to the air.
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1020
+D1
+~
+~
+1 0 1021
+D2
+~
+~
+1 0 1022
+D3
+~
+~
+1 0 1016
+D5
+~
+~
+1 0 1019
+S
+#1019
+`bThe Oubliette`n~
+The drop from the ceiling to floor spans perhaps the length of 
+four man if they stood atop the shoulders of one and other, more 
+than enough to leave a soul battered and broken after being tossed 
+through the metal trapdoor above.  If lucky a body is able to 
+avoid landing in the various piles of broken and dried bones that 
+litter the floor, or perhaps the occasional half rotted corpse 
+that the rats have yet to finish off.  As the rusty hinges shrieks 
+a final farewell and the trap door shuts over head the room is 
+plunged into absolute darkness, made all the more unsettling by 
+the occasional scamper of feet on stone and bone or the fine 
+brushing of course hair against bruised flesh.
+~
+0 8 0
+1
+0 0
+D4
+~
+~
+1 0 1018
+S
+#1020
+`bA Stark Cell`n~
+The room is crafted smoothly from finely cut stone, leaving not a 
+jagged edge in sight.  Not crafted even remotely for comfort the 
+floor serves both as space to stand and sleep, the single concession 
+a tattered rag of what once might have been a passable blanket.  
+Small in make the space provides little room for much else the only 
+light seeping through a singular slit in the base of the door, just 
+wide enough for a bowl to be slide through, though the lack of 
+scuffing, dashes any hopes for constant nourishment. 
+`n
+`w((`CYou must be released or `wrequest`C a way to escape from this room 
+to leave it`w))`n
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1018
+S
+#1021
+`bA Stark Cell`n~
+The room is crafted smoothly from finely cut stone, leaving not a 
+jagged edge in sight.  Not crafted even remotely for comfort the 
+floor serves both as space to stand and sleep, the single concession 
+a tattered rag of what once might have been a passable blanket.  
+Small in make the space provides little room for much else the only 
+light seeping through a singular slit in the base of the door, just 
+wide enough for a bowl to be slide through, though the lack of 
+scuffing, dashes any hopes for constant nourishment. 
+`n
+`w((`CYou must be released or `wrequest`C a way to escape from this room 
+to leave it`w))`n
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1018
+S
+#1022
+`bA Stark Cell`n~
+The room is crafted smoothly from finely cut stone, leaving not a 
+jagged edge in sight.  Not crafted even remotely for comfort the 
+floor serves both as space to stand and sleep, the single concession 
+a tattered rag of what once might have been a passable blanket.  
+Small in make the space provides little room for much else the only 
+light seeping through a singular slit in the base of the door, just 
+wide enough for a bowl to be slide through, though the lack of 
+scuffing, dashes any hopes for constant nourishment. 
+`n
+`w((`CYou must be released or `wrequest`C a way to escape from this room 
+to leave it`w))`n
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1018
+S
+#1023
+`pThe Observatory`n~
+The observatory is a spacious, circular room with an exceptionally wide
+window spanning the length of one of the sides, facing out over the greater
+part of La Juderia.  Sturdy shutters cleverly swing down from the ceiling
+rather than from the sides, to accomodate the breadth of the window.  The
+walls are dressed in a dark, cherry red wood, sanded perfectly smooth and
+fitted together with wide, interlocking square panels.  The floor is much
+the same, though with narrower panels of the same dark wood.  The walls are
+composed of dry grey and white flagstone, and a large slat in the ceiling
+can be slid open by the tug of purple tasseled velvet cord for an
+unobstructed view of the dark lit canopy above, speckled with the pale pearl
+of the moon and silver stars.  A set of stone stairs curve up toward the
+high roof, leading to a platform built nestled close to the angle of ceiling
+and wall, where a few bins containing scrolls, ink and quills have been
+placed next to a small redwood table and identical set of five plush chairs.
+`n
+`w((`CYou must get 3+ successes on an alertness roll to notice the trapdoor in the floor`w))`n
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1024
+D5
+~
+~
+1 0 1025
+S
+#1024
+`pSitting Room and Foyer`n~
+The walls of this perfectly square home are solid grey and white
+flagstone behind the thick, skillfully woven tapestries that cover them from
+the redwood beamed ceiling to the floor of wood in the deepest cherry red,
+sanded perfectly smooth and fitted together with narrow, interlocking square
+panels, crested for warmth here and there in thick hand-woven rugs.  The
+chamber is fairly small, more quaint and comfortable than extravagant or an
+exhibition of wealth.  Several squat, four-legged chairs with plush,
+embroidered cushions in indigo hues are set in a comfortable arrangement
+with small tables bearing oil-lit lamps or simple, creamy blue vases,
+allowing for occupants to gather and speak or relax in a cozily close
+environment.  A door to the south leads into the rest of the home, locked
+with a solid iron latch.  
+`n
+`w((`COOC`w:`C You must have a key or request to pick the lock to travel south`w))`n
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1023
+S
+#1025
+`pBasement Quarters`n~
+The walls of this hexagonal underground chamber are solid grey and white
+flagstone behind the thick, skillfully woven tapestries that cover them from
+the redwood beamed ceiling to the floor of wood in the deepest cherry red,
+sanded perfectly smooth and fitted together with narrow, interlocking square
+panels.  The chamber is large enough to contain five completely seperate
+four poster beds with decorously carved frames in all manners of beautiful
+artistic depictions, completely closed off from one another and the main
+centro of the room by tall, folding screens of the same intricately carved,
+smooth and dark wood.  An iron chest sits at the foot of each bed, and a few
+personal effects of whomever the owners are set here and there; most
+notably, the screen and bed with wood carved into the visages of angelic -
+as opposed to fierce - seraphim and floral designs bears the largest number
+of personal belongings, most of them deliberatly feminine in nature.  A few
+wooden weapons racks with slatted practice blades wrapped in leather are
+mounted upon the wall beside a massive steel-reinforced door to the north,
+locked three times over with iron latches.  
+`n
+`w((`CYou must either have a key to the door, or request to pick each lock upon
+it to travel into the room north.`w))`n
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1026
+D4
+~
+~
+1 0 1023
+S
+#1026
+`pThe Library`n~
+Curved shelves composed of arched, thick redwood beams line the grey and
+white flagstone walls of this perfectly circular room completely, save for
+the opening that gives way to a steel-reinforced wooden door to the south. 
+Tomes beyond count fill the shelves from top to bottom, leaving no space
+open for storage of anything else upon the wooden slats.  The floors are
+composed of wood in the deepest cherry red, sanded perfectly smooth and
+fitted together with narrow, interlocking square panels.  Squat four-legged
+chairs with plush violet or indigo cushions are placed here and there
+throughout the circular library, with small redwood tables topped in
+surfaces no larger than a dinner plate.  Lamps are placed upon each table,
+casting a warm glow throughout the library suitable for reading in all hours
+in the night.  
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1025
+S
+#1027
+`eEntry Hall`n~
+This large hall opens up into the manor, hung with long black tapestries
+depicting a full red rose in bloom along the sides of the room in the
+opening hallway from the door.  The floors are made of polished dark wood,
+adorned with several round crimson carpets that are lined by silver threads
+along its length.  There are no chairs or other pieces of furniture in sight
+aside from this, however.  The hall is quite expansive in itself, with a
+tall ceiling that only seems to further add to its vast proportions.  On the
+eastern end is a large, bannistered stairway, leading upwards and taking up
+the majority of that portion of the room.  To the north is a large, rather
+heavy door, and southwards is a hallway that seems to branch off into
+another room or set of rooms.  
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1028
+D2
+~
+~
+1 0 1031
+S
+#1028
+`eSitting Room`n~
+The walls here are draped with very thick green velvet to drown out the
+sounds of the rest of the manor, and the room is rather spartanly decorated
+aside from this.  A few polished wooden chairs without cushions rest in a
+circle, a large oaken table in their midst likewise polished, and a circular
+rug depicting a black rosebud completes the ensemble.  To the south leads a
+door to the manor, and to the east is the Centro Comercial Gonsales.  
+~
+0 8 0
+1
+0 0
+D1
+~
+~
+1 0 1030
+D2
+~
+~
+1 0 1027
+D5
+~
+~
+1 0 1029
+S
+#1029
+#eWine Cellar#n~
+This large room once served as a wine cellar, apparently, but all the
+racks have been cleared out, leaving a large open space.  This space has
+been furnished by several lanterns upon the walls, sparsely illuminating the
+room.  It doesn't seem to be used for much, but there is a stack of chairs
+in the corner should those be necessary.  
+`n
+#C(#WOOC: You must have IC permission to know that the door to the west even 
+exists.#C)#n
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1032
+D4
+~
+~
+1 0 1028
+S
+#1030
+`GC`gentro Comercial Gonsale`Gs (`gAvg NPCs`G:`g 15`G)`n~
+As one passes into this portion of the building, one's senses fall under
+veritable assault.  Exotic scents including various spices and other such
+things permeate this large trade center, and the sheer variety of goods and
+their hues makes its own impression upon the eyes.  Cloth, shimmering or
+plain, of nearly every dyable hue is present, though if there is silk about,
+it's not set out in the open for obvious reasons.  Large tables covered in
+deep green cloth are set up all over the room, but in strategic enough
+fashion to allow walkways throughout the various goods laid out for display.
+There are small pouches of spices, rolled up lengths of cloth, carpets,
+hand-made goods of local origin or otherwise, bowls, dishes, and all sorts
+of clothes laid out on top of these tables, as well as assorted other items.
+This assortment of goods takes up a large portion of this quite expansive
+space, but not all.  Along the southern wall runs a wide, well-polished
+counter, behind which generally stands a tall, rather slim man clad well and
+wearing a wide hat, who seems to be the one to haggle with customers over
+purchases.  At the entrance to the north is a stool, upon which is seated a
+tall, quite large man, with a club at his side and a knife at his belt. 
+Obviously, this bruiser is security.  
+`n
+`w((`COOC`w:`C You must request or have IC Permission to travel west`w))`n
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1028
+S
+#1031
+#cTraining Room#n~
+This room is quite simply a large, empty space at its heart, except for a
+few racks of wooden weapons along one of its walls that are obviously
+intended for training.  That aside, however, there is nothing particularly
+notable about it, except that the floor seems to see a lot of friction,
+being as worn as it is.  
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1027
+S
+#1032
+#oAn Earthen Room#n~
+This room's walls are composed of tightly packed earth, covered in stone
+and supported by beams of wood.  A pair of beds are packed in the southern
+corners of the small room, which is dimly illuminated on a whole by a single
+lantern that hangs from the ceiling.  Maps of various places cover the
+walls, and there is a table off to one side, with a pair of chairs next to
+it.  
+~
+0 8 0
+1
+0 0
+D1
+~
+~
+1 0 1029
+S
+#1033
+`yRuins of Cordoba`n~
+The street is hardly paved at all in this section of Cordoba, and rubble
+blocks off several small alleyways.  Most of the buildings are either
+reduced to piles of rubble or are missing walls or roofs.  Some of these
+ruins must have been here for hundreds of years and date back to the Roman
+era, but most are simply the remnants of libraries, mosques or homes that
+were razed more recently when the Christian forces conquered the city.  To
+the east is the remains of an archway that led into what looks to be the
+ruins of a Roman villa.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 14141
+D2
+~
+~
+0 0 1034
+S
+#1034
+`yRuins of Cordoba`n~
+The street is hardly paved at all in this section of Cordoba, and rubble
+blocks off several small alleyways.  Most of the buildings are either
+reduced to piles of rubble or are missing walls or roofs.  Some of these
+ruins have been here for hundreds of years and date back to the Roman era,
+but most are simply the remnants of libraries, mosques or homes that were
+razed more recently when the Christian forces conquered the city.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 1033
+D1
+~
+~
+0 0 1037
+D2
+~
+~
+0 0 1035
+S
+#1035
+`yDead End in the Ruins`n~
+The hardly paved street comes to a flat dead end in this ancient, rubbled
+area of Cordoba.  Most of the buildings are either reduced to piles of 
+rubble or are missing walls or roofs.  Some of these ruins have been here 
+for hundreds of years and date back to the Roman era, but most are simply 
+the remnants of libraries, mosques or homes that were razed more recently 
+when the Christian forces conquered the city.  There looks to be a small 
+space between pieces of rubble that one might be able to squeeze through 
+to the west - the old collapsed arch of an alley.
+`n
+`w((`CYou must be under 5'2" and 130 lbs to fit through the rubble and travel west`w))`n
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1036
+S
+#1036
+`yBroken Alley`n~
+The street tapers off into a narrow, barely standing alleyway that looks
+to have been once a wide, spacious place between two lavish stone 
+structures. Rubble is piled unceremoniously so as to block the vast
+majority of people who may decide to attempt trying from getting through.
+At the very end of the alley, blocking off the western end, appears to
+be the backend of a relatively strong structure. A new looking lock is 
+upon the door. 
+`n
+`w((`CYou must have `wIC`C permission or `wrequest`C to enter the door west`w))
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 1035
+D3
+~
+~
+1 0 1013
+S
+#1037
+`yInside a ruined mosque`n~
+This appears to be the desecrated remains of a once spectacular mosque;
+massive domed ceilings with cracks and huge sections of the tiled mosiac
+missing span overhead, and would manage to keep the wind from sweeping what
+remains of the water destroyed old tomes and religious items that have not
+been looted or burned from being breezed away, were it not for the two
+missing walls.  The still standing walls are managing to do so by sheer
+luck, and every now and again a bit of stone falls crashing to join the rest
+of the debris upon the floor.  There is a mass of debris, dust and broken
+mosaic pieces spread upon the floor.  
+ 
+ 
+#w((#CYou must have IC permission to travel down, or even know that the down exit exists.  If you have Auspex 4, you may see through the illusion hiding the trapdoor but you don't automatically know it is there.#w))#n
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+0 0 1034
+D5
+~
+~
+1 0 1038
+S
+#1038
+`eA Hidden Sanctuary`n~
+What would appear to have been an underground storage cellar for some
+trade good or another, has been widened in both length and width, expanded
+and reinforced with the sound strength that can be found in the support of
+carved rock.  In the center of the room is a table of decent size, nothing
+elegant, but well-fashioned in order to serve a purpose, surrounded with no
+less than six chairs, each crafted in the same manner as the table to which
+they grace.  Against the farthest wall of this dim room are four beds, each
+looking to be covered with the bare minimum in the way of sheeting and
+comfort, but with enough to bring a sound sleep.  Hanging on the eastern
+wall are an assortment of various spears, six to be exact, most still
+holding a gleam that would tell the tale of having never been used, or at
+least, having not taken worse for the wear of it all.  On each wall is a
+single torch, all of them flickering in a silent vigil, and giving forth
+enough light by which to see with ease.  There is a magnificent and unusual
+`wblossom`n sitting upon the table.
+~
+0 8 0
+1
+0 0
+E
+blossom~
+Resting upon the wooden table is a single rose, though quite far from
+anything that the nature of this world could ever produce without help. 
+Each petal of the blossom holds the hue of tainted blood, so dark and rich
+in shade that it would seem near black in the dim light.  Criss-crossing
+through the width of the delicate bloom are an assortment of various dew
+drops, all glimmering with a myriad of shifting and swirling colors, giving
+the impression of an intricate and arcane starscape, spread about the velvet
+pitch of a clear night's sky.  The stalk is a verdant green, long and
+slender, and laced with a length of sharp thorns, looking dangerous, but
+dull to the touch, each tipped with a vermillion stain.  The entire work of
+art is laden with the faint smell of a summer meadow, hinting at the scent
+of both vanilla and apple, an intoxicating combination of fragrant
+exhiliration.  A closer look at the stem would reveal a string of flowing
+and elegant text, inscribed in gold, "A symbol of love undying, a rose that
+will not ever wither, no matter the weather - Gareth Winchester."  
+~
+D4
+~
+~
+1 0 1037
+S
+#1236
+~
+~
+0 4 0
+1
+0 0
+S
+#1322
+~
+~
+0 4 0
+1
+0 0
+S
+#1323
+~
+~
+0 4 0
+1
+0 0
+S
+#1401
+#RLa Puta Este#n~
+This is the entryway to what appears to be a mid-to-high class brothel. 
+The decor shows a predominance of red and velvet.  Seated here to welcome
+guests and perhaps to escort out unruly ones is a large moorish gentleman
+who has a heavy cudgel at the ready.  #C(Do not enter the door to the south
+without a request or a standing invitation)#n 
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+0 0 1402
+S
+#1402
+#RA Parlor in a Brothel#n~
+This is a large parlor with comroftable furniture to sit in, or lounge
+provocatively on; depending of course if you are a customer or employee. 
+The decor is predominantly red and velvet oriented.  There are wide,
+shuddered windows that, when open, allow cool breezes in from the east, and
+also allow employees to display their wares for those on the street.  
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1401
+D3
+~
+~
+1 0 1403
+S
+#1403
+#RA Hallway in a Brothel#n~
+This is a long hallway, starting here and stretching the remaining length
+of the building.  There are eight doors on either side of the hallway.  At
+the far end of the hallway you see a cleverly built wooden stairway
+spiraling down to the lower level.  
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1404
+D1
+~
+~
+1 0 1402
+D2
+~
+~
+1 0 1405
+S
+#1404
+#RMadam's Room#n~
+This is the Madam's room, set up for sleeping more than other activities.
+There is a desk to the side where business records are kept.  It is arranged
+more for comfort than seduction.  
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1403
+S
+#1405
+#RA Courtesan's Room#n~
+This room is where a lady of the evening both lives, and works.  The
+decor reflects the general nature of such places, creating a private
+sanctuary of seduction.  
+~
+0 8 0
+1
+0 0
+D0
+~
+~
+1 0 1403
+S
+#1406
+#BThe Gentleman's Society#n~
+This is a large room, filling up nearly the entire first floor of this
+building.  Toward the back there is an elegant spiral stairway that goes up,
+probably to the brothel above.  This room however is most interestingly
+furnished.  There is a long table, set up as if for meetings, perhaps even
+dining.  Racks of practice and real weapons line the hall, and a large space
+is set up in the middle, obviously as a dueling area.  There is a door in
+the west wall, near the staircase, obviously a private room.  
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1407
+S
+#1407
+#BOrtiz's Room#n~
+This is a comfortably set up room, from the martial decor and mementos
+displayed, it is obviously the room of the famous swordsman Ortiz.  
+~
+0 8 0
+1
+0 0
+D1
+~
+~
+1 0 1406
+S
+#1408
+#GThe Scriptorium#n~
+You see the busy disorder of a large scriptorium that fills most of the
+basement of this building.  The stone walls reduce the risk of fire,
+nevertheless, the lamps and candles are shielded behind glass.  Worktables
+for scriveners, illuminators, and binders abound.  Perhaps as many as a
+score could work here at one time.  In the west wall is a heavy iron-bound
+door that obviously guards something precious.  
+~
+0 8 0
+1
+0 0
+D3
+~
+~
+1 0 1409
+S
+#1409
+#GThe Library#n~
+What more appropriate treasure than the many books which the scriveners
+and illuminators use for their work.  Books on almost every conceivable
+subject fill the shelves which cover the walls.  A carefully crafted
+#pportrait#n of a dark-haired, English beauty is hanging on one wall.  On
+another wall is an elegant #ppainting#n of Cordoba as viewed from El Puente
+Romano.  Studded around the room are flickering #ylamps#n.  
+~
+0 8 0
+1
+0 0
+E
+portrait~
+A small figure sits comfortably upon a chair within this beautiful
+portrait.  Dark hair rolls down in curls around the young woman's face,
+framing it and providing a nice contrast to the cream-coloured skin.  Her
+rose coloured lips are pressed together in a gentle smile, though her hazel
+coloured eyes hint at a lingering sadness.  She's wearing a beautiful lace
+shawl over a pink blouse.  Skirts with many petticoats cover her legs, and
+almost the black boots she wears on her feet as well.  She wears a wooden
+cross and silver pendant around her neck, as well as a leather bracelet
+burnt with cross and rose vine markings around her left wrist.  So real, one
+may think they see the woman breathing.  #p(5 successes)#n 
+~
+E
+painting~
+A breath-taking sight is in store for the person who views this painting.
+It is painted from the viewpoint of standing upon an elegant Roman bridge,
+that extends ahead and into the familiar skyline of Cordoba.  The Mezquita
+is highly visible, standing proudly among the other buildings and disrupting
+the view of serene white clouds floating across the tranquil blue of the
+sky.  The sun sits idly in the sky, brightening the world with its warm
+glow.  This entire view can be seen reflected in the water flowing beneath
+the bridge.  Well, that is not precisely right.  Looking closer at the
+painted reflection, one notices it appears to be Cordoba at night.  Thus
+both Cordobas, day and night, sit side by side.  #p(5 successes)#n 
+~
+D1
+~
+~
+1 0 1408
+S
+#1410
+#GSecret Room#n~
+The walls are solid stone blocks with no doors or windows present.  Part
+of this room is set up as an occult library, part as an arcane laboratory. 
+How the owner enters and exits is a mystery.  There MUST be a hidden door!  
+~
+0 12 0
+1
+0 0
+S
+#1411
+#oFine Leather Goods#n~
+This room is filled with the pungent scent of new leather.  There are
+worktables about upon which leather pieces of various sizes and colors are
+being worked, stretched, or stitched together.  A long counter is here
+behind which the proprietor usually stands, the door to the back is closed,
+but even so, there is a pungent whiff from the tanning vats.  
+~
+0 8 0
+1
+0 0
+D2
+~
+~
+1 0 1412
+S
+#1412
+#oThe Tannery#n~
+This fenced in yard has a lean-to stretching the length of the shop under
+which leather pieces can hang to dry.  Several vats are here, smelling of
+the noxious substances used to tan leather.  Only the fact that it is open
+to the air makes the atmosphere here bearable.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 1411
+S
+#1413
+#PThe Trinket Box#n~
+Upon entering this brightly lit room, your senses are bombarded with
+different smelling spices: jasmine, gardenia, frankincense, sandalwood; all
+giving the room a very warm feel.  Looking around you will first notice that
+along the walls there are many different candelabras with thick tallow
+candles that vary in side, and which also help to give this room a feeling
+of warmth and comfort.  While there is a lot going on in this little room,
+it does not appear cluttered.  There are shelves with neatly-folded bolts of
+both mundane and exotic fabric: cotton, muslin, brocades, and finely spun
+wool.  A medly of both exotic and mundane colors clash and meld in a bright
+display.  Along one wall are clay pots filled with dried herbs and small
+ornate bottles of bath salts and oils.  On another wall are pegs from which
+dangle necklaces, bracelets, rings, and earrings.  Brightly colored glass
+jewelry pieces stand out, reflecting and refracting the light of the
+candles, that same light gleaming off gold, silver, and other metals.  In
+the far corner there is a large table with a sewing basket placed carefully
+on it, and there seems to be a work in progress set out on display.  A
+doorway is set in the back of the shop, and there is a set of stairs going
+to an upper floor.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 1414
+D4
+~
+~
+0 0 1415
+S
+#1414
+#POffice#n~
+Entering the back room of the store, there is a quaint little office set
+up with a large, dark wooden desk set off to the back of the room with
+parchments and account books strewn across it, as well as an abacus off to
+one side.  At the corners of the desk are two iron candle holders that stand
+about a foot above the desk to shed proper lighting on it.  This room is
+rather quaint compared to the storefront.  On the shelves are little
+knicknacks that the owner must have taken an interest in, decorating and
+personaizing the room.  There is a scent of jasmine in the air, curling from
+an incense pot in one corner of the room.  At the front of the desk are two
+stiff-backed wooden chairs for patrons to use while carrying out
+transactions with the owner.  A slightly more comfortable chair is behind
+the desk.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 1413
+S
+#1415
+#PSitting Room#n~
+A good-sized, simple, sitting room; three of the walls in this room are
+lined with books, and manuscripts.  The fourth has a large fireplace with a
+family portrait that hangs just above it.  Though the room is well lighted,
+there is a kind of stiffness to it.  The rugs all seem to run a dark red
+color, and even though they are supposed to ward off the chill, aided by the
+fire, they don't seem to be of much help.  In this room there are several
+stiff-backed dark wooden sitting chairs with red velvet seats and minimal
+padding.  Off to one side there is a pier dieu with a wrought iron cross in
+front of the altar, and a prettily embroidered altar cloth that looks to
+have had many hours spent on it.  There is one chair, a little more
+comfortable, but not by much, which is set by the fire.  An embroidery hoop
+and stand is next to it.  There is a doorway to the east and a set of stairs
+that goes down.  
+~
+0 4 0
+1
+0 0
+D1
+~
+~
+1 0 1416
+D5
+~
+~
+0 0 1413
+S
+#1416
+#PBedroom#n~
+A sprawling room, much like the rest of the house, which is light and
+airy, with a wooden floor in light oak, polished to a shine.  In the center
+of the room is a large, light-colored Persian rug and a huge,
+ornately-carved, four-poster oak bed with dense white silk-like drapes that
+are tied back with thick, royal blue cords.  The bed itself is plush, with a
+thick down mattress, covered with a soft, dark-blue woolen comforter that
+has been spun so fine, it feels like cashmere to the touch.  There are
+various crisp white, lacy pillows that are also strewn at the head of the
+bed, and a thick wolfskin blanket that is folded neatly at the foot.  Though
+there is a window in this room it is shuddered closed and covered by thick,
+blue-velvet drapes with tiny gold fleur-de-lis embroidered on them.  On each
+wall there is set a three tier candelabra with heavy tallow candles on them.
+Also, strewn across the floor, there are various wrought-iron candleholders
+that add to the general illumination.  Near the door there is a heavy oak,
+full-sized mirror and armoire with the same ornate carvings as the bed.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 1415
+S
+#1508
+~
+~
+0 4 0
+1
+0 0
+S
+#1517
+~
+~
+0 4 0
+1
+0 0
+S
+#1802
+#GB#eehind the #GW#eall~
+With the phase spoken the brick passage magically tears itself apart and
+opens up a path into the Hedge.  The Hollow is a massive cave lite by a
+great many blue phosphorescence mushrooms.  Tangled in between them are
+dangling fruits that glow with a deeper green color.  Thin figures, Hobs,
+dart around the cave making the place clearly their home.  Along the back
+wall of the cave is a villa made of similar stone to the rest of the cave. 
+Inside the building the spacious den is comfortably furnished.  A single
+room stretches off to the back which serves as the master of the villa's
+bedroom.  A staircase leads down below the villa to The Archive.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+0 0 18301
+D5
+~
+~
+0 0 1803
+S
+#1803
+#GT#Ehe #GA#erchive~
+This massive chamber is filled with rows and rows of bookshelves all
+filled with old dusty tomes and rolled up scrolls.  The soft light in the
+area seems to spring from small ever burning candles attached to the sides
+of the bookshelves.  A railed pathway leads from the stairs to the center of
+the room where a dais sits, once more walled with rails.  On the opposite
+side of the dais is a podium, where one of the slender hobs sits waiting for
+the Masters request.  This hob however looks a great deal older and wiser
+than the one who wander the cave above.  
+~
+0 0 0
+1
+0 0
+D4
+~
+~
+0 0 1802
+S
+#1817
+~
+~
+0 4 0
+1
+0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1000 2 1
+D 0 1001 0 1
+D 0 1002 0 1
+D 0 1003 0 1
+D 0 1003 1 1
+D 0 1003 2 1
+D 0 1003 3 1
+D 0 1004 0 1
+D 0 1004 2 1
+D 0 1005 0 1
+D 0 1008 3 1
+D 0 1009 2 1
+D 0 1010 2 1
+D 0 1011 1 1
+D 0 1011 4 1
+D 0 1012 5 1
+D 0 1013 1 1
+D 0 1013 4 1
+D 0 1014 5 1
+D 0 1016 0 1
+D 0 1016 1 1
+D 0 1017 2 1
+D 0 1018 0 1
+D 0 1018 1 1
+D 0 1018 2 1
+D 0 1018 3 1
+D 0 1018 5 1
+D 0 1019 4 1
+D 0 1020 2 1
+D 0 1021 3 1
+D 0 1022 0 1
+D 0 1023 0 1
+D 0 1023 5 1
+D 0 1024 2 1
+D 0 1025 0 1
+D 0 1025 4 1
+D 0 1026 2 1
+D 0 1027 0 1
+D 0 1027 2 1
+D 0 1028 1 1
+D 0 1028 2 1
+D 0 1028 5 1
+D 0 1029 3 1
+D 0 1029 4 1
+D 0 1030 3 1
+D 0 1031 0 1
+D 0 1032 1 1
+D 0 1036 3 1
+D 0 1037 5 1
+D 0 1038 4 1
+D 0 1402 0 1
+D 0 1402 3 1
+D 0 1403 0 1
+D 0 1403 1 1
+D 0 1403 2 1
+D 0 1404 2 1
+D 0 1405 0 1
+D 0 1406 3 1
+D 0 1407 1 1
+D 0 1408 3 1
+D 0 1409 1 1
+D 0 1411 2 1
+D 0 1412 0 1
+D 0 1413 1 1
+D 0 1414 3 1
+D 0 1415 1 1
+D 0 1416 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

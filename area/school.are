@@ -1,0 +1,2498 @@
+#AREADATA
+Name        Intro and Classing~
+Builders    Diku~
+VNUMs       3700 3760
+Security    1
+End
+
+
+
+#MOBILES
+#3700
+acolyte cleric~
+a black robed cleric~
+A black robed cleric is here, grinning at you.
+~
+He is big and bad.  Don't mess with him.
+~
+67 136 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3701
+blob~
+the blob~
+The blob is here, waiting to eat you up.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+67 8 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3702
+monster~
+the monster~
+There is a monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+3 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3703
+monster wimpy~
+the wimpy monster~
+There is a wimpy monster leashed here.
+~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+131 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3704
+monster aggressive~
+the aggressive monster~
+There is an aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+35 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3705
+monster wimpy aggressive~
+the wimpy aggressive monster~
+There is a wimpy aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+163 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3706
+big creature~
+the big creature~
+There is a big creature hulking over your form.
+~
+He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+3 512 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3707
+adept cleric~
+A member of the #eDark Tide#n~
+A member of the #eDark Tide#c is here, contemplating your progress.#n
+~
+He is big and bad.  Don't mess with him.
+~
+67 136 0 S
+34 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3709
+rabbit~
+the rabbit~
+A rabbit is bouncing around here.
+~
+The rabbit smiles at you, completely harmless!
+~
+262337 0 0 S
+9 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3710
+lizard~
+the lizard~
+A lizard slithers up to you.
+~
+It smiles at you, and tries to eat your leg.
+~
+262209 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3711
+boar~
+the boar~
+A boar tries to run you over.
+~
+It grunts at you.
+~
+262209 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3712
+fox~
+the fox~
+A fox is here staring at you.
+~
+His fur might be worth money.
+~
+262337 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3713
+snail~
+the snail~
+A snail is trying to get out of your way.
+~
+You don't see much but slime about it.
+~
+262209 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3714
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+262241 0 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3715
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+262209 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3716
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+262209 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3717
+adept cleric~
+a black robed cleric~
+A black robed cleric is here, grinning and selling you things.
+~
+He is big and bad.  Don't mess with him.
+~
+67 136 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3718
+cleric~
+a black robed cleric~
+A black robed cleric is here, training young students.
+~
+He is big and bad.  Don't mess with him.
+~
+579 136 0 S
+28 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3719
+priest cleric~
+a black robed cleric~
+A black robed cleric is here, teaching the art of war to young students.
+~
+He is big and bad.  Don't mess with him.
+~
+1091 136 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3720
+beast~
+the diploma beast~
+The hideous diploma beast is here, holding your graduation present!
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+3 512 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#3721
+wraith~
+the wraith~
+A wraith haunts this area. He is here to help you.
+~
+He is the spirit of a once-mighty Cainite, who was forced by Caine
+to repent his sins after death by helping wayward travelers for a
+hundred and one years, after which time his soul will be allowed
+eternal peace.
+ 
+He can conjure up sub-issue vests, swords, daggers, maces, shields,
+and war banners.
+~
+3 16936 0 S
+24 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+#0
+
+
+
+#OBJECTS
+#3700
+mace~
+a sub issue mace~
+You see a sub issue mace here.~
+~
+5 64 8193
+0 6 3 7
+5 0 0
+A
+19 1
+A
+18 1
+#3701
+dagger~
+a sub issue dagger~
+You see a sub issue dagger here.~
+~
+5 64 8193
+0 4 1 11
+5 0 0
+A
+19 1
+A
+18 1
+#3702
+sword~
+a sub issue sword~
+You see a sub issue sword here.~
+~
+5 64 8193
+0 6 3 3
+5 0 0
+A
+19 1
+A
+18 1
+#3703
+vest~
+a sub issue vest~
+You see a sub issue vest here.~
+~
+9 0 9
+1 0 0 0
+5 0 0
+#3704
+shield~
+a sub issue shield~
+You see a sub issue shield here.~
+~
+9 0 513
+2 0 0 0
+5 0 0
+#3705
+cloak~
+a sub issue cloak~
+You see a sub issue cloak here.~
+~
+9 0 5
+2 0 0 0
+5 0 0
+#3706
+oakland baseball cap newbie~
+an Oakland A's baseball cap with some noticeable weathering~
+An Oakland A's baseball cap with some noticeable weathering rests here.
+~
+~
+9 0 17
+2 0 0 0
+5 0 0
+#3707
+leggings~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+~
+9 0 33
+2 0 0 0
+5 0 0
+#3708
+shoes~
+a pair of sneakers~
+A pair of sneakers sit here
+~
+~
+9 0 65
+2 0 0 0
+5 0 0
+#3709
+gloves~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+~
+9 0 129
+2 0 0 0
+5 0 0
+#3710
+sleeves~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+~
+9 0 257
+2 0 0 0
+5 0 0
+#3711
+cape~
+a sub issue cape~
+You see a sub issue cape here.~
+~
+9 0 1025
+2 0 0 0
+5 0 0
+#3712
+belt~
+a sub issue belt~
+You see a sub issue belt here.~
+~
+9 0 2049
+2 0 0 0
+5 0 0
+#3713
+bracer~
+a sub issue bracer~
+You see a sub issue bracer here.~
+~
+9 0 4097
+2 0 0 0
+5 0 0
+#3714
+key~
+a key~
+You see a very important key here!~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#3715
+diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+~
+8 64 16385
+0 0 0 0
+1 0 0
+#3716
+banner~
+a war banner~
+A war banner is on the floor here.~
+~
+1 65 1
+0 0 -1 0
+1 0 0
+A
+17 -1
+A
+24 -1
+#0
+
+
+
+#ROOM_V1
+#3700
+Welcome to Penny Dreadful MUD~
+#n
+#c,-------------------------------------------------------------------------.#n
+#c|#n Welcome to Penny Dreadful, a modern Changeling: the Lost (1st Edition)  #c|#n
+#c|#n MUD set in London, England. We accept mortals as alternatives to        #c|#n
+#c|#n Changelings, but do not support and will not be opening access to other #c|#n
+#c|#n supernatural classes. This is an RP-enforced, non-consent game with     #c|#n
+#c|#n permanent death.                                                        #c|#n
+#c|#n                                                                         #c|#n
+#c|#n If you're brand new, please take the time to visit our website, which   #c|#n
+#c|#n can be found at #Cpennydreadful.org.#n Character applications, the forums,  #c|#n
+#c|#n and the wiki are all found in one central hub.                          #c|#n
+#c|#n                                                                         #c|#n
+#c|#n To get help and ask questions, enter "#Chnet <text>#n". To contact the  #c|#n
+#c|#n Staff directly, enter "#Crequest <text>#n". You can turn hints off by       #c|#n
+#c|#n entering "channel -hint".                                               #c|#n
+#c|#n                                                                         #c|#n
+#c|#n This guide will lead you through the necessities and personalization    #c|#n
+#c|#n required of playing your first scene on Penny Dreadful. There will      #c|#n
+#c|#n always be more to learn, but we'll start you out with just the basic    #c|#n
+#c|#n requirements!                                                           #c|#n
+#c'-------------------------------------------------------------------------'
+#c|#C  Before you can play you must fill out a character application and be   #c|#n
+#c|#C  classed by a Storyteller. Approval should take no more than 24 hours.  #c|#n
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+977 0
+E
+Newbie~
+This is a test.
+~
+D0
+~
+~
+0 0 3701
+T
+>ENTER<~
+The spirit says 'Welcome to mud school, $n!'
+
+The spirit says 'If you need any help, just ask.'~
+copy~
+all~
+1048576 0 3721
+T
+&thank*spirit*~
+The spirit says 'You are welcome, $n.'.~
+copy~
+all~
+1048576 0 3721
+T
+|hello*hi *~
+The spirit says 'Hello there $n, can I be of service?.'.~
+copy~
+all~
+1048576 0 3721
+T
+|yes*~
+The spirit says 'Sorry $n but you'll need to be more specific.'.~
+copy~
+all~
+1048576 0 3721
+T
+|help*~
+The spirit says 'Look at me to see what I can do.'~
+copy~
+all~
+1048576 0 3721
+T
+&where*go*~
+The spirit says 'First you should go north through mud school.'.~
+copy~
+all~
+1048576 0 3721
+T
+&what*do*~
+The spirit says 'Just go north and follow the signs!'.~
+copy~
+all~
+1048576 0 3721
+T
+|mace*~
+The spirit says 'Here you go $n, maybe this mace will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this mace will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3700 3721
+T
+|dagger*~
+The spirit says 'Here you go $n, maybe this dagger will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this dagger will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3701 3721
+T
+|sword*~
+The spirit says 'Here you go $n, maybe this sword will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this sword will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3702 3721
+T
+|vest*~
+The spirit says 'Here you go $n, maybe this vest will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this vest will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3703 3721
+T
+|shield*~
+The spirit says 'Here you go $n, maybe this shield will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this shield will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3704 3721
+T
+|banner*light*~
+The spirit says 'Here you go $n, maybe this war banner will help!'.
+
+The spirit gives $n $p.~
+The spirit says 'Here you go $n, maybe this war banner will help!'.
+
+The spirit gives you $p.~
+all~
+1048608 3716 3721
+T
+|smurf*~
+The spirit says 'To get to the smurf village from recall,'.
+
+The spirit says 'Go 2 south, 3 west, and keep going north!'.~
+copy~
+all~
+1048576 0 3721
+T
+|gnome*~
+The spirit says 'To get to the gnome village from recall,'.
+
+The spirit says 'Go 2 south, 5 east, and then go south.'.~
+copy~
+all~
+1048576 0 3721
+T
+|shire*~
+The spirit says 'To get to the shire from recall,'.
+
+The spirit says 'Go 2 south, 5 west, and then keep going north.'.~
+copy~
+all~
+1048576 0 3721
+T
+|dwarven*drop*~
+The spirit says 'To get to the dwarven drop-off centre from recall,'.
+
+The spirit says 'Go 2 south, 6 east, 1 down, then go south.'.~
+copy~
+all~
+1048576 0 3721
+S
+#3701
+Personalization: Long Description~
+#n
+#c,-------------------------------------------------------------------------.
+#c|#n The first step is personalizing your character with both long and short #c|
+#c|#n descriptions. Your character's long description is what he or she looks #c|
+#c|#n like, and may include as much or as little detail as you wish. Typical  #c|
+#c|#n description lengths range from around 5 to 15 lines. Some do more, some #c|
+#c|#n do less. This is completely down to your preference.                    #c|
+#c|                                                                         |
+#c|#n As descriptions are static, things like emotions, actions, and facial   #c|
+#c|#n expressions shouldn't be included in them. The word "you" is also       #c|
+#c|#n frowned upon, as it typically leads to telling others how they perceive #c|
+#c|#n the character.                                                          #c|
+#c|                                                                         |
+#c|#n To set your long description, enter "#Cdesc edit#n". This will open an      #c|
+#c|#n editor, into which you will type or copy-paste your description. When   #c|
+#c|#n finished, enter @ on a blank line to exit the editor. You can check     #c|
+#c|#n yourself out with "look self!"                                          #c|
+#c'-------------------------------------------------------------------------'
+#c|#C  Command Summary: desc edit (#chelp desc#C)                                #c |
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+-1 -1
+D0
+~
+~
+0 0 3702
+D2
+~
+~
+0 0 3700
+S
+#3702
+Personalization: Short Description~
+#n
+#c,-------------------------------------------------------------------------.
+#c|#n Setting your short description is simple and straightforward. It should #c|
+#c|#n be no more than about 50 characters, and provide an "at a glance"       #c|
+#c|#n version of your character's appearance. Short descriptions display in   #c|
+#c|#n the room when a player types "look."                                    #c|
+#c|                                                                         |
+#c|#n To set your short description, use the "roomdesc" command. For example: #c|
+#c|#n "roomdesc a tall, pale-haired man with blue eyes".                      #c|
+#c|                                                                         |
+#c|#n Do not set punctuation on the end of your roomdesc. Punctuation will    #c|
+#c|#n interfere with other commands.                                          #c|
+#c'-------------------------------------------------------------------------'
+#c|#C  Command Summary: roomdesc <short desc> (#chelp roomdesc#C)#c                 |
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+-1 -1
+D0
+~
+~
+0 0 3703
+D2
+~
+~
+0 0 3701
+S
+#3703
+Personalization: Clothing~
+#n
+#c,-------------------------------------------------------------------------.
+#c|#n Customizing your character's clothing is a wonderful, though            #c|
+#c|#n technically unnecessary aspect of personalization. The clothes you      #c|
+#c|#n started with are perfectly acceptable for roleplay if you would rather  #c|
+#c|#n not change them. To wear your clothing, type "wear <keyword>".          #c|
+#c|                                                                         |
+#c|#n A quirk of game culture is having a 59-character short string on your   #c|
+#c|#n clothing descriptions. This is not required by any means, but generally #c|
+#c|#n speaking players make their clothing strings exactly 59 characters.     #c|
+#c|                                                                         |
+#c|#n To customize your clothing items you will use the restring command,     #c|
+#c|#n which supports three distinct uses: name, short, and long. "Name" as a  #c|
+#c|#n variable changes the item's keywords, "short" changes the way it looks  #c|
+#c|#n when worn or viewed in your inventory, and "long" changes the way it    #c|
+#c|#n looks when dropped on the ground.                                       #c|
+#c|                                                                         |
+#c|#n For example, if you had a tanktop you wanted to change to a tee shirt:  #c|
+#c|                                                                         |
+#c|#w restring#n tanktop #wname#n shirt                                             #c|
+#c|#w restring#n tanktop #wshort #na simple white tee shirt with a single pocket    #c|
+#c|#n on the breast                                                           #c|
+#c|#w restring#n tanktop #wlong#n A simple white tee shirt is in a pile on the      #c|
+#c|#n ground.                                                                 #c|
+#c|                                                                         |
+#c|#n The short is exactly 59 characters, and by changing the name from       #c|
+#c|#n tanktop to shirt the item can be manipulated using "shirt" instead of   #c|
+#c|#n "tanktop." If you drop it on the ground, it will look appropriate for   #c|
+#c|#n a shirt on the ground.                                                  #c|
+#c'-------------------------------------------------------------------------'
+#c| #C Command Summary: restring (#chelp restring#C)#c                              |
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+-1 -1
+D0
+~
+~
+0 0 3704
+D2
+~
+~
+0 0 3702
+S
+#3704
+Submitting an Application~
+#n
+#c,-------------------------------------------------------------------------.
+#c|#n If you haven't already decided, you should now determine whether you're #c|
+#c|#n going to play a Changeling or a Mortal. Both are highly valued, so      #c|
+#c|#n don't think you'll be missing out if you decide to start out with a     #c|
+#c|#n Mortal! Applications are browser-based, and can be found on the Penny   #c|
+#c|#n Dreadful website.                                                       #c|
+#c|                                                                         |
+#c|#n Mortal:#w     http://pennydreadful.org/mortal-application/                #c|
+#c|#n Changeling:#w http://pennydreadful.org/changeling-application/            #c|
+#c|                                                                         |
+#c|#n Once you have submitted your application, it wouldn't hurt to post a    #c|
+#c|#n Request board note to Staff. We receive them in our email accounts, but #c|
+#c|#n a note makes for a good reminder that we have applications pending. You #c|
+#c|#n can find the commands for sending notes in #Chelp board#n.                  #c|
+#c'-------------------------------------------------------------------------'#n
+#c|#C  If you're applying with a Changeling, continue west.                   #c|
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+-1 -1
+E
+sign~
+Just go east to the central room.
+~
+D0
+~
+~
+0 0 3706
+D2
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 3705
+S
+#3705
+Describing a Changeling~
+#n
+#c,-------------------------------------------------------------------------.
+#c|#n In addition to your long description and short description (visible to  #c|
+#c|#n non-Changelings), Changeling characters must set a long and short Mien  #c|
+#c|#n description in order to be visible to other Changelings.                #c|
+#c|                                                                         |
+#c|#n Mortals will see whatever you set for your long and short description.  #c|
+#c|#n Other Changelings will see your Mien long and short (including you, once#c|
+#c|#n you are classed as a Changeling).                                       #c|
+#c|                                                                         |
+#c|#n To set your Mien long description, use the "#Cmlongdesc edit#n" command.    #c|
+#c|#n This will put you into an editor, where you can type or copy-paste your #c|
+#c|#n Mien description. Enter @ on a blank line to exit the editor.           #c|
+#c|                                                                         |
+#c|#n To set your Mien short description, use the "#Cmiendesc <text>#n" command.  #c|
+#c|#n This works precisely the same as roomdesc, e.g. "miendesc A changeling".#c|
+#c|                                                                         |
+#c|#n You #Rwill not#n be able to set either mlongdesc or miendesc without        #c|
+#c|#n being set to a Changeling. You can either write them ahead of time for  #c|
+#c|#n input once you have been classed, or request of Staff to set your class #c|
+#c|#n for you now.                                                            #c|
+#c'-------------------------------------------------------------------------'
+#c|#C  Command Summary: mlongdesc edit, miendesc (#Chelp mien#c)                  #c|
+#c'-------------------------------------------------------------------------'#n
+~
+0 16396 10
+1
+-1 -1
+E
+sign~
+Just go north to the central room.
+~
+D1
+~
+~
+0 0 3704
+S
+#3706
+Final Touches~
+#x
+#c,-------------------------------------------------------------------------#c.
+#c|#w surname #C -#n Set your character's surname.                                #c|
+#c|                                                                         #c|
+#c|#w voice  #C  - #nSet your voice before making or receiving phone calls. Your  #c|
+#c|            #nvoice will display to the person on the line.#c (help voice)   #c|
+#c|                                                                         #c|
+#c|#w ringtone #C- #nSet your ringtone to whatever you like. It will pop up when  #c|
+#c|            #nyou receive a phone call. #c(help ringtone)                    #c|
+#c|                                                                         |
+#c|#w doing  #C  -#n Your doing appends a short description to the end of your    #c|
+#c|            #nroomdesc, and is a good hook for others. #c(help doing)        #c|
+#c|                                                                         #c|
+#c|#w lights  #C -#n Use your light object by holding it. Some rooms are dark.    #c|
+#c|            #nYou will need a light to see!                                #c|
+#c|                                                                         #c|
+#c|#w remember #C- #nWhen you meet someone new, remember them! It will store the  #c|
+#c|            #nname and help you identify them later. #c(help remember)       #c|
+#c'-------------------------------------------------------------------------#c'
+#c|#C  If you've submitted an application, Staff will get to you ASAP!        #c|
+#c'-------------------------------------------------------------------------#c'#n
+~
+0 16388 0
+1
+-1 -1
+D2
+~
+~
+0 0 3704
+S
+#3707
+#bPicking a Class and Getting Approved#n~
+You may pick from a selection of classes on CbN, these being Mortal,
+Mortal+, Vampire, and Mage. If you are new to White Wolf, the concept 
+of table-top, MUDs in general, or even CbN itself, it is strongly 
+recommended that you create a mortal to get used to the unique system.  
+When filling out your application and background, please be sure and 
+check the House Rules. At this time, if you have any questions, 
+please feel free to send a request to the Staff or to ask on the OOC 
+channel. 
+#n
+#bHouse Rules:#n 
+http://cityofserenity.netfreehost.com/viewtopic.php?t=2177
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+Just go up to the central room.
+~
+S
+#3708
+More on Classes~
+There is no automatic classing on Amaranth, Rather you must RP.  For
+Vampires you must Rp your Embrace with a member of the clan you wish to
+enter.  The leaders of the clan you wish to enter may request a background
+from you, but they won't always.  Also clans may be closed to new entries,
+be sure to ask ooc.  It is a good Idea to change your title to something
+like 'Seeks Gangrel' to make the others aware of your intrest.  For Garou,
+refer to #rhelp seeking#n.  Once approved, you are required to Rp with the
+Garou, and obtain three good reviews before Rping your First change.  Again
+once your Background is approved, it is a good Idea to change your title e. 
+G 'Seeking Garou'.  For daemons you are refered to #Rhelp deseek#n, Again
+after approval your title can help you make contact with other daemons.  The
+next room.  In this Hallway will direct you to class specific hallways to
+give you an Idea of the societies of the three main classes, and offer a
+little on their general attitudes to help you choose a suitable Clan, Ilk or
+Tribe for your character.  
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+Just go down to the central room.
+~
+D0
+~
+~
+0 0 3709
+S
+#3709
+The Classes~
+These hallways will show you to specific and more detailed information on
+the three main classes.  West will teach you of the Daemons North the
+Vampires and East the Werewolves.  
+ 
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+D0
+~
+~
+0 0 3712
+D1
+~
+~
+0 0 3714
+D2
+~
+~
+0 0 3708
+D3
+~
+~
+0 0 3710
+S
+#3710
+Daemons~
+Welcome to the Information room on the Daemon Class. There are currently 5 Daemon Ilks available to be classed in, they are as follows:
+Djinn, Daimone, Diabolos, Draenor and Rakshasas. First and foremost we follow the information created by Frank Torkel (with his permission of course) called Daemon 3rd Edition. There is a pdf that can be downloaded for free available on the internet, its address will follow this information. We HIGHLY suggest you read it to see which Ilk would best suit you. Daemon is a "restricted class" which means there are rules and guidelines to playing one.
+If you do not think you can handle not running around killing when the urge strikes you, you do not want this class. NOTE: Ilk Draenor CANNOT be found in the Daemon 3rd Edition, it was created by one of the Implementors here, Kairn, and is run exclusively by Him and He has His own standards for this Ilk, you should note Him if you are interested in that particular Ilk.
+For more information of Daemons, their descriptions, game systems, etc.. Please go to the following address:
+http://www.mendax.org/daemon/
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D0
+~
+~
+0 0 3711
+D1
+~
+~
+0 0 3709
+S
+#3711
+Daemons~
+The Daemons as stated, have five Ilks available to play. Each have been blessed by Lucifer with unique boons, each have differing attitudes and each now battles with the others, to gain advantage in the war for control of hel. This room will give you a little information on the Ilks. But the link in the previous room will detail a lot more. You are Reminded that Draenor are enterily Amaranth's own creation, any questions you have on that Ilk, you can place in a personal board note to Kairn.
+ 
+Draenor, while still of substance and usually definate shape, are creatures of pitch-black shadow or, in rare cases where the Lumen Boon is primary, shimmering light. Honourable to the last, they are thoroughly loyal to each other, their Overlord, and Hel itself. While from another realm entirely, they have adapted quite well since their arrival. They have remained in Hel, save for a short exile to Heaven, where the Overlord, Kairn, rediscovered his direct angelic blood.
+Daimone: Manipulators of humankind, the Daimone dream of a day where they may once again masquerade as demi-gods to the naive humans.
+Diabolos: These strange creatures mastered the Umbra even before the Fallen Angels came to Hel. Native to Hel, the Diabolos were mutated into Daemons by the powers of Lucifer himself.
+Djinn: Jinni's and tricksters that live in the desert, fooling mortals wherever they go. These pranksters mock Daemon society, respected only because their elders control vast armies of souls.
+Raksasas: These monstrosities are prime evil, twisted by their own powers. The Raksasas are known for their foolishness, yet known for their rage in battle as well.
+ 
+You are reminded, that Daemons are a restricted class, Please look at help #RDeseek#n to see what is asked of someone wishing to be in this class.
+'
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+D0
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3710
+S
+#3712
+Vampires~
+The Vampires have 16 Clans available to play.  Each created by or in
+certain cases the destruction of an Antediluvian this room will describe a
+little of the attitudes of the clans, more detail can be found by visiting
+http://www.  Cox-internet.  Com/amaranth.  #rAssamite.  #n Murder is their
+business and they complete their task with the utmost skill.  They are
+honor-bound to each other, however, and those foolish enough to anger an
+Assamite rarely see their next night.  #yBaali#n They believe that they will
+be rewarded for their loyalty by their dark masters.  They are committed to
+evil in order to provide their lords more souls for their armies. 
+#rBrujah#n They are warrior-scholars who will rally together for any just
+cause.  They are quick to anger and quick to act.  #yCappadocian#n Death,
+they believe, is not the end of existence but merely an evolution.  As they
+do not care for earthly power or materials, they are often trusted advisors
+in the court of many princes.  #rGangrel#n They spurn civilization,
+preferring to wander the wild close to nature.  Few creatures know the
+intricacies of the wilderness like the Gangrel do.  #yLasombra#n They are
+believers in Divine Right and rule of the superior, and they, or so they
+believe, are superior.  #rMalkavian#n Every Malkavian is irredeemably
+insane.  Their mad visions, however, bear a kind of otherworldly insight
+that can not be ignored.  #yNosferatu#n They are masters of stealth, and
+many survive by trafficking information.  No one knows the hidden catacombs
+and dungeons of the world like the Nosferatu do and no one ever will. 
+#rRavnos#n Vampires, the Ravnos believe, are large stores of trapped weig
+and must be destroyed in order to release it.  Viewed as tramps and thieves,
+the Ravnos live as their gypsy brethren do.  #ySalubri#n Once prized for
+their powers of healing, they have become the hunted.  Their vast armies of
+Paladins nearly decimated in their war against the Baali, their founder,
+Saulot, slain by Tremere to gain power.  The Salubri now live each day in
+fear, never knowing how many of their clan mates are left.  #gSalubri
+backgrounds must be sent to and approved by Sala.  #n #rFollowers of Set#n
+The serpents are the masters of desire and pleasure, using these to corrupt
+Cainite and Kine alike.  These Egyptian Cainites fulfill their task with
+religious zeal, worshipping their founder as the one true omnipotent being. 
+#yToreador#n The Toreador are devoted to beauty in all its forms. 
+Preserving and creating beauty is their purpose for existence and they
+devote their vampiric unlives and senses to this.  #rTremere#n They were
+once a part of the Order of Hermes, a cabal of mortal mages.  Tremere became
+obsessed with immortality, however, and through several experiments, he
+invented a potion to turn him and his seven closest followers into Cainites.
+#yTrue Brujah#n During the time of the Second City, Brujah was diablerized
+by Troile, his rash and aggressive childe.  She formed the clan known as
+Brujah, but some of Brujah's origional childer remained.  These childer are
+the True Brujah.  They are the opposites of those of Troile's Brujah, as
+they are emotionless and observant, where the Brujah are ruled by their
+emotions and are known to get involved in any cause that strikes their
+fancy.  They despise Troile's brood as much as possible for those with no
+emotion.  #rTzimisce#n Tzimisce are, by far, the least human of all
+Cainites.  They are infamous for their cruelty, and they have developed
+means of torture that would move the most stoic of Cainites.  #yVentrue#n
+Ventrue are the nobility in every sense of the word.  They are the knights. 
+They follow a code of honor and they uphold the Traditions as best as
+possible in this age of darkness and ignorance.  #rCaitiff#n Some Kindred do
+not have a clan at all, but are of bastard blood.  This is sometimes because
+they were abandoned by their sire, or were Embraced an outcast vampire.  A
+combination of thinness of blood and a lack of social training has made them
+Clanless.  #gAll Caitiff must be approved by Kairn Sala and Maloria.  #n 
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+D0
+~
+~
+0 0 3713
+D2
+~
+~
+0 0 3709
+S
+#3713
+Vampires~
+The vampires of all clans know of the traditions, rumoured to have been set by caine himself. Though not all pay heed to them in this age, those who would break the laws often make enemies in many places.
+ 
+The First Tradition - The Legacy - Thy blood is that of Caine, cursed by God and blessed by Lilith. To seek to change your state or to return to that of you mortal life is a sin against thy Father and Mother, and against thy God.
+The Second Tradition - Destruction - Thou art forbidden to destroy another of thy kind who is thy elder. Those close to Dominion know his will, and may destroy any childer who are unfit in his sight. Do not rise against an elder.
+The Third Tradition - Progeny - Thou shalt only sire another with permission of thy elder. If thou createst another without thine elder's leave, both thou and thy progeny shall be slain.
+The Fourth Tradition - Accounting - Those thou create are thine own childer. Until thy progeny shall be released, thou shalt command them in all things. Their sins are thine to endure.
+The Fifth Tradition - Domain - Thy domain is thine own concern. All others owe thee respect while in it. None may challenge thy word while in thy domain. When thou cometh to the fief of another, thou shall present thyself to the one who ruleth there.
+The Sixth Tradition - The Silence of Blood - Thou shall not reveal thy true nature to those not of the Blood. Doing so shall renounce thy claims of Blood.
+ 
+At this point you are refered to help road. To aid you in choosing the proper road for your char, once yrou embraced of course.
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D0
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3712
+S
+#3714
+Werewolves~
+There are 11 Garou tribes availabile to play here on Amaranth.  Each
+guided in attitude and blessed with gifts by a totem spirit.  The following
+brief descriptions will give you an idea of their attitudes.  More
+information can be found at http://www.  Cox-internet.  Com/amaranth. 
+#rBlack Furies#n The all female tribe, see themselves as protectors of the
+Wyld, mother Gaia and all woman kind.  They are fearsome oppenents,
+especially when their ability is questioned by foolish males.  #yBone
+Gnawers#n Looked down apon by the other tribes as the 'runt of the litter'
+The Gnawers survive in the cities, living from the waste of human's, and no
+other tribe knows the goings on of human society better than the Gnawers. 
+#rChildren of Gaia#n The peace brokers and healers of the Garou nation,
+constantly striving to bring conflicts among the tribes to an end
+peacefully.  Though often disregarded as weak by the other tribes, they can
+surprise even the most martial tribes when pushed to battle.  #rFianna#n The
+Celtic tribe are known as the the most passionate of all the tribes, They
+revel in life and sing tales of it's glory, usually in a bar.  Many of the
+other tribes regard them as drunks.  But none can deny they make fierce
+warriors and they hold close ties to the Fay.  #yGet of Fenris#n Savage,
+Bloodthirsty, Brutal.  All these have been used to describe the Nordic Get,
+and all of them are fitting.  They belive themselves the most superior of
+Gaias warriors, and they have the ferocity, to back it up.  #rRed Talons#n
+One of the strongest tribes in this era, the Talons are entirly made up of
+Lupus Garou.  In areas they still uphold the Impergium culling the humans as
+they belive is their sacred duty.  Utterly wolf like the other tribes often
+have trouble relating to the Talons.  #yShadow Lords#n They are masters of
+Subterfuge and polotics, they use Intimidation, back stabbing or even
+blackmail to gain power among the tribes.  Striving to some day reclaim what
+they say the hated Silver Fangs stole from them.  Leadership of the Garou
+Nation.  #rSilent Striders#n Wanderers, messangers and news bringers.  The
+Striders perform all these roles since the were expelled from their Egyptian
+homeland.  They become restless if not travelling.  They are often thought
+of as storm crows by the other tribes, and meet much suspicion due to their
+knowledge of many forgetten secrets.  #ySilver Fangs#n The leader's of the
+Tribes, the Example to all Garou.  Fearless in battle, with out error in
+upholding the Litany.  The Silver Fangs lead by example, but are un-afraid
+to prove themselves in challenge to disrespectful Garou.  Unfortunatly they
+all exhibit signs of madness, and the other tribes murmer quietly behind
+closed doors on the reasons of this.  #rStargazers#n The Stargazers are seen
+as omen readers and oracles by the other tribes.  Utterly dedicated to the
+perfection of contemplation.  They often spend too long thinking on the
+consequences of their actions to perform any action at all.  #yBlack Spiral
+Dancers#n The once proud White Howlers used to fight the wyrm on it's own
+territory, In the last ill fated charge they went too far, and were taken
+whole by the wyrm and made his own.  Thought of as rare insane monsters by
+the other tribes.  They work tirelessly to spread corruption throught the
+Garou Nation, and the rest of the world.  
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D0
+~
+~
+0 0 3720
+D3
+~
+~
+0 0 3709
+S
+#3715
+`e-`yM`oortal`y-`yH`ounter `yC`olassing`y R`ooom`e-`n~
+There are those among the throngs of humankind who are not ignorant;
+those who have seen the supernatural, have looked into the face of a demon
+and come away alive: Alive, yes, but never unscathed.  The hunters of Venice
+are few, but they grow in number with each passing night, each slip-up of a
+wayward Cainite too foolish to cover his tracks, and each exposure of
+Vampire or Infernal society is watched by these mere mortals, who can and
+will do anything to end the lives of the creatures who captured their
+attention and ire.  Unlike Inquisitors, hunters have no backing; they
+possess no groups, no cells, no armoury is stocked for them and they have no
+access to holy items to assist them, unless, of course, they themselves have
+created the weapon, formed the cell, or somehow acquired backing from some
+eccentric society or political figure who believes their tale.  Overall,
+these hunters find it more wise to remain silent.  Who would believe a man
+raving about blood drinkers and shape-shifters?  Who would listen to him
+tell tales of nightwalkers and spirits who plague mankind and murder
+children?  Hunters must be intelligent, calculated persons capable of
+crafting intricate plans and not moving until the moment is right -- if they
+aren't, the cost is their life.  Hunters receive twenty-one freebies, just
+like mundane mortals, and five points for both virtues and backgrounds.  To
+apply for a hunter you must include the how and why of why your character
+hunts, and any and all weapons or details on what the character knows must
+be included in the background.  
+`n
+`oGuide`y:`o http`y:`o/`y/`otwilightmu`y.`oorg`y/`owiki`y/`oindex`y.`ophp?title`y=`oCreating`y_`oa`y_`oCharacter
+`oApplication`y:`o http`y:`o/`y/`otwilightmu`y.`oorg`y/`ocosmortalback`y.`ophp`n
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#3716
+`e-`CM`cortal`C C`classing`C R`coom`e-`n~
+Unlike many places that practically shun you if you choose to play a
+Mortal, on CoS you are actually encouraged to play one, most especially if
+this is your first experiance on a Twilightmu* game.  As a mortal you get
+five points to distribute to your Virtues.  Type 'help virtues' to get a
+better understanding of what they are.  You also get five points for
+Backgrounds.  'Help backgrounds' gives a list of different backgrounds that
+are available, and more information on them can be found on our wiki
+(http://twilightmu.  Org/wiki/index.  Php?  Title=Main_Page).  To apply for
+a mortal, go to the mortal application page on our website and fill in the
+different sections.  A newbie guide for all applications can be found using
+the link below.  
+`n
+`cGuide`C:`c http`C:`c/`C/`ctwilightmu`C.`corg`C/`cwiki`C/`cindex`C.`cphp?title`C=`cCreating`C_`ca`C_`cCharacter
+`cApplication`C:`c http`C:`c/`C/`ctwilightmu`C.`corg`C/`ccosmortalback`C.`cphp
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#3717
+`e-`RV`rampire `RC`rlassing `RR`room`e-`n~
+Vampires, next to mortals, are the most common class on CoS.  There are a
+variety of Clans to choose from, all of which can be found by typing 'help
+clans.  ' The Announcements thread on the forums describes any restrictions
+on Clans currently being accepted.  As a vampire your character gets seven
+points to distribute among virtues.  Type 'help virtues' to get a better
+understanding of what they are.  You get five points to distribute among
+Backgrounds, which you can type 'help backgrounds' to get an indepth
+explaination of.  Vampires receive fifteen freebies.  Please refer to the
+Classing Guide listed in the first link listed below for information on what
+to do or not to do in applications, and on what to include in your
+background story.  
+`n
+`rGuide`R:`r http`R:`r/`R/`rtwilightmu`R.`rorg`R/`rwiki`R/`rindex`R.`rphp?title`R=`rCreating`R_`ra`R_`rCharacter
+`rApplication`R:`r http`R:`r/`R/`rtwilightmu`R.`rorg`R/`rcosvampireback`R.`rphp`n
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these commands:
+
+    BUY    Buy an item
+    LIST   List what is for sale
+
+After buying some food and drink, you can 'EAT' and 'DRINK' it.
+
+After that, find the next exit yourself.
+~
+S
+#3718
+`e-`GI`gnfernalist `GC`glassing`G R`goom`e-`n~
+`eInfernalist description coming soon.`n
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+S
+#3719
+An Example Fight~
+#yArilysia#n #wvs#n #GEdward.#n
+#n
+Arilysia asks for an attempt to axe edwards midsection. 
+Edward asks for an  attempt to disarm her with his sword.
+Rolls indicate arilysia hits, but all damage is soaked, 
+Edward does not manage to disarm her. 
+#n
+#RStoryteller echo:#n As the two garou face off Arilysia ducks low,
+dropping on one knee.  She drops be low the attack of the oncoming Edward,
+evading his sword as she swings her axe u pward.  It grazes his midsection,
+but it appears to have left little marks but ta ttered clothing.  As Edward
+recollects himself of the shock, he attemps to strike the axe out of the
+womans hand, but her grip is too firm.  
+#n
+Arilysia asks to attack his swordarm, Edward asks for a similar action.
+Rolls indicate Arilysia succeeds and does 1 damage after soak is applied.
+Edward again fails to hit.
+#n
+#RStoryteller echo:#n As Edward attempts to counter with a slash of his own, 
+the young woman jumps up to her feet taking a step back as she swings the
+axe upward in the same motion.  It leaves a small slash across the arm of
+the boy, but it seems trivial compared to the force that was put into the 
+blow.  It does seem to have averted Edwards own attack however, as the 
+sword is misdirected and Edward winces slightly.  
+#n
+Arilysia asks to try to get him to fall down by tripping him with her axe.
+Edward asks to slash at her legs.
+Per rolls Arilysia succeeds, Edward fails again.
+#n
+#RStoryteller echo:#n The young woman steps forward again, once more engaging
+Edward, she slashes for his legs, and the hookshape of the axe catches his 
+knee, tugging his legs out from under him.  As he falls to the ground he 
+rolls, and strikes for her legs in return, but comes a few inches short 
+of hitting her.
+#n
+Arilysia burns 1 rage for an extra action, so does Edward. Arilysia wants
+to do two attacks, Edward wants to dodge one, and then counterattack.
+Arilysia hits, but Edward dodges the attack, second attack of both hit.
+4 damage to Edward 2 to Arilysia.
+#n
+#RStoryteller echo:#n As Edward tries to rise to his feet the axe comes down 
+hard, but he manages to roll out of harms way, the young woman shifts
+the axe in its spinning momentum, sending it back down in a viscious arc,
+coming right down in the middle of where Edward chest has ended up after 
+the roll. Looking up with  eyes wide, gasping for breath Edward lifts his 
+swordarm and slowly sinks the blade into her side.
+#n
+At this time Elder Raman intervenes and the fight ends. 
+~
+0 12 0
+1
+-1 -1
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+S
+#3720
+Werewolves~
+The Garou are bound by ancient laws, they do not take these lightly and they are stuck to fervently by the elders although some emphisis some laws more than others. Breaking the laws of the Litany can lead to sevre punishment, and even a threat to the law can be dealt with harshly.
+ 
+Garou shall not mate with Garou
+This law prevents the creation of Metis and protects the relations between Garou and kinfolk.
+Combat the Wyrm wherever it dwells and whenever it breeds
+Garou exist to fight the exceesses of the Wyrm. If you allow yourself to be drawn away from that mission, you are aiding the Wyrm and weakening us all.
+Respect the territory of another
+You do not claim protection or ownership of land that is already guarded by another Garou. This causes conflicts between Garou, which is bad for Gaia because it weakens us in our battle against the Wyrm
+Accept an honorable surrender
+If you refuse to accept an honorable surrender, you have just killed an honorable person, and proven yourself to be dishonorable in the process.
+Submission to those of higher station
+For a society of warriors a chain of command is necessary. A democratic army can not fight a war effictivly. You want to be respected for your deeds, so respect others for theirs.
+The first share of the kill for the greatest in station
+We are wolves at heart, and our station is earned. This law ensure's that those who have proved they are worthy, gain the benefits they claim.
+Ye shall not eat the flesh of humans
+Devouring human flesh is an activity that conveys Wyrm-taint; there fore it is clearly wrong.
+Ye shall show respect for those beneath ye - all are of Gaia
+Garou should know their place in the scheme of things. We must remember that we are warriors unable to relent in our battles agaisnt the wyrm, but we must also realize that we have to see the difference between what we're fighting and what we're protecting.
+The Veil shall not be lifted
+The very few times that Garou have allowed humans to know of their existence, it brought tragedy and death to many involved
+Do not suffer thy people to tend thy sickness
+We are a proud society. Few of us want to descend into senility or a bed ridden state. But more Importantly, we are at war, we should not waste resources on someone who cannot contribute. Death is not the end for us.
+The leader may be challenged at any time in peace 
+Lead, Follow or get out of the way. Leaders must be competent and this rule exists so that the most qualified Garou can rise to his proper role in the right circumstances.
+The leader shall not be challenged at any time of war
+The Battlefield is no place for a power struggle. You must be unified in mind and deed when your up against the enemy.
+Ye shall take no action that causes the caern to be violated
+A portion of gaia falls ill or dies whenever one of her caerns is destroyed. If enough caerns die, the world dies with them. This is not a game.
+ 
+For more Garou info, You might wish to try Help Auspice and help Breed. These will tell you a little about the choices you will have to make for a Char. If you have any questions feel free to ask over OOC, or via a tell to an ST.
+~
+0 9 0
+1
+-1 -1
+D0
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3714
+S
+#3721
+The End of Mud School!~
+This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate north of you.
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+You have graduated from Mud School!  Get your diploma.  Go 'NORTH' from here
+to visit our arena.  There are plenty of low-level monsters, but DON'T attack
+other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+After you raise to level two, you can 'SAVE' your character.  Your character
+will be automatically SAVE'd every few minutes.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+You see the Arena ahead.
+~
+gate~
+0 -1 3722
+S
+#3722
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3723
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3728
+D1
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3724
+South West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3725
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3726
+South East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D3
+~
+~
+0 0 3725
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3727
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3728
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3729
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3728
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3730
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3735
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3729
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3731
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3730
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3732
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3733
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3738
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3734
+Center of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3729
+D3
+~
+~
+0 0 3733
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+D5
+You see a dark murky dungeon below.
+~
+grate~
+0 -1 3748
+S
+#3735
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3740
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3730
+D3
+~
+~
+0 0 3734
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3736
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3735
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3737
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3738
+D2
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3738
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3743
+D1
+~
+~
+0 0 3739
+D2
+~
+~
+0 0 3733
+D3
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3739
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3744
+D1
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3734
+D3
+~
+~
+0 0 3738
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3740
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3745
+D1
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3739
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3741
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D0
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3740
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3742
+North West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D1
+~
+~
+0 0 3743
+D2
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3743
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+~
+0 8 0
+1
+-1 -1
+D1
+~
+~
+0 0 3744
+D2
+~
+~
+0 0 3738
+D3
+~
+~
+0 0 3742
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3744
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D1
+~
+~
+0 0 3745
+D2
+~
+~
+0 0 3739
+D3
+~
+~
+0 0 3743
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3745
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D1
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3744
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3746
+North East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+1
+-1 -1
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3745
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3748
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+1
+-1 -1
+D0
+You see the north wall.
+~
+~
+0 0 3750
+D1
+You see the east wall.
+~
+~
+0 0 3753
+D2
+You see the south wall.
+~
+~
+0 0 3755
+D3
+You see the west wall.
+~
+~
+0 0 3752
+D4
+You see safety!
+~
+grate~
+0 -1 3734
+S
+#3749
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D1
+You see the north wall.
+~
+~
+0 0 3750
+D2
+You see the south wall.
+~
+~
+0 0 3752
+S
+#3750
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D1
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D3
+You see the north west corner.
+~
+~
+0 0 3749
+S
+#3751
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D2
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the north wall.
+~
+~
+0 0 3750
+S
+#3752
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D0
+You see the north west corner.
+~
+~
+0 0 3749
+D1
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D2
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3753
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D0
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the center of the dungeon.
+~
+~
+0 0 3748
+S
+#3754
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D0
+You see the north wall.
+~
+~
+0 0 3752
+D1
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3755
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D0
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D1
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3756
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+1
+-1 -1
+D0
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3757
+#bChicago by Night#B:#n Class Information and Role-play~
+The Second City: 1920's Chicago by Night is set in White Wolf's Modern
+Nights, in the city of Chicago, Illinois.  The game systems currently
+supported are Vampire: the Masquerade, Mage: The Ascension, Mortals and
+Mortal+.  On CbN there are no mobs to kill, there is no hard-coded combat,
+and absolutely no code-ran quests played time and time again in monotony to
+earn points or better equipment.  CbN thrives and insists upon enriched
+roleplay and character development.  Players on CbN are expected to
+role-play for the sake of roleplay rather than power.  
+~
+0 12 0
+1
+-1 -1
+S
+#3758
+Training Room~
+You are in a Training Room. Around you are all sorts of physical
+and mental training tools. The whole room is filled with the blood
+sweat, and tears of previous travelers. There is a sign on the wall.
+~
+0 8 0
+1
+-1 -1
+E
+sign~
+Welcome to Furey's Training Room.  Here you can train your attributes.  To 
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 3757
+S
+#3759
+Guild Room~
+You are in a room filled with weapons, books, and many combat dummies, some
+cut and stabbed many times, others burnt to a crisp.  The room is filled with
+sweat and an aura of magic.  There is a sign on the wall.
+~
+0 8 1
+1
+-1 -1
+E
+sign~
+Welcome to Hatchet's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 3757
+S
+#3760
+A Safe Room~
+You are in a safe room, away from all the mean rabbits and snails of the Arena.
+You can rest here, and go up to go back to the Temple of Midgaard.
+~
+0 12 0
+1
+-1 -1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#$

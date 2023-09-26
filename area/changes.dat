@@ -1,0 +1,235 @@
+39
+Gambling added to Geek Chic (help casino)~
+Merry~
+06/07/2016~
+Area~
+1465358744
+
+Pathfinding added. See: help pathfind~
+Merry~
+06/07/2016~
+Code~
+1465358785
+
+Command "mudinfo" enabled for Staff.~
+Merry~
+06/07/2016~
+Code~
+1465358808
+
+Pregnancy code complete. See: help pregnancy~
+Merry~
+06/07/2016~
+Code~
+1465358822
+
+Taxi system live and working. See: help taxi~
+Merry~
+06/07/2016~
+Code~
+1465358834
+
+Weekly paycheque numbers upped.~
+Merry~
+06/07/2016~
+Code~
+1465358845
+
+The weather code has been completely redone~
+Merry~
+06/08/2016~
+Code~
+1465394537
+
+Housing requests caught up to 6/10.~
+Merry~
+06/12/2016~
+Area~
+1465794274
+
+Various cosmetic changes for IL:RPI.~
+Enigma~
+12/27/2016~
+Code~
+1482828052
+
+Mobs reenabled. Keyword targeting funky.~
+Enigma~
+12/27/2016~
+Code~
+1482836787
+
+Bug that kept "doing" static fixed.~
+Enigma~
+12/27/2016~
+Code~
+1482878450
+
+Pstat and train now logged.~
+Enigma~
+12/27/2016~
+Code~
+1482889902
+
+Greeting and who customized.~
+Enigma~
+12/27/2016~
+Area~
+1482898587
+
+Chargen room flag added.~
+Enigma~
+12/28/2016~
+Code~
+1482916990
+
+Template/class can now be set in chargen.~
+Enigma~
+12/28/2016~
+Code~
+1482917005
+
+Clan can now be set in chargen.~
+Enigma~
+12/28/2016~
+Code~
+1482920805
+
+Covenant tentatively enabled in chargen.~
+Enigma~
+12/28/2016~
+Code~
+1482920818
+
+Surname enabled in chargen.~
+Enigma~
+12/28/2016~
+Code~
+1482959153
+
+Covenant fully enabled in chargen.~
+Enigma~
+12/28/2016~
+Code~
+1482960046
+
+Virtue/Vice and Dirge/Mask chargen enabled.~
+Enigma~
+12/28/2016~
+Code~
+1482971925
+
+Bonus XP applying correctly per template.~
+Enigma~
+12/28/2016~
+Code~
+1482983289
+
+New command: Skills.~
+Enigma~
+12/28/2016~
+Code~
+1482983298
+
+Helpfile auto-indexing is functional.~
+Enigma~
+12/29/2016~
+Code~
+1483072385
+
+Channel history now functional.~
+Enigma~
+12/29/2016~
+Code~
+1483073695
+
+Threaded/timed events implemented.~
+Enigma~
+12/30/2016~
+Code~
+1483084692
+
+Xterm 365 colors enabled.~
+Enigma~
+12/30/2016~
+Code~
+1483096868
+
+KaVir's protocol snippet implemented.~
+Enigma~
+12/30/2016~
+Code~
+1483096878
+
+Copyover saves changed areas automatically.~
+Enigma~
+12/30/2016~
+Code~
+1483143287
+
+Morality set to 7 on creation.~
+Enigma~
+12/31/2016~
+Code~
+1483174985
+
+Willpower pool calculates automatically.~
+Enigma~
+12/31/2016~
+Code~
+1483174999
+
+WP updates when Com/Res trained.~
+Enigma~
+01/01/2017~
+Code~
+1483257950
+
+Merits hardcoded, settable by Staff.~
+Enigma~
+01/01/2017~
+Code~
+1483259920
+
+Tool/restring respects xterm colorcodes.~
+Enigma~
+01/02/2017~
+Code~
+1483341626
+
+Bio tentatively enabled. Not saving.~
+Enigma~
+01/04/2017~
+Code~
+1483520220
+
+Kindred ranking system live.~
+Enigma~
+01/04/2017~
+Code~
+1483532121
+
+CharGen finalization live.~
+Enigma~
+01/04/2017~
+Code~
+1483584437
+
+Biographies fully enabled, properly saving.~
+Enigma~
+01/04/2017~
+Code~
+1483584675
+
+Dirty code support for dirty sectors.~
+Enigma~
+01/04/2017~
+Code~
+1483585827
+
+Clan disciplines set themselves in chargen.~
+Enigma~
+01/04/2017~
+Code~
+1483586890
+

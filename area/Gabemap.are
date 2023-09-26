@@ -1,0 +1,1072 @@
+#AREADATA
+Name        Los Angeles~
+Builders    Aeryn~
+VNUMs       20003 29999
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOM_V1
+#20003
+`CIntersection of W. Martin Luther King Boulevard and Lynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20034
+D2
+~
+~
+0 0 20004
+S
+#20004
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20003
+D2
+~
+~
+0 0 20005
+S
+#20005
+`CIntersection of W. Martin Luther King Boulevard and Normandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20004
+D1
+~
+~
+0 0 20035
+D2
+~
+~
+0 0 20006
+S
+#20006
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20007
+S
+#20007
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20008
+S
+#20008
+`CIntersection of W. Martin Luther King Boulevard and Florence`c - South Central`n~
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20007
+D1
+~
+~
+0 0 20041
+D2
+~
+~
+0 0 20009
+S
+#20009
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20008
+D2
+~
+~
+0 0 20010
+S
+#20010
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20009
+D2
+~
+~
+0 0 20011
+S
+#20011
+`CWest Martin Luther King Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20012
+S
+#20012
+`CIntersection of W. Martin Luther King Boulevard and Long Beach Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20011
+D1
+~
+~
+0 0 20013
+S
+#20013
+`CLong Beach Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20012
+S
+#20014
+`CIntersection of Long Beach Boulevard and Slauson`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20047
+D1
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20013
+S
+#20015
+`CLong Beach Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20016
+D3
+~
+~
+0 0 20014
+S
+#20016
+`CIntersection of Long Beach Boulevard and Vermont Knolls`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20058
+D1
+~
+~
+0 0 20017
+D3
+~
+~
+0 0 20015
+S
+#20017
+`CLong Beach Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20016
+S
+#20018
+`CLong Beach Boulevard `c- South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20019
+D3
+~
+~
+0 0 20017
+S
+#20019
+`CIntersection of Long Beach Boulevard and E. Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20020
+D3
+~
+~
+0 0 20018
+S
+#20020
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20021
+D2
+~
+~
+0 0 20019
+S
+#20021
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20022
+D2
+~
+~
+0 0 20020
+S
+#20022
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20021
+S
+#20023
+`CIntersection of E. Martin Luther King Boulevard and Florence`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20024
+D2
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20046
+S
+#20024
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20025
+D2
+~
+~
+0 0 20023
+S
+#20025
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20026
+D2
+~
+~
+0 0 20024
+S
+#20026
+`CIntersection of E. Martin Luther King Boulevard and Normandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20027
+D2
+~
+~
+0 0 20025
+D3
+~
+~
+0 0 20040
+S
+#20027
+`CEast Martin Luther King Boulevard`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20026
+S
+#20028
+`CIntersection of E. Martin Luther King Boulevard and Lynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20029
+S
+#20029
+`CLynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20028
+D3
+~
+~
+0 0 20030
+S
+#20030
+`CLynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20031
+S
+#20031
+`CIntersection of Lynwood and Vermont Knolls`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20030
+D2
+~
+~
+0 0 20053
+D3
+~
+~
+0 0 20032
+S
+#20032
+`CLynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20033
+S
+#20033
+`CIntersection of Lynwood and Slauson`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20032
+D2
+~
+~
+0 0 20052
+D3
+~
+~
+0 0 20034
+S
+#20034
+`CLynwood`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20003
+S
+#20035
+`CNormandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20036
+D3
+~
+~
+0 0 20005
+S
+#20036
+`CIntersection of Slauson and Normandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20052
+D1
+~
+~
+0 0 20037
+D2
+~
+~
+0 0 20051
+D3
+~
+~
+0 0 20035
+S
+#20037
+`CNormandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20036
+S
+#20038
+`CIntersection of Normandie and Vermont Knolls`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20053
+D1
+~
+~
+0 0 20039
+D2
+~
+~
+0 0 20054
+D3
+~
+~
+0 0 20037
+S
+#20039
+`CNormandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20040
+D3
+~
+~
+0 0 20038
+S
+#20040
+`CNormandie`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20026
+D3
+~
+~
+0 0 20039
+S
+#20041
+`CFlorence`c - South Central`n~
+Some streets have character, and Florence is not one of them, being
+merely a continuation of the same run-down sprawl found in surrounding areas
+with little to break up the dark, broken monotony.  The buildings have lost
+their original paint over time, replaced by garish graffitti advertising the
+local hoodlums or less intelligent proclaimations.  There are half-hearted
+civic reclaimation projects such as the Florence Public Library, its green
+landscaping accented by trash and debris blown up by hot smoggy wind. 
+Depressingly few cars are parked outside, most of which don't appear to have
+moved in the last six months at least.  Small businesses continue to survive
+through sheer determination and grit on the main streets, most marked by
+pull-down metal grates and sickly buzzing neon signs.  No-tell Motels with
+dirty parking lots stand next to fortress-like buildings offering to cash
+checks or make payday loans.  Traffic snarls in the early evening, but the
+area is barren after ten save for cruising hoods and music pounding out from
+the nightclubs nestled away in plain grey windowless buildings.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20042
+D3
+~
+~
+0 0 20008
+S
+#20042
+`CIntersection of Slauson and Florence`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20050
+D1
+~
+~
+0 0 20043
+D2
+~
+~
+0 0 20049
+D3
+~
+~
+0 0 20041
+S
+#20043
+`CFlorence`c - South Central`n~
+Some streets have character, and Florence is not one of them, being
+merely a continuation of the same run-down sprawl found in surrounding areas
+with little to break up the dark, broken monotony.  The buildings have lost
+their original paint over time, replaced by garish graffitti advertising the
+local hoodlums or less intelligent proclaimations.  There are half-hearted
+civic reclaimation projects such as the Florence Public Library, its green
+landscaping accented by trash and debris blown up by hot smoggy wind. 
+Depressingly few cars are parked outside, most of which don't appear to have
+moved in the last six months at least.  Small businesses continue to survive
+through sheer determination and grit on the main streets, most marked by
+pull-down metal grates and sickly buzzing neon signs.  No-tell Motels with
+dirty parking lots stand next to fortress-like buildings offering to cash
+checks or make payday loans.  Traffic snarls in the early evening, but the
+area is barren after ten save for cruising hoods and music pounding out from
+the nightclubs nestled away in plain grey windowless buildings.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20042
+S
+#20044
+`CIntersection of Florence and Vermont Knolls`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20055
+D1
+~
+~
+0 0 20045
+D2
+~
+~
+0 0 20056
+D3
+~
+~
+0 0 20043
+S
+#20045
+`CFlorence`c - South Central`n~
+Some streets have character, and Florence is not one of them, being
+merely a continuation of the same run-down sprawl found in surrounding areas
+with little to break up the dark, broken monotony.  The buildings have lost
+their original paint over time, replaced by garish graffitti advertising the
+local hoodlums or less intelligent proclaimations.  There are half-hearted
+civic reclaimation projects such as the Florence Public Library, its green
+landscaping accented by trash and debris blown up by hot smoggy wind. 
+Depressingly few cars are parked outside, most of which don't appear to have
+moved in the last six months at least.  Small businesses continue to survive
+through sheer determination and grit on the main streets, most marked by
+pull-down metal grates and sickly buzzing neon signs.  No-tell Motels with
+dirty parking lots stand next to fortress-like buildings offering to cash
+checks or make payday loans.  Traffic snarls in the early evening, but the
+area is barren after ten save for cruising hoods and music pounding out from
+the nightclubs nestled away in plain grey windowless buildings.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20046
+D3
+~
+~
+0 0 20044
+S
+#20046
+`CFlorence`c - South Central`n~
+Some streets have character, and Florence is not one of them, being
+merely a continuation of the same run-down sprawl found in surrounding areas
+with little to break up the dark, broken monotony.  The buildings have lost
+their original paint over time, replaced by garish graffitti advertising the
+local hoodlums or less intelligent proclaimations.  There are half-hearted
+civic reclaimation projects such as the Florence Public Library, its green
+landscaping accented by trash and debris blown up by hot smoggy wind. 
+Depressingly few cars are parked outside, most of which don't appear to have
+moved in the last six months at least.  Small businesses continue to survive
+through sheer determination and grit on the main streets, most marked by
+pull-down metal grates and sickly buzzing neon signs.  No-tell Motels with
+dirty parking lots stand next to fortress-like buildings offering to cash
+checks or make payday loans.  Traffic snarls in the early evening, but the
+area is barren after ten save for cruising hoods and music pounding out from
+the nightclubs nestled away in plain grey windowless buildings.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20023
+D3
+~
+~
+0 0 20045
+S
+#20047
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20048
+D2
+~
+~
+0 0 20014
+S
+#20048
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20049
+D2
+~
+~
+0 0 20047
+S
+#20049
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20042
+D2
+~
+~
+0 0 20048
+S
+#20050
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20051
+D2
+~
+~
+0 0 20042
+S
+#20051
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20036
+D2
+~
+~
+0 0 20050
+S
+#20052
+`CSlauson Avenue`c - South Central`n~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20036
+S
+#20053
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20038
+S
+#20054
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20038
+D2
+~
+~
+0 0 20055
+S
+#20055
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20054
+D2
+~
+~
+0 0 20044
+S
+#20056
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20044
+D2
+~
+~
+0 0 20057
+S
+#20057
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20056
+D2
+~
+~
+0 0 20058
+S
+#20058
+`CVermont Knolls`c - South Central`n~
+Vermont Avenue cuts through South Central like a gap-toothed smile, with
+many lots still vacant from the burning and devestation of the Rodney King
+riots of the early nineties.  All night long, music and vigor spill out onto
+the street, from mariache-like horn sections to the beat of rap played on
+boom boxes.  Jeers and greetings are shouted from street corners and out of
+cars in an ordered mixture of Spanish, Korean and the English of the
+African-American residents.  Dirty signs proclaim businesses and dark
+side-streets provide homes for those who call the underbelly of Los Angeles
+their home.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20057
+D2
+~
+~
+0 0 20016
+S
+#20059
+~
+~
+0 0 0
+1
+0 0
+S
+#20060
+~
+~
+0 0 0
+1
+0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

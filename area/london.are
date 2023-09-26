@@ -1,0 +1,5423 @@
+#AREADATA
+Name        City of London~
+Builders    Merry Scottie~
+VNUMs       20000 29999
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#22002
+kevin key copper house~
+a small copper house key~
+A small copper house key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#22023
+michael house key~
+a small house key~
+A small house key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20000
+a wrought iron gas lamp~
+a gas lamp~
+#cWrought iron gas lamps with wide round heads twinkle and blink up and down the walkway.#n
+~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#20001
+grassy lawn patch~
+a patch of stone-edged lawn~
+#cAn ovular patch of well-tended lawn stretches out from the Aspley Gate, edged by stone.
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20002
+drinking fountain lutyens~
+a peppered granite drinking fountain~
+#cA peppered granite drinking fountain centered on concrete tiles populates a broad lawn.#n
+~
+~
+25 0 0
+0 0 0 0
+0 0 0
+#20003
+benches~
+a white-washed wrought iron bench~
+#cWhite-washed iron wrought benches face the statue plinth of Diana the Huntress on all four sides.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20004
+chairs tables~
+a chair at a round patio table~
+#cUnder white patio umbrellas, multiple round tables and chairs are spaced between huge stone flower pots.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20005
+booths teak~
+a seat in a teak booth~
+#cHoney teak booths fill the right and left walls, burdened with mismatched throw-pillows.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20006
+statue bronze horseback~
+a bronze statue of a man on horseback~
+#cA bronze statue of man on horseback stands atop a high concrete plinth, surrounded by emerald lawns.#n
+~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+statue~
+The Physical Energy statue, installed in 1907, is by George Frederick
+Watts, who claimed the statue was "a symbol of that restless physical
+impulse to seek the still unachieved in the domain of material things". 
+This was particularly appropriate for Cecil Rhodes, made his fortune before
+he was 30 and in 1880 established the De Beers mining company, which has
+dominated the diamond industry ever since.  
+~
+#20007
+lamps streetlamps lights carbon~
+electric carbon arc lamps~
+#cTall rows of electric carbon arc lamps cast hazy globes of light over the sidewalks.#n
+~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#20008
+stools tables stool table~
+a stool pulled up to a round table~
+#cHigh stools surrounding round, black walnut tables are scattered throughout the pub.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20009
+bus stop bench~
+a sticky bench under the bus stop~
+#cA bench spans the width of the bus stop on the northern side of Threadneedle Street, protected from rain by the overhang.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20010
+theater seats cushioned~
+a red-cushioned theater seat~
+#cDescending tiers of plush, red-cushioned chairs face the massive movie screen, fitted with swing-down cupholders.#n
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20011
+key antique lainey~
+a small, antique key~
+A small, antique key rests on the ground here.
+~
+~
+18 0 1
+0 0 0 0
+0 0 0
+#20012
+key oli~
+a small house key~
+A small house key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20013
+key edward~
+a small copper house key~
+A small copper house key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20155
+key house beaumont~
+an elongated iron key~
+An elongated iron key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20156
+wardrobe~
+a scrolled pine wardrobe with double doors and four drawers~
+A scrolled pine wardrobe with double doors and four drawers is pressed to the west wall, flanked by pastel paintings.
+~
+~
+15 0 0
+10000 0 0 0
+0 0 0
+#20157
+password queensguard~
+a fading square of vellum scribbled with a complex password~
+A fading square of vellum scribbled with a complex password lies here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20158
+pint beer glass amstel~
+a pint glass of crisp Amstel beer with a thick, frothy head~
+A pint glass of crisp Amstel beer with a thick, frothy head is here.
+~
+~
+17 0 8193
+1 1 1 0
+0 0 0
+#20159
+bottle guinness stout~
+guinness a tall bottle of dry Irish stout with Guinness on the label~
+A tall bottle of dry Irish stout with Guinness on the label is here.
+~
+~
+17 0 8193
+2 2 4 0
+0 0 0
+#20160
+glass flute wine red barossa~
+a light glass flute of full-bodied, red Barossa Valley wine~
+A light glass flute of full-bodied, red Barossa Valley wine is here.
+~
+~
+17 0 8193
+1 1 2 0
+0 0 0
+#20161
+glass flute wine white larchago~
+a slender fluted glass of vibrant white Larchago rioja wine~
+A slender fluted glass of vibrant white Larchago rioja wine is here.
+~
+~
+17 0 8193
+1 1 2 0
+0 0 0
+#20162
+coca-cola cola coke glass~
+a tall, chilled glass of Coca-Cola served over chips of ice~
+A tall, chilled glass of Coca-Cola served over chips of ice is here.
+~
+~
+17 0 8193
+5 5 15 0
+0 0 0
+#20163
+glass flute rose wine miradou~
+a slender glass flute of pink, refreshing Miradou rose wine~
+A slender glass flute of pink, refreshing Miradou rose wine is here.
+~
+~
+17 0 8193
+1 1 2 0
+0 0 0
+#20164
+glass water~
+a clean glass of clear, cold water served over chips of ice~
+A clean glass of clear, cold water served over chips of ice is here.
+~
+~
+17 0 8193
+1 1 0 0
+0 0 0
+#20165
+leffe blonde beer chalice glass~
+a heavy chalice glass of potent, honey-colored Leffe Blonde~
+A heavy chalice glass of potent, honey-colored Leffe Blonde is here.
+~
+~
+17 0 8193
+2 2 1 0
+0 0 0
+#20166
+whiskey shooter glass~
+a chilled shooter glass of fragrant, golden-colored whiskey~
+A chilled shooter glass of fragrant, golden-colored whiskey is here.
+~
+~
+17 0 8193
+1 1 5 0
+0 0 0
+#20167
+snifter brandy~
+a curvaceous snifter three-quarters filled with warm brandy~
+A curvaceous snifter three-quarters filled with warm brandy is here.
+~
+~
+17 0 8193
+1 1 6 0
+0 0 0
+#20168
+shot glass rum~
+a short sugar-rimmed shot glass of heavily spiced brown rum~
+A short sugar-rimmed shot glass of heavily spiced brown rum is here.
+~
+~
+17 0 8193
+1 1 7 0
+0 0 0
+#20169
+martini glass~
+a tall martini glass garnished with an olive on a toothpick~
+A tall martini glass garnished with an olive on a toothpick is here.
+~
+~
+17 0 8193
+1 1 8 0
+0 0 0
+#20170
+glass blushberry ale~
+a glass of light, hoppy ale flavored with pink blushberries~
+A glass of light, hoppy ale flavored with pink blushberries is here.
+~
+~
+17 2 8193
+1 1 3 0
+0 0 0
+#20171
+glass dream drupe lambic~
+a glass of golden-coloured, refreshing Dream-a-Drupe lambic~
+A glass of golden-coloured, refreshing Dream-a-Drupe lambic is here.
+~
+~
+17 2 8193
+1 1 1 0
+0 0 0
+#20172
+glass bock ertwen~
+a glass of hearty, toasted bock flavored with Ertwen leaves~
+A glass of hearty, toasted bock flavored with Ertwen leaves is here.
+~
+~
+17 2 8193
+1 1 4 0
+0 0 0
+#20173
+glass stout murmur~
+a frosted glass of rich, dark stout with a tea-like flavour~
+A frosted glass of rich, dark stout with a tea-like flavour is here.
+~
+~
+17 2 8193
+1 1 4 0
+0 0 0
+#20174
+chuchu gin chalice pint glass~
+a chalice pint glass filled with black, animate Chu Chu Gin~
+A chalice pint glass filled with black, animate Chu Chu Gin is here.
+~
+~
+17 64 8193
+1 1 8 0
+0 0 0
+#20175
+glas flute cousin trumpet~
+a glass flute filled with an intoxicating iridescent liquor~
+A glass flute filled with an intoxicating iridescent liquor is here.
+~
+~
+17 64 8193
+1 1 9 0
+0 0 0
+#20176
+snifter cocorange rum~
+a warmed snifter of dark, heavy rum threaded with Cocorange~
+A warmed snifter of dark, heavy rum threaded with Cocorange is here.
+~
+~
+17 64 8193
+1 1 7 0
+0 0 0
+#20177
+shooter glass coupnettle gin~
+a salt-dusted shooter glass of sharply crisp Coupnettle gin~
+A salt-dusted shooter glass of sharply crisp Coupnettle gin is here.
+~
+~
+17 64 8193
+1 1 8 0
+0 0 0
+#20178
+pumpkin headgourd whiskey glass~
+a pumpkin and Headgourd whiskey served with a leafy garnish~
+A pumpkin and Headgourd whiskey served with a leafy garnish is here.
+~
+~
+17 64 8193
+1 1 5 0
+0 0 0
+#20179
+perfume bottle~
+a dainty bottle of perfume with a sophisticated, rosy scent~
+A dainty bottle of perfume with a sophisticated, rosy scent is here.
+~
+~
+26 64 8193
+0 0 0 0
+0 0 0
+#20180
+cologne bottle~
+a squared bottle of cologne with a refined, masculine scent~
+A squared bottle of cologne with a refined, masculine scent is here.
+~
+~
+26 64 8193
+0 0 0 0
+0 0 0
+#20181
+platform bed~
+a low platform bed~
+A low platform bed clad in cream sheets looks out over the Thames. Two pull out hide-away drawers are set into the wooden platform beneath. 
+~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#20182
+flats key~
+a Deeds Street Flats key in burnished copper~
+A Deeds Street Flats key in burnished copper is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20183
+key cal hollow~
+a small copper key with bluish patina~
+A small copper key with bluish patina is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20184
+slot machine~
+a garishly painted slot machine~
+#cA garishly-painted slot machine with blinking lights and a big, brass handle.#n
+~
+~
+8 0 0
+0 0 0 0
+0 0 0
+#20185
+imogen boat key~
+a small copper key~
+A small copper key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#20186
+dinah key~
+a small house key~
+A small house key is here.
+~
+~
+18 0 8193
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOM_V1
+#22000
+Lobby at Cheval Three Quays~
+This old apartment building isn't in great shape.  It's not in ill
+repair, its just been weathered by time.  The furniture is faded and the
+wood of the counter is marred and scratched from use.  The brass of the
+hanging chandelier is tarnished, but the old bones of the building seem
+solid and it feels warm and inviting.  On the western wall are a series
+mailboxes for the residents.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20033
+D4
+~
+~
+0 0 22001
+S
+#22001
+Second Floor at Cheval Three Quays~
+The carpet here is worn from the feet of uncountable tenants over the
+years.  There are two old oak doors here, leading into the apartments 1A and
+1B.  The hanging light casts a soft glow that doesn't quite light the whole
+landing.  Stairs lead back down to the main entry and lobby.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 22004
+D3
+~
+~
+1 22002 22002
+D5
+~
+~
+0 0 22000
+S
+#22002
+Apartment 1A - Living Room~
+The carpet here in the living room of this apartment is old, but clean. 
+The furnishings herein are sparse, but cozy.  There is an armchair with an
+ottoman in front of it against the northern wall and a TV against the
+southern.  To the north, you can see what appears to be a bedroom and to the
+west there is a kitchen.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 22006
+D1
+~
+~
+1 22002 22001
+D3
+~
+~
+0 0 22005
+S
+#22003
+Cheval Three Quays - Apt. 1B~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 22004
+S
+#22004
+#n~
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+0 0 22003
+D3
+~
+~
+1 0 22001
+S
+#22005
+Apartment 1A - Kitchen~
+A sink, stove and refrigerator fill the space of this narrow kitchen. 
+Old linoleum tile runs the length of the small area.  A neon light fills the
+space with a hollow glow and a soft hum.  You can see the living room back
+to the east.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 22002
+S
+#22006
+Apartment 1A - Bedroom~
+The bedroom is carpeted in shag carpet.  Soft to the touch, but outdated
+and somewhat worn.  However, in keeping with the rest of the apartment, it
+is clean.  There is a bed and a nightstand taking up space on the northern
+wall and a door to the east that leads into the bathroom.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 22007
+D2
+~
+~
+1 0 22002
+S
+#22007
+Apartment 1A - Bathroom~
+The bathroom is small.  It has a ceramic toilet and a sink, right next to
+one another.  In the far corner is a standing shower with an old showerhead.
+White tile lines the floor.  In a small closet on the wall near the sink is
+a stackable washer and dryer combo.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 22006
+S
+#20000
+The Aspley Gate at Hyde Park~
+The grand entrance to Hyde Park has a bold projection: the moss-limned
+entablature is supported by four handsome, fluted columns; the volutes of
+the capitals of the outside column on each side of the gateway present two
+complete faces to view.  Three carriage archways cut by reddish brick roads
+flank and center the gate with footpaths to the right and left; both paths
+present insulated columns.  The entrance is finished by an iron blocking,
+and the sides of the central carriageway are decorated with a beautiful,
+Elgin marble frieze depicting a naval and military triumphal.  The gate is
+of iron, bronzed, and fixed or hung to the piers by rings of gun-metal.  The
+design consists of a beautiful arrangement of the Greek honeysuckle
+ornament; the parts being well defined, and the raffles of the leaves
+brought out in an extraordinary manner.  A grand lawn to the west houses a
+fantastical 18th century manor; snow-white walls and gothic turrets ring the
+exterior.  
+~
+0 4 1
+1
+0 0
+D0
+~
+~
+0 0 20001
+D2
+~
+~
+0 0 20024
+D3
+~
+~
+1 20011 20129
+S
+#20001
+Wellington Arch at Hyde Park~
+Reddish brick fades into well-worn cobblestone as carriage and footpaths
+converge into a single walkway.  The arch forms a corresponding entrance
+from the Aspley Gate to Serpentine Road.  A single opening lifts four times
+the height of a man through the center of the arch.  The entabulature is
+lofty with a richly sculptured frieze and a row of boldly projecting lions'
+heads on the cymatium; the lions mark the centers of the columns.  Above the
+entablature is raised an attic, the body of which is embellished with a
+sculptural representation of an ancient triumph.  On each of the columns is
+a statue of a warrior, and on the summit of the acroterium which surmounts
+the attic rests a winged, black iron figure in a quadriga.  Grassy lawns
+stretch out, hedging the walkway and arch.  To the west a cobbled path leads
+toward a Regency-style ironwork bandstand.  East, an unassuming sign labels
+a blend of lawns and pavement as Speakers' Corner.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20002
+D1
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20020
+S
+#20002
+Serpentine Road at Hyde Park~
+Dutch Elm trees stand like rows of sentinel soldiers on both sides of the
+Serpentine Road; a flawlessly smooth path of wide, gray concrete scattered
+with almond-shaped leaves.  Shallow slopes of lawn are visible here and
+there, some separated from the road by stout iron wrought fences, some
+openly exposed.  Well-worn dirt paths weave serpentine veins through the
+grass to the sweeping, pendulous branches of weeping beech trees.  Runners
+make daily use of the road that weaves its curve from monument to monument;
+north, concrete smoothly curves toward the Long Water lake.  To the south
+the richly sculptured Wellington Arch is raised above the walkway.  East the
+trumpet-like opening of the Rose Garden ducks beneath a trellis arch.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20004
+D1
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20001
+S
+#20003
+Rotten Row at Hyde Park~
+The heavy branches of paperback maples and holm oaks crowd the edges of
+the bridleway, in constant danger of growing together; a vague canopy is
+formed with breaks of sky in the middle.  During the day patches of light
+fall on the sand-covered brick below.  The low iron bollards that hedge the
+broad road peter off to the north, trailing heavy rungs of chain into
+thickets of foliage.  To the south the bridleway continues; the trees darken
+and thicken, and shadows are more prevalent even during the brightest hours
+of day.  On a low concrete post a round plaque cast in bronze faces the
+bridleway, just out of view in the brush.  To the east a side-path through
+the trees broadens and rises toward Dell Bridge.  
+~
+0 4 1
+1
+0 0
+E
+plaque~
+#o           .___________________________________.
+#o         .'                                     '.
+#o       ,'#w                W III R                  #o',
+#o     .'#w                ROTTEN  ROW                  #o'.
+#o   .'#w              THE KING'S OLD ROAD                #o'.
+#o ,'#w                  COMPLETED  1690                    #o',
+#o;                                                         ;
+#o|#n  This ride originally formed part of King William III's #o|
+#o|#n   carriage drive from Whitehall to Kensington Palace.   #o|
+#o|#n   It's construction was supervised by the Surveyor of   #o|
+#o|#n Their Majesties' Roads, Captain Michael Studholme, and  #o|
+#o|#n     it was the first lamp-lit road in the Kingdom.      #o|
+#o|#n     Designated as a public bridleway in the 1730's,     #o|
+#o '.#n    Rotten Row is one of the most famous urban       #o.'
+#o   ',#n        riding grounds in the world              #o,'
+#o     '.                                             .'
+#o       ',#w                 E II R                  #o,'
+#o         '.#w                1990                 #o.'
+#o           '-----------------------------------'#n
+~
+D0
+~
+~
+0 0 20013
+D1
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20014
+S
+#20004
+Serpentine Road at Hyde Park~
+The grassy berm to the right of the Serpentine is cleaved by a clean
+curve of magenta snapdragons, lighter in front, blending back into darker
+shades of taller flowers.  A tangle of tall licorice stalks and wild
+oriental poppies fade back further still, leading up to the base of the
+Queen Caroline Memorial; a stone urn mounted on a plinth overlooking the
+east end of Serpentine Road.  Behind it the picturesque lake created at her
+request is divided from the plinth by a loose patch of daffodils.  To the
+left of the road concrete slopes down into the Long Water; the lake, an
+immensely long, curving kidney, follows the gradual turn of the road.  
+~
+0 0 6
+1
+0 0
+D0
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20018
+S
+#20005
+The Long Water at Hyde Park~
+Across the placid surface of the lake the branches of weeping birch and
+wingnut trees tangle into a singular ridge of green.  The wide, smooth gray
+concrete of Serpentine Road reflects the lake's steady curve; to the right
+shallow slopes of grass carpet the spaces between Dutch Elm trees,
+occasionally set with benches and stone picnic tables.  To the left the
+concrete forms a descending berm into the lake, allowing open access to the
+water.  Iron guardrails follow the downward slope into the lake every so
+often to accommodate swimmers' escape.  Rare patches of tall reeds cluster
+along the far bank, providing sanctuary for ducks.  White patio umbrellas
+populate the concrete outside the Lido Bar and Cafe to the east, arching
+above circular tables.  
+~
+0 0 6
+1
+0 0
+D0
+~
+~
+0 0 20009
+D1
+~
+~
+0 0 20007
+D2
+~
+~
+0 0 20004
+S
+#20006
+The Rose Garden at Hyde Park~
+Designed from the concept of horns sounding at one's arrival to the park,
+the Rose Garden is a central, circular area enclosed by a tall yew hedge;
+imagined to be the mouth of a trumpet, and the seasonal flower beds the
+flaring notes pouring out of the horn.  The circular hub is enclosed by a
+rose arbor with pillars and chains.  Roses are mixed with herbaceous
+planting, creating rich seasonal flower beds and pervasively strong scents. 
+The spectacular blooms attract high numbers of tourists in summer, retaining
+popularity throughout the year as a quiet, contemplative place for locals. 
+A grand pergola and two fountains -- the Boy and Dolphin and Diana the
+Huntress -- are entrapped in paved walkways.  Pebbled stone paths lead under
+arched lattice tunnels that wind to and fro, thickly laden under tangles of
+foliage; Serpentine Road opens westward through one of them.  
+~
+0 0 1
+1
+0 0
+D3
+~
+~
+0 0 20002
+S
+#20007
+Lido Bar and Cafe patio at Hyde Park~
+With its stupendous position overlooking the Serpentine in London's most
+famous park, right next to the Long Water and the Diana Memorial Fountain,
+the Lido Bar and Cafe could serve mud and leaves washed down with a cup of
+mildew and still attract customers.  The large alfresco dining area is
+scattered with white patio umbrellas; each umbrella shields the circular
+table beneath it from both sunlight and rain.  From English breakfasts to
+evening cocktails, the patio remains active at all hours of night or day. 
+Huge, round stone planters guide patrons up to the fluted white columns
+lining the cafe's red brick face.  A mansard roof slopes gently upward; at
+its center rises an elegant clock in an Edwardian spire.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+1 0 20008
+D3
+~
+~
+0 0 20005
+S
+#20008
+Lido Bar and Cafe at Hyde Park~
+Red brick punctured by dormer windows face the patio and placid waters of
+the lake.  The building is loud and clattery, densely populated and set
+solely with booths built into the two teak walls to the right and left of
+the entryway.  Similarly pale wood cut in slender slats comprise the bar and
+counter; flavored syrups and antique espresso machines fit between a modern
+cash register, baskets of crisps, and bread and pasty displays under domes
+of glass.  The crisp black menu lists delectables that widely range in style
+and culture; English breakfast is priced directly above curries, pizzettes,
+hamburgers and couscous.  Everything comes with fat chips and relish;
+steaming plates accompany orders as simple as coffee.  The clanks and clinks
+of a working kitchen is audible despite the hum of conversation; the bar is
+exposed near the entry, serving up cocktails, shots and brews on tap.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 20007
+S
+#20009
+The Long Water at Hyde Park~
+The serene lake follows the natural contours of the land, gently curving
+toward the west, edged by a concrete berm and a modest fishing dock.  Pedal
+boats are hitched to the sides of the dock; the majority blue, a fanciful
+few fashioned after swans.  The Serpentine Road follows a concentric curve
+to the lake, lined by Dutch Elms and shallow slopes of grass and
+wildflowers.  To the northwest the elegant arches of the Serpentine Bridge
+allow passage to the opposite shoreline.  To the east, water flows out of
+the lake to a sluice, forming a small, ornamental waterfall.  The bridge and
+lawns are given to a hard wall of aged stone to the north, opening at an
+iron gate into a hedged courtyard.  
+~
+0 0 6
+1
+0 0
+D0
+~
+~
+1 0 20154
+D2
+~
+~
+0 0 20005
+D3
+~
+~
+0 0 20010
+S
+#20010
+Serpentine Bridge at Hyde Park~
+Cast stone balusters form the parapet of the bridge, sparsely populated
+by higher spires of iron-wrought lamps.  The capstones are densely coated in
+graffiti, and the road between the balusters is rough with age-worn
+cobblestones.  Scrolled keystones support high barrels of stone; through
+them the lake freely flows.  To the north and south the broad ribbon of the
+Long Water lazily ripples.  On warm days pedal boats bob through the lake,
+fishermen in waders cast their lines into the deeps, and swimmers float in
+gentle currents.  To the east the road curves away from the bridge to hug
+the edge of the lake; west, it leads to West Carriage Way.  Toward the
+middle of the bridge an angular wing wall descends toward the water.  
+~
+0 0 6
+1
+0 0
+D1
+~
+~
+0 0 20009
+D3
+~
+~
+0 0 20011
+D5
+~
+~
+0 0 20022
+S
+#20011
+West Carriage Drive at Hyde Park~
+The gray balusters open broadly into West Carriage Drive's wide lanes of
+footpaths, carriageways and modern traffic, each method of travel split by
+berms of concrete, grass, scatters of daffodils and magenta snapdragons.  To
+the far west the carriageway continues toward the Coalbrookdale and
+Alexandra Gates.  The high red brick facade of the Serpentine Gallery,
+historic estates, monuments and temples hedged in trees and grass stretch
+northeast, following the slender curve of the lake.  The bowling green,
+putting grounds, and junior tennis courts fill the vast corner to the
+southwest, thick with maples and planes of well-tended grass.  By day the
+courts and greens are booked with teams, bustling and noisy; by night
+they're dimly lit and often laden under a a haze of fog.  
+~
+0 0 6
+1
+0 0
+D1
+~
+~
+0 0 20010
+D3
+~
+~
+0 0 20012
+S
+#20012
+West Carriage Drive at Hyde Park~
+Evenly split by iron bollards, two lanes of modern traffic are defined
+away from an idyllic walkway, an elm-lined berm of grass and wild daffodils
+between the rows.  Heavy cherry trees laden thickly with snowy blooms and
+purplish leaves populate vast fields of lawn; a row to the north provides a
+natural barrier between the public and Queen Caroline's Temple, a classical
+style summer house overlooking the Long Water.  A bronze cast statue rises
+on a high concrete plinth in a footpath-veined carpet of grass to the
+northwest; to the east the Carriage Drive lifts toward Serpentine Bridge and
+the Long Water.  The carriageway continues south.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20011
+D2
+~
+~
+0 0 20013
+S
+#20013
+The Arch at Hyde Park~
+On the west bank of the lake a six-meter high Roman travertine sculpture
+is positioned in a field of coarse grass and oak trees.  Seven white stones
+weighing forty tons rise in asymmetrical measure, resembling a hollow
+vertebrae protruding from the grass.  The West Carriage Drive mulls north
+and south to the west of the arch, split down the middle by daffodils and
+chain-linked iron bollards.  Between the lake and the carriageway a short
+spired iron fence prevents pedestrian access.  Sparse patches of reeds
+cluster along the edge of the Long Water, providing habitats for noisome
+frogs and families of rare, mute swans.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20012
+D2
+~
+~
+0 0 20003
+S
+#20014
+Rotten Row at Hyde Park~
+A thick canopy branches blend paperback maples and holm oak leaves
+overhead, darkening a long section of the bridleway.  The iron bollards
+hedging the road peter off to the south, trailing heavy rungs of chain into
+thickets of foliage.  To the north the bridleway continues; the trees open
+and lose density, allowing patches of light to penetrate them.  Underfoot or
+hoof the bridleway is a brick base covered by sand, wide enough to
+accommodate a half-dozen carriages pulling side by side.  The dull glow of
+aging oil lamps cast hazy pools over the dust and sand after nightfall.  The
+occasional group of riders on horseback meander through on weekends,
+exercising and training their mounts.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20003
+D2
+~
+~
+0 0 20015
+S
+#20015
+Rotten Row at Hyde Park~
+A brick base covered by sand, wide enough to accommodate a half-dozen
+carriages, runs a long bridleway from the hedges to the east; west a stately
+row of ancient maple trees stand behind iron bollards.  Similar bollards
+frame the opposite side of the north-south carriage drive; chain drapes
+between them, hedging off footpaths and benches.  A grass berm is layered
+further behind the eastern bollards, lined in slim birch trees; modern
+traffic mulls in two lanes, accommodating vehicles where Rotten Row fails
+them.  Dully-lit with aging oil lamps, the track is loosely maintained in
+its ancient order; precautions against highwaymen still struggle serve as
+precautions against muggings and worse.  By day horseback riders come and go
+from the manege to the south, riding the Row and retiring to the stables.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20014
+D1
+~
+~
+0 0 20019
+D2
+~
+~
+0 0 20016
+S
+#20016
+The Manege at Hyde Park~
+Low cedar hedges work sinuous pathways to and from the manege from Rotten
+Row, opening into a trumpet-shaped courtyard of hard-packed dust to the
+immediate south.  Five miles of bridleways, two outdoor riding arenas, an
+expansive dressage yard and manicured jumping rows all culminate in a
+historic stable; the Royal horses, Metropolitan Police Service mounts, and
+countless members of the privately wealthy public stable and exercise their
+horses on ancient grounds, close at hand to a scenic carriage drive.  Tall
+Locust Trees spread their branches throughout the open-air manege, edging
+the bridleways and hugging the sides of courses and stables.  Low iron
+bollards connected by chain peter off the further from formal grounds one
+rides; trails so ensconced in thickets and forest they accomplish rurality. 
+To the west an arched bridge crosses a slender stream toward the football
+pitches.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20021
+S
+#20017
+Dell Bridge at Hyde Park~
+Arching eastward a cast stone bridge meets in the middle of the Long
+Water, sitting lower over the lake than its northerly counterpart in the
+Serpentine.  White granite balustrades and sandstone bricks create an artful
+palette of color.  When the rains are especially heavy the lake is prone to
+swelling over the top of the bridge, making passage challenging if not
+impossible.  To the west the concrete bank is cluttered with loose patches
+of reeds, leading down toward the dusty Rotten Row bridleway.  To the east
+the bridge rises toward its central peak, sandstone brick underfoot, a few
+aged oil lamps populating the arch on iron posts.  
+~
+0 0 6
+1
+0 0
+D1
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20003
+S
+#20018
+Dell Bridge at Hyde Park~
+Arching westward a cast stone bridge meets in the middle of the Long
+Water, sitting lower over the lake than its northerly counterpart in the
+Serpentine.  White granite balustrades and sandstone bricks create an artful
+palette of color.  When the rains are especially heavy the lake is prone to
+swelling over the top of the bridge, making passage challenging if not
+impossible.  To the east the concrete bank is cluttered with loose patches
+of reeds, leading down toward Serpentine Road.  To the west the bridge rises
+toward its central peak, sandstone brick underfoot, a few aged oil lamps
+populating the arch on iron posts.  
+~
+0 0 6
+1
+0 0
+D1
+~
+~
+0 0 20004
+D3
+~
+~
+0 0 20017
+S
+#20019
+The Dell at Hyde Park~
+Rugged planes of natural grass gently slope down into a shallow valley
+among countless trees; silver maple, sweet chestnut and holm oak thickly
+cluster along the dell's outskirts, with the purplish-red bursts of wild
+cherry trees, weeping beeches and willows fanning further outward,
+containing full ecosystems under immensely thick, curtain-like branches.  A
+loose shrub thicket cleaves to the shape of a natural pond at the dell's
+lowest point; wild daffodils sprout in blades and pale yellow trumpets from
+the underbrush.  Hedges weave sinuous lines toward the bandstand to the
+distant east.  To the west the grass slopes up and closes into a tree-lined
+track.
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20020
+D3
+~
+~
+0 0 20015
+S
+#20020
+The Bandstand at Hyde Park~
+Ornately wrought iron painted with white accents rises in the center of a
+broad, open clearing; Regency-style with eight delicate iron columns
+supporting an octagonal ogee roof, the bandstand provides eerily flawless
+acoustics for open-air performance.  The clearing is expansive enough to
+accommodate hundreds of people; around it iron lamps strain to penetrate the
+dark at dusk.  Layered further outward, a concentric circle of ancient oak
+trees stretch and tangle branches up toward the sky.  A cobbled path weaves
+away from the clearing toward Wellington Arch to the east.  To the west
+hedges work thick arteries through grassy lawns, working their way toward a
+tree-lined dell.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20019
+S
+#20021
+The Old Football Pitches at Hyde Park~
+Coarse emerald turf carpets the pitch from end to end; dimensions and
+markings defined by the Laws of the Game are sprayed in fading white.  Wood
+slat bins are spaced along paths which hug the edges of the field, and low
+benches are provided for makeshift audiences.  Spaced evenly along the
+border between the pitch and Rotten Row's manege stand slender maples.  The
+opposite border is hedged by thicker stands of trees; the Prince of Wales
+lodges and Natural History Museum peer through and above trunks and
+branches, distant but prominent.  By day the pitch is booked by occupants;
+rugby and football games fill the field with energy and noise.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20016
+S
+#20022
+Under the Serpentine Bridge at Hyde Park~
+The water is deeper than it looked from parapet, deeply green and cloudy.
+Rising to the chin of an average sized man, the surface wavers and gently
+ripples.  Overhead the high barrel arch is limned in moss; cast gray stone,
+mottled with graffiti and dangling tendrils of rugged growth.  The wing
+wall's steps are uneven and half-submerged under lake water.  They wind back
+up over the bridge without hand holds or even footing, perilous on the rare
+occasion temperatures drop below freezing.  Through cloudy water pools of
+tiny minnows dart and flicker.  The bottom of the lake, when reached, is
+slimy concrete.  
+~
+0 395264 6
+1
+0 0
+D4
+~
+~
+0 0 20010
+S
+#20023
+Speakers' Corner at Hyde Park~
+A sunburst of nine paths and seven outlying mosaics converge at a
+sandstone mosaic where the Reformer's Tree once stood.  A wide, open-air
+public speaking area, the 'corner' is closed on all sides by planes of grass
+and the occasional span of iron-wrought fence.  The enclosure is vast,
+easily accommodating hundreds of people.  By day people crowd through the
+area, some standing on actual soap boxes, holding up signs and making their
+opinions known.  The corner's existence is frequently upheld as a
+demonstration of free speech, as anyone can turn up unannounced and talk on
+almost any subject, though always at the risk of being heckled by regulars. 
+To the west a reddish brick path fades into well-worn cobblestones.  
+~
+0 0 1
+1
+0 0
+E
+mosaic~
+The mosaic commemorates the 'Reformers Tree', a venerable oak which was
+set ablaze during the Reform League Riots of 1866.  The remaining stump
+became a noticeboard for the political demonstration and a gathering point
+for Reform League meetings.  In 1977 the stump was uprooted, and the mosaic
+lain where it once stood.  
+~
+E
+corner~
+Though Hyde Park Speakers' Corner is considered the paved area closest to 
+Marble Arch, legally the public speaking area extends beyond the Reform Tree
+and covers a large area from Marble Arch to Victoria Gate, then along the 
+Serpentine to Hyde Park Corner and the Broad Walk running from Hyde Park 
+Corner to Marble Arch.
+#n
+Public riots broke out in the park in 1855, in protest over the Sunday 
+Trading Bill, which forbade buying and selling on a Sunday, the only day 
+working people had off. The riots were described by Karl Marx as the 
+beginning of the English revolution.
+#n
+The Chartist movement used Hyde Park as a point of assembly for workers'
+protests, but no permanent speaking location was established. The Reform 
+League organized a massive demonstration in 1866 and then again in 1867, 
+which compelled the government to extend the franchise to include most 
+working-class men.
+~
+D3
+~
+~
+0 0 20001
+S
+#20024
+Victoria Embankment~
+Designed in contribution to a civilized cityscape, the Victoria Embankment
+both literally and figuratively keeps society from nature, acting as a fixed,
+ordered boundary between civilization and the liveliness of the river. When 
+schemes of redesigning the city budded in the seventeenth century, disciplining
+the Thames -- incorporating it into London's care -- transformed the wildness 
+of nature into a cleansed, protected, and improved river: a modern river, 
+currents brown and vehemently flowing. The Victoria Embankment extends below 
+Blackfriars Bridge and outstretching docks. Flat-faced, red brick warehouses 
+crowned with coal chimneys are quickly being reconstituted as high rent 
+offices blocks and flats, layering out toward the city proper in concentric 
+circles.  Dutch Elm trees and electric carbon arc lamps run the gamut of the 
+embankment, further manicuring the river's edge. To the north a reddish brick 
+road leads toward the Aspley Gate at Hyde Park. East the embankment continues 
+to hug the Thames, threaded in paved lanes of traffic. Nestled to the southwest
+is the white Pavilion Hotel, labeled with black letters. 
+~
+0 0 1
+1
+0 0
+E
+dragon~
+The dragon boundary marks are cast iron statues of dragons on metal or
+stone plinths that mark the boundaries of the City of London.  The dragons
+are painted silver, with details of their wings and tongue picked out in
+red.  The dragon stands on one rear leg, the other lifted against a shield,
+with the right foreleg raised and the left foreleg holding a shield which
+bears the City of London's coat of arms, painted in red and white.  This
+stance is the equivalent of the rampant heraldic 'attitude' of the
+supporters of the City's arms.  
+~
+D0
+~
+~
+0 0 20000
+D1
+~
+~
+0 0 20026
+D2
+~
+~
+1 0 20025
+S
+#20025
+The Pavilion Hotel~
+Bright, hazily painted royal blue walls with weathered steel wainscoting
+rise up to the low ceiling.  A tiny crystal chandelier dangles six tiers of
+prisms around blinking bulbs in the middle of a cloudy sky fresco, filling
+the reception with animate light.  Blue and bronze urns are filled with
+peacock feathers; tarnished bronze lampshades decorate tables that hug the
+walls.  Seating is provided in over the top wingback chairs cast in gilt
+bronze, lush blue velveteen cushions gold-embroidered with latin
+playscripts.  Mismatched throw pillows squish in the corner of a cerulean
+settee.  An ancient persian rug coats the floor, guiding feet up to the
+front of the pedestal desk.  Keys are issued in old-fashioned form; dangling
+on pegs behind the reception.  A long, shadowy hallway leads south, guiding
+guests deeper into the hotel.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20024
+D2
+~
+~
+0 0 20110
+S
+#20026
+Victoria Embankment~
+Anchored in permanent residence along the far-reaching docks, the HMS
+President, HMS Wellington, and PS Tattershall Castle bob and sway, light
+with bright lights in thousands of cabin windows.  The Victoria Embankment
+extends below Blackfriars Bridge and outstretching docks.  Flat-faced, red
+brick warehouses crowned with coal chimneys are quickly being reconstituted
+as high rent offices blocks and flats, layering out toward the city proper
+in concentric circles.  Dutch Elm trees and electric carbon arc lamps run
+the gamut of the embankment, further manicuring the river's edge.  The
+embankment runs east and west along the riverbank, threaded in paved lanes
+of traffic.  Walkways, benches and bicycle paths hedge the roads.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20024
+S
+#20027
+Victoria Embankment~
+The east end of Victoria Embankment houses part of the Metropolitan 
+District Railway and part of the Low Level Sewer.  London's assertion of the 
+rights of the rational and cleansed over the irrational and disordered 
+incorporates itself tangibly in the Thames, absorbing it into the city as an 
+object of its control.  The embankment provides a physical and firm divide 
+between culture and nature, and a rigid enclosure of the oft-violent 
+currents of the River Thames.  Flat-faced, red brick warehouses crowned with
+coal chimneys are quickly being reconstituted as high rent offices blocks 
+and flats, layering out toward the city proper in concentric circles. Dutch 
+Elm trees and electric carbon arc lamps run the gamut of the embankment, 
+further manicuring the river's edge.  To the east the Embankment dips 
+beneath an overpass; Queen Victoria Street picks up and carries foot and 
+vehicle traffic through densely-populated rows of high buildings. 
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20150
+D3
+~
+~
+0 0 20026
+S
+#20028
+Queen Victoria Street~
+Queen Victoria Street runs east from its junction with the Victoria
+Embankment, skirting along a section that divides the wards of Queenhithe
+and Bread Street, then lastly through the middle of Cordwainer ward,
+eventually reaching Mansion House Street at Bank junction.  Broad sidewalks
+and corner shops squish between massive, multi-story buildings with high
+Victorian architecture; four lanes of traffic move in one-way routes,
+slowing and flowing in equal time with the blink of street lights. 
+Thousands of people herd up and travel down sidewalks and over crosswalks,
+mulling in and out of doors; just getting where they're going.  The
+Blackfriars exit from the London Underground is encased behind a stout
+monolith of glass to the northwest.  A brutalist office block takes up a
+vast portion of the southern skyline.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20027
+S
+#20029
+Queen Victoria Street~
+The number '174' is painted in peeling gold above the door of the
+Blackfriar public house; occupying the lowest floor of a four-story corner
+building, the v-shaped structure bears Edwardian architecture in white
+appliques, stately lintels and black iron balconies.  A portly, black iron
+friar stands above the entrance, and above him a roman numeral clock piece. 
+Queen Victoria Street runs east from its junction with the Victoria
+Embankment, headed steadily for for the Lower Thames.  Broad sidewalks and
+corner shops squish between massive, multi-story buildings with high
+Victorian architecture; four lanes of traffic move in one-way routes,
+slowing and flowing in equal time with the blink of street lights. 
+Thousands of people herd up and travel down sidewalks and over crosswalks,
+mulling in and out of doors; just getting where they're going.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 0 20115
+D1
+~
+~
+0 0 20030
+D3
+~
+~
+0 0 20028
+S
+#20030
+Queen Victoria Street~
+Vivid in its blaze of red paint, the striking Holborn Viaduct spans the
+width of Queen Victoria Street, crafted in steel, polished granite, Portland
+stone, and bronze.  Dragons perch from roundels in the spandrels and flank
+the base of the streetlights.  Intricate floral and foliate patterns fill
+the balustrade and cluster around the dragons.  Queen Victoria Street
+collides with Lower Thames Street to the east, marked by a broadening from
+four to six lanes of traffic.  Broad sidewalks and classic wedge buildings
+squish between high-rises with high Victorian architecture; four lanes of
+traffic move in one-way routes, slowing and flowing in equal time with the
+blink of street lights.  Thousands of people herd up and travel down
+sidewalks and over crosswalks, mulling in and out of doors; just getting
+where they're going.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20029
+S
+#20031
+Upper Thames Street~
+Thames Street, divided into Lower and Upper Thames, is the historic and
+financial center of London.  The London Bridge underpass marks the divide
+between Upper and Lower Thames Street, with Lower to the east and Upper to
+the west; here on Upper iron bollards run along the sidewalks, the streets
+are well-lit even on the darkest, most clouded nights, and the bustle of
+life in constant motion is ever-present.  The London Fire Brigade's fire
+investigation unit is based at Dowgate fire station at the northwestern
+corner, hedged into the intersection with Allhallows Lane.  To the west the
+street narrows from six to four lanes of traffic, curving with the riverbend
+toward Queen Victoria Street.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 20013 20138
+D1
+~
+~
+0 0 20032
+D2
+~
+~
+1 20185 20171
+D3
+~
+~
+0 0 20030
+S
+#20032
+Upper Thames Street~
+Thames Street, divided into Lower and Upper Thames, is the historic and
+financial center of London.  The London Bridge underpass marks the divide
+between Upper and Lower Thames Street, with Lower to the east and Upper to
+the west; here on Upper iron bollards run along the sidewalks, the streets
+are well-lit even on the darkest, most clouded nights, and the bustle of
+life in constant motion is ever-present.  To the east the street juts
+sharply toward the mouth of the London Bridge.  A dramatic reclaiming of the
+foreshore of the Thames has opened Puddle Dock to the immediate south,
+populated with barges and private boats.  Waterfront buildings and unique
+stores crowd the edges of both embankment and street.  New Bridge Street
+cuts a sharp right angle to the north.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20064
+D1
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20031
+S
+#20033
+Lower Thames Street~
+Lower Thames Street is home to high finance and tourism, and separated
+only by the London Bridge from it's Upper half.  The street stretches along
+the River Thames from Westminster to Tower Hill, running more than a
+half-mile of densely populated sidewalks, shops, properties and traffic
+lanes.  Though Lower Thames is now separated from the river Thames and by
+buildings and hotels, in the medieval period it ran closer to the river,
+hugging the remnants of an ancient Roman wall.  Rugged stones climbing with
+moss and ancient graffiti spear the southern sidewalk in erratic patterns,
+surrounded by orderly capstones.  A distinct curve leads southward toward
+the London Bridge, while to the west the overpass divides Thames Street into
+halves.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 0 22000
+D1
+~
+~
+0 0 20034
+D3
+~
+~
+0 0 20032
+S
+#20034
+Lower Thames Street~
+Among Lower Thames Street's most notable buildings are St.  Magnus the
+Martyr Church, the old gray brick custom-house, and Old Swan Tavern.  These
+buildings, along with sites such as the steelyard and a weigh station for
+imports, illustrate Thames Street's status as a well-known and well-traveled
+road, serving as a major trade center in London from time antiquity. 
+Georgian bow-fronted shops rise several stories, skirting the northern edge
+of the street.  Old street lamps and blue plaques mark numerous custom
+houses.  To the south the Thames swells and ripples in brown currents;
+across the river the thick urban landscape of the London metropolitan area
+is brightly-lit, illuminating the polluted sky.  To the east traffic and
+sidewalks are tilted toward higher elevation.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20033
+S
+#20035
+Cannon Street~
+The cobblestoned maze of through-ways and sidewalks around Cannon Street
+was initially the place of residence of the candle-makers, first appearing
+as 'Candelwrichstrete Street' in 1190.  The name was shortened over sixty
+times as a result of the cockney dialect and settled on Cannon Street in the
+17th century -- therefore not related to the firearms.  In the late 19th
+century Cannon Street was occupied by large wholesale warehouses, especially
+of cotton goods and other fabrics; countless such warehouses still crowd the
+embankment, red brick crowned with dozens of black-crusted coal chimneys. 
+Tucked into a narrow northern alleyway a cobblestone walk leads to bleak
+shadow accentuated by the globes of dull, antique oil lamps.  To the west
+Thames Street broadens into multiple lanes of descending traffic.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20061
+D1
+~
+~
+0 0 20036
+D3
+~
+~
+0 0 20034
+S
+#20036
+Cannon Street~
+Cannon Street, the historic nucleus of London and its modern financial
+center, runs roughly parallel with the River Thames.  In the west, Cannon
+Street starts at St.  Paul's Churchyard outside St Paul's Cathedral; running
+west it meets Thames Street near Mansion House tube station.  In the late
+19th century Cannon Street was occupied by large wholesale warehouses,
+especially of cotton goods and other fabrics; countless such warehouses
+still crowd the embankment, red brick crowned with dozens of black-crusted
+coal chimneys.  Behind a protective, curiously curling grate of mint green
+iron the ancient London Stone resides in the wall of St.  Swithin's Church. 
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20035
+S
+#20037
+Cannon Street at Tower Bridge~
+The two bridge towers are tied together at the upper level by two
+horizontal walkways, designed to withstand the horizontal tension forces
+exerted by the suspended sections of the bridge on landward sides.  The
+vertical components are carried by two robust Victorian towers, with the
+bascule pivots and operating machinery housed in the base of each.  The
+bridge deck is freely accessible to both vehicles and pedestrians, whereas
+the bridge's twin towers, high-level walkways and Victorian engine rooms
+form part of the Tower Bridge Exhibition.  The nearest London Underground
+tube stations are Tower Hill to the east, London Bridge, and Tower Gateway. 
+To the west Cannon Street slopes steadily down to lower elevation.  East,
+All Hallows-by-the-Tower overlooks the Tower of London.  To the north a long
+lane leads toward a well-preserved Georgian square.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20042
+D1
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20036
+S
+#20038
+Tower Gateway~
+The sprawling collection of buildings, walls, towers, moats, gates and
+fields called The Tower of London was begun shortly by William the Conqueror
+after the Norman invasion in 1066.  In the near-thousand years since, the
+Tower to the north has been enlarged and modified by successive monarchs,
+and has seen more history than most castles -- as a royal palace, imposing
+fortress, feared prison and gruesome place of execution, royal mint, military 
+arsenal, private zoo, and repository of the Crown Jewels.  The site of the
+tower rests near a key river crossing, close to port landings at the southeast 
+corner of the old Roman walls of London.  Bridges drop over ancient moats, now
+grassed over.  Across the Thames red London buses and pedestrians whiz across 
+Tower Bridge to the London metropolitan area.  The bascules raise to allow 
+river vessels to sail beneath it.  To the south, bolstered up close against
+the crowded embankment, the All Hallows-by-the-Tower Anglican church lifts its
+high spire into the skies. 
+~
+0 131072 1
+1
+0 0
+D0
+~
+~
+1 0 20041
+D1
+~
+~
+0 0 20039
+D2
+~
+~
+1 0 20119
+D3
+~
+~
+0 0 20037
+S
+#20039
+Tower Gateway~
+The sprawling collection of buildings, walls, towers, moats, gates and
+fields called The Tower of London was begun shortly by William the Conqueror
+after the Norman invasion in 1066.  In the near-thousand years since, the
+Tower to the north has been enlarged and modified by successive monarchs,
+and has seen more history than most castles -- as a royal palace, imposing
+fortress, feared prison and gruesome place of execution, royal mint,
+military arsenal, private zoo, and repository of the Crown Jewels.  The site
+of the tower rests near a key river crossing, close to port landings at the
+southeast corner of the old Roman walls of London.  Bridges drop over
+ancient moats, now grassed over.  Across the Thames red London buses and
+pedestrians whiz across Tower Bridge to the London metropolitan area.  The
+bascules raise to allow river vessels to sail beneath it.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20040
+D3
+~
+~
+0 0 20038
+S
+#20040
+Trinity Gardens at the Tower of London~
+Trinity Square Gardens, just north of Tower Hill tube station, was once
+the site of hundreds of executions.  Today it bears an atmosphere of
+cautious tranquility, ringed with prominent buildings and portions of the
+wall that once enclosed the Roman settlement of Londinium.  To the north is
+Trinity House, topped with a ship's weathervane.  To the northwest the
+massive Port of London Authority building has been converted into
+residential blocks and the Ten Trinity Square hotel.  The Tower Hill
+Memorial's austere marbled facade rests to the southeast, dedicated to the
+almost twenty-five thousand merchant sailors who died in both world wars and
+have no known grave.  A grassy courtyard before the tube's main is home to a
+solid stretch of the medieval wall built on Roman foundations, with a modern
+statue of Emperor Trajan looming in full regalia.  The most striking display
+clusters around the Tower walls: eight hundred thousand delicate, red
+ceramic poppies, each representing a British fatality during World War I;
+the green and tranquil grass in the middle of a bustling city suddenly
+spills over with bright, violent red.  Reflection benches pepper the gardens
+and courtyards.  
+~
+0 131072 1
+1
+0 0
+D2
+~
+~
+0 0 20039
+D3
+~
+~
+1 0 20041
+S
+#20041
+Tower of London~
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 20040
+D2
+~
+~
+1 0 20038
+S
+#20042
+Bedford Square~
+Bedford Square, the best-preserved Georgian square in London, is designed
+as a whole and surrounded by the smoky gray, flat-faces of its original
+Georgian terrace houses.  At its heart lies its private garden, a spacious,
+leafy haven in the midst of of a bustling metropolis.  The street typifies
+late Georgian and early Victorian style, built on top of the St Giles's
+rookery made famous by Dickens.  The estates and flats possess a dedicated
+gardening team, carefully cherishing its historic lawns, stately maple trees
+and shrubberies; recently established features include a Victorian inspired
+stumpery and a Japanese border, locked neatly away in the square's private
+gardens.  From the south Cannon Street's east and west lanes flood the
+square with the hazy sounds of traffic.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20043
+D2
+~
+~
+0 0 20037
+S
+#20043
+Bedford Square~
+Bedford Square, the best-preserved Georgian square in London, is designed
+as a whole and surrounded by the smoky gray, flat-faces of its original
+Georgian terrace houses.  At its heart lies its private garden, a spacious,
+leafy haven in the midst of of a bustling metropolis.  The street typifies
+late Georgian and early Victorian style, built on top of the St Giles's
+rookery made famous by Dickens.  The estates and flats possess a dedicated
+gardening team, carefully cherishing its historic lawns, stately maple trees
+and shrubberies; recently established features include a Victorian inspired
+stumpery and a Japanese border, locked neatly away in the square's private
+gardens.  To the north the terrace houses narrow closer together and open
+onto Threadneedle Street.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20044
+D2
+~
+~
+0 0 20042
+S
+#20044
+Threadneedle Street~
+The wide back end of an elaborate wedge high-rise splits four lanes of
+traffic down the middle on Threadneedle, enforcing the sweeping lines of a
+noisy roundabout.  The bustle of activity through high Edwardian buildings
+is anguished and vehement; fast-paced and heavily trafficked, everyone
+appears to be just getting to where they're going, using the four lanes and
+roundabouts as a through-way to 'somewhere else.  ' The corners are all
+carved in stone and brick; not a single building levels under five stories. 
+To the south the road's aged bricks give way to cobblestones at Bedford
+Square.  North the borough of Lothbury stretches outward.  To the east
+Rainham Close street winds a sinuous route toward Greenwich and Brixton.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20107
+D1
+~
+~
+0 0 20054
+D2
+~
+~
+0 0 20043
+D3
+~
+~
+0 0 20045
+S
+#20045
+Threadneedle Street~
+Running alongside both the north and southern walls of a long, v-shaped
+Edwardian wedge building, four lanes of traffic are split into sets of two. 
+An enclosed bus stop rests up against the mouth of the London Underground's
+Threadneedle station.  The bustle of activity through high Edwardian
+buildings is anguished and vehement; fast-paced and heavily trafficked,
+everyone appears to be just getting to where they're going, using the four
+lanes and roundabouts as a through-way to 'somewhere else.  ' The corners
+are all carved in stone and brick; not a single building levels under five
+stories.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20046
+S
+#20046
+Threadneedle Street~
+An elaborate wedge high-rise stands in the mouth of Threadneedle's
+westerly opening, Edwardian in design, sooty white brick in material.  Thick
+glass windows span up seven stories, populated with flats and offices; on
+the ground floor a abandoned pub hides behind securely latched grates.  The
+bustle of Threadneedle is anguished and vehement; fast-paced and heavily
+trafficked, everyone appears to be just getting to where they're going,
+using the four lanes and roundabouts as a through-way to 'somewhere else.  '
+The corners are all carved in stone and brick; not a single building levels
+under five stories.  To the west the street rises toward Ludgate Hill.  To
+the south a tiny alley spans between Threadneedle and Cannon Street.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20045
+D2
+~
+~
+0 0 20060
+D3
+~
+~
+0 0 20047
+S
+#20047
+Ludgate Hill~
+Rising over one of the three ancient hills of London, Ludgate Hill
+reaches its highest point here at St.  Paul's Cathedral, a magnificent,
+white Baroque church with an expansive churchyard, twin clocktowers rising
+high astride the central dome and spire.  Many small alleys on Ludgate Hill
+were swept away to build the monolith railway station to the northwest.  To
+the immediate north the Paternoster Square houses the home of the London
+Stock Exchange, crawling with incessant activity.  Victorian, Edwardian and
+Georgian buildings face the streetsides, broken on occasion by overpass
+bridges.  To the east traffic buzzes toward Threadneedle Street.  
+~
+0 0 1
+1
+0 0
+E
+lore~
+Near the bottom of the hill, inlaid into the foundation of a brown brick
+Victorian, a blue plaque reads: "In a house near this site was published in
+1702 The Daily Courant first London daily newspaper".  
+~
+D0
+~
+~
+1 0 20125
+D1
+~
+~
+0 0 20046
+D3
+~
+~
+0 0 20048
+S
+#20048
+Ludgate Hill~
+Rising over one of the three ancient hills of London, Ludgate Hill
+crosses from the bustling New Bridge Street to the west to the old Ludgate;
+a gate with an attached medieval gaol, still standing in crumbling mold
+amidst a host of modern office buildings, banks, corner chippies, pubs and
+shops.  Traditionally the site of a Roman temple to the goddess Diana, only
+the foundation now stands to the north of the road, hemmed in by sidewalks
+and a low cedar hedge.  Many small alleys on Ludgate Hill were swept away to
+build the monolith railway station to the northeast.  To the south four
+lanes of traffic shrink to a one-way road, leading into the austere bustle
+of Southwark.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20047
+D2
+~
+~
+0 0 20062
+D3
+~
+~
+0 0 20049
+S
+#20049
+New Bridge Street~
+To the west the low bustle of Fleet Street etches out territory; to the
+east Ludgate Hill claims ground.  North, a great deal of traffic flows in
+from Farringdon Street.  New Bridge Street is immersed in history, with more
+than its share of mind-blowing antiquity and historic splendor.  The eight
+lanes of traffic, bicycle and pedestrian paths are crowded in by a labyrinth
+of milestones in the city's unique and compelling biography; architectural
+statements layering centuries of style.  The Shard's glittering glass spire
+and a notoriously gherkin-shaped high-rise provide enough innovation to put
+a crackle in the air, but these sparkling touches of modern urbanity fail to
+drown out the West End's well-preserved, centuries old narrative. 
+Architectural grandeur rises up all around New Bridge Street, ancient
+remains dot the shadows of alleys, and pubs punctuate the ground level of
+wedge buildings that split the traffic lanes.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20072
+D1
+~
+~
+0 0 20048
+D2
+~
+~
+0 0 20063
+D3
+~
+~
+0 0 20050
+S
+#20050
+Fleet Street~
+The home of London's newspaper industry; its name is still used as a
+generic term for the national press.  Fleet Street is a frantically busy
+stretch of the connecting route between New Bridge Street and the borough of
+Bethnal Green.  Called a "double street" on account of the equal frenzy
+weaving through its alleys and passageways, the foot traffic in every meter
+of space is a genuine problem for vehicular travel.  Protruding signboards
+are mounted above every doorway, rising up several stories to the highest
+levels; one of these fell down in 1718 and killed four people, including the
+King's jeweler.  Since the 1500s the press has driven out most of Fleet
+Street's other businesses, filling every space from ground to sky.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20049
+D3
+~
+~
+0 0 20051
+S
+#20051
+Fleet Street~
+The home of London's newspaper industry; its name is still used as a
+generic term for the national press.  Fleet Street is a frantically busy
+stretch of the connecting route between New Bridge Street and the borough of
+Bethnal Green.  Called a "double street" on account of the equal frenzy
+weaving through its alleys and passageways, the foot traffic in every meter
+of space is a genuine problem for vehicular travel.  Protruding signboards
+are mounted above every doorway, rising up several stories to the highest
+levels; one of these fell down in 1718 and killed four people, including the
+King's jeweler.  Since the 1500s the press has driven out most of Fleet
+Street's other businesses, filling every space from ground to sky.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20050
+D3
+~
+~
+0 0 20052
+S
+#20052
+Bethnal Green~
+Dim as a dusty candle, Bethnal Green is home to a jarring contrast of the
+destitute and creeping gentrification.  The neighborhood's back alleys
+remain dark and dodgy, but an influx of boutique hotels and nightlife
+centers are filtering fresh blood into the streets.  Art galleries and
+lounges share space with a resident cast of gentleman's clubs -- the sort of
+low-class venues that lend the borough its illicit atmosphere.  Home to
+starving artists, musicians, and vagrants who have set up residences in old
+smokestack warehouses, everywhere are reminders that Bethnal Green is a
+place that seedy people call home.  From vagabonds to bond traders, Bethnal
+Green is London's most diverse neighborhood.  Dilapidated storefronts and
+warehouses are in part occupied by thriving havens for the arts.  To the
+south, Viajante restaurant has claimed the old town hall, turning it into an
+informal gastronomic experience for the culinarily inquisitive.  To the
+north Chancery Lane curves sinuously through a tree-lined through-way.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20065
+D1
+~
+~
+0 0 20051
+D2
+~
+~
+1 0 20127
+D3
+~
+~
+0 0 20053
+S
+#20053
+A narrow alley in Bethnal Green~
+Framed on all sides by the looming red brick walls of post-industrial
+warehouses, the alley is dark, damp, and reeks of mold.  Shockingly little
+light makes its way into the alley; even during the height of day the
+structures block all but the thinnest sliver of sunlight from reaching the
+lower halves of the walls.  Puddles are permanent, filling the gaps in long
+forgotten cobblestones.  A bizarre series of symbols are spray-painted onto
+the foundation in the northeastern corner, vividly red -- frequently
+freshened.  
+~
+0 131073 1
+1
+0 0
+D1
+~
+~
+0 0 20052
+S
+#20054
+Rainham Close~
+Course squares of lawn fill the space between the sidewalks and endless
+rows of brick, two-story flats.  The metropolitan bustle of London is kept
+momentarily at bay in this residential neighborhood; a few traditional black
+taxis take side-routes down the cracked pavement, but otherwise the row is
+relatively spared from traffic.  The majority of homes are attached -- on
+occasion semi-detached Victorians fit into a corner.  Most driveways are
+paved with brick.  The occasional playground or garden fence closes off the
+minimal lawns each lot possess.  Large, dull steel streetlamps line the
+sidewalks.  To the west the buildings rise up dramatically higher, curving
+through a roundabout toward Threadneedle Street.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20055
+D3
+~
+~
+0 0 20044
+S
+#20055
+Rainham Close~
+Course squares of lawn fill the space between the sidewalks and endless
+rows of brick, two-story flats.  The metropolitan bustle of London is kept
+momentarily at bay in this residential neighborhood; a few traditional black
+taxis take side-routes down the cracked pavement, but otherwise the row is
+relatively spared from traffic.  The majority of homes are attached -- on
+occasion semi-detached Victorians fit into a corner.  Most driveways are
+paved with brick.  The occasional playground or garden fence closes off the
+minimal lawns each lot possess.  Large, dull steel streetlamps line the
+sidewalks.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20056
+D3
+~
+~
+0 0 20054
+S
+#20056
+Rainham Close~
+Course squares of lawn fill the space between the sidewalks and endless
+rows of brick, two-story flats.  The metropolitan bustle of London is kept
+momentarily at bay in this residential neighborhood; a few traditional black
+taxis take side-routes down the cracked pavement, but otherwise the row is
+relatively spared from traffic.  The majority of homes are attached -- on
+occasion semi-detached Victorians fit into a corner.  Most driveways are
+paved with brick.  The occasional playground or garden fence closes off the
+minimal lawns each lot possess.  Large, dull steel streetlamps line the
+sidewalks.  To the east the street ducks under an overpass and provides a
+left or right option; both lanes lead toward Brixton Borough.  To the north
+the Royal Borough of Greenwich blossoms around stately tower blocks.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20096
+D1
+~
+~
+0 0 20057
+D3
+~
+~
+0 0 20055
+S
+#20057
+Brixton Borough~
+Brixton's widely-untended cobblestones and weathered edifices embrace its
+unapologetically unpolished reputation.  Evolving from a site of controversy
+and struggle during the 1990's, Brixton has steadily increased its appeal
+without losing much of its cosmopolitan make-up.  The neighborhood replaces
+Britain's acclaimed architecture and posh boutiques with homespun culture
+and more than a bit of the crass.  Brixton's diverse community lends the
+neighborhood a sincerely lived-in feel.  Tower block buildings house
+countless flats, terraces cluttered with plants and laundry.  To the south
+of Flower Street the sweet smell of cake batter infuses the air.  A highly
+suburban neighborhood meanders west, walled behind ancient bricks.  To the
+east the borough thickens.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20058
+D2
+~
+~
+1 0 20124
+D3
+~
+~
+0 0 20056
+S
+#20058
+Brixton Borough~
+Brixton's widely-untended cobblestones and weathered edifices embrace its
+unapologetically unpolished reputation.  Evolving from a site of controversy
+and struggle during the 1990's, Brixton has steadily increased its appeal
+without losing much of its cosmopolitan make-up.  The neighborhood replaces
+Britain's acclaimed architecture and posh boutiques with homespun culture
+and more than a bit of the crass.  Invitingly alternative, the
+neighborhood's energy emanates from the shops along Electric Avenue to the
+art galleries, local markets, and pop-up restaurants in Brixton Village
+Market.  By wandering through the market the origins of the residents become
+clear; it overflows with a variety of goods and products from around the
+world, occupying the entirety of the lower southeastern corner.  Tropical
+foods, home-burned CDs, and exotic fabrics are all purchasable in a single
+visit.  The Ritzy cinema stands to the north of the street, six doors
+revolving under an old-fashioned marquee.  To the south lies the two-story
+Geek Chic.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 0 20123
+D1
+~
+~
+0 0 20059
+D2
+~
+~
+1 0 20167
+D3
+~
+~
+0 0 20057
+S
+#20059
+Haggerston Borough~
+Haggerston's worn-in atmosphere is attributed to its motley mix of
+progressively designed apartment complexes, orderly cafe counters, and
+meticulously boarded up windows.  Sharing the same offbeat attitude as
+nearby Brixton, artists and students often congregate in Haggerston -- a
+neighborhood known for its laissez-faire attitude, where unpredictability is
+expected.  This northeast London locale is best suited to those who
+appreciate a graffiti-friendly aesthetic and an everyday, multicultural
+community.  Like several communities along Regent's Canal, Haggerston is
+enjoying a neighborhood revival as creative minds use old spaces for new
+endeavors.  The canal itself has been embraced as a natural amenity, with
+modern apartments breaking ground along its banks.  Street art pervades
+intrepidly imaginative empty spaces; blank walls and the faces of red brick
+warehouses.  A bicycle is the best -- and frequently only -- way of
+exploring Haggerston.  Traffic is so congested that even the smallest taxis
+avoid the roads.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20095
+D3
+~
+~
+0 0 20058
+S
+#20060
+Goodwin's Court~
+The buildings in this quaint, tiny alley sequestered between Threadneedle
+Street and Cannon Street date to 1690 -- a walk down the rough squared cobbles
+makes the centuries fade away.  Still lit by three large, working gaslights,
+the Georgian bow-fronted shops, black doors and highly polished brass knobs
+and knockers evoke a lost age, while brass plates announce the names of the
+businesses therein.  Arched cellar doors wedge in the corners between the
+cobblestones and red brick walls.  Window displays are eye-catching, though
+the shopfronts have little architectural elaboration.  To the north a small
+opening reveals the anguished, half-Edwardian bustle of Threadneedle Street.
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20046
+D2
+~
+~
+0 0 20061
+S
+#20061
+Goodwin's Court~
+The buildings in this quaint, tiny alley sequestered between Threadneedle
+Street and Cannon Street date to 1690 -- a walk down the rough squared cobbles
+makes the centuries fade away.  Still lit by three large, working gaslights,
+the Georgian bow-fronted shops, black doors and highly polished brass knobs
+and knockers evoke a lost age, while brass plates announce the names of the
+businesses therein.  Arched cellar doors wedge in the corners between the
+cobblestones and red brick walls.  Window displays are eye-catching yet the
+shopfronts have little architectural elaboration.  To the south a small
+opening leads toward the thick bustle of Cannon Street.
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20060
+D2
+~
+~
+0 0 20035
+S
+#20062
+Borough of Southwark~
+Like the perfect pot of afternoon tea, Southwark has been culturally
+steeping for centuries.  The neighborhood is home to many of the city's
+iconic landmarks -- some of London's most iconic bridges, buildings, and
+museums are located in Southwark.  Brick and steel overpasses run alongside
+transparent glass facades and stone cathedrals; from the tallest stories
+panoramic views of history abutting modernity reveal themselves in flawless
+urbanity.  Old brick warehouses line the roadways; some have been remodeled
+into ultra-modern marvels while others remain endearingly sooty.  The
+tunnels under bridges serve grander purposes than simple passageways --
+nightclubs create nocturnal attractions, and when the day turns dark Cable
+nightclub opens its unassuming doors.  Luminous vaulted bridges contrast
+Southwark's dark tunnel spaces and alleys; the neighborhood's striking
+contradictions only add to its visual mystique.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20048
+D1
+~
+~
+0 0 20118
+D3
+~
+~
+0 0 20063
+D5
+~
+~
+1 0 20120
+S
+#20063
+New Bridge Street~
+A vast parking lot stretches between New Bridge Street and the cyan glass
+monolith of Asda Supercentre, situated to the immediate west of traffic. 
+New Bridge Street is immersed in history, with more than its share of
+mind-blowing antiquity and historic splendor.  The eight lanes of traffic,
+bicycle and pedestrian paths are crowded in by a labyrinth of milestones in
+the city's unique and compelling biography; architectural statements
+layering centuries of style.  The Shard's glittering glass spire and a
+notoriously gherkin-shaped high-rise provide enough innovation to put a
+crackle in the air, but these sparkling touches of modern urbanity fail to
+drown out the West End's well-preserved, centuries old narrative. 
+Architectural grandeur rises up all around New Bridge Street, ancient
+remains dot the shadows of alleys, and pubs punctuate the ground level of
+wedge buildings that split the traffic lanes.  To the east a grand arch of
+brown bath stone and red brick draws attention to the Borough of Southwark. 
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20049
+D1
+~
+~
+0 0 20062
+D2
+~
+~
+0 0 20064
+D3
+~
+~
+1 0 20160
+S
+#20064
+New Bridge Street~
+To the south a thick cluster of stout traffic lights perplex the
+vehicular traffic flowing onto Upper Thames.  New Bridge Street is immersed
+in history, with more than its share of mind-blowing antiquity and historic
+splendor.  The eight lanes of traffic, bicycle and pedestrian paths are
+crowded in by a labyrinth of milestones in the city's unique and compelling
+biography; architectural statements layering centuries of style.  The
+Shard's glittering glass spire and a notoriously gherkin-shaped high-rise
+provide enough innovation to put a crackle in the air, but these sparkling
+touches of modern urbanity fail to drown out the West End's well-preserved,
+centuries old narrative.  Architectural grandeur rises up all around New
+Bridge Street, ancient remains dot the shadows of alleys, and pubs punctuate
+the ground level of wedge buildings that split the traffic lanes.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20063
+D2
+~
+~
+0 0 20032
+S
+#20065
+Chancery Lane~
+A one-way, tree-lined street forms the western boundary of London.  The
+lane that once connected the Knights Templar to their temples in Holborn has
+taken on a decidedly urban character in the last three centuries; while
+retaining its vast Georgian buildings, a steady rise of legal offices and
+solicitors take premises on Chancery Lane, filling the antique shops where
+wig makers, strongbox makers, law stationers and booksellers once peddled
+their skills and wares.  Antique cobblestones pave the street, necessitating
+slow vehicular traffic.  Sidewalks dotted with old iron lamps struggle to
+illuminate the weaving maze of alleyways branching out from here through the
+city of London.  Down an unmarked passage to the west an old, smooth
+structure of stone and brickwork stands.  To the south the Borough of
+Bethnal Green spreads out like a cancer.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20066
+D2
+~
+~
+0 0 20052
+D3
+~
+~
+1 0 20128
+S
+#20066
+Chancery Lane~
+A one-way, tree-lined street forms the western boundary of London.  The
+lane that once connected the Knights Templar to their temples in Holborn has
+taken on a decidedly urban character in the last three centuries; while
+retaining its vast Georgian buildings, a steady rise of legal offices and
+solicitors take premises on Chancery Lane, filling the antique shops where
+wig makers, strongbox makers, law stationers and booksellers once peddled
+their skills and wares.  Antique cobblestones pave the street, necessitating
+slow vehicular traffic.  Sidewalks dotted with old iron lamps struggle to
+illuminate the weaving maze of alleyways branching out from here through the
+city of London.  The 19th-century neo-Gothic Maughan Library and its clock
+tower is situated on the eastern side of Chancery Lane, standing tall behind
+a well-tended lawn.  Hedges and stately trees line the walkway to the
+library doors.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20067
+D2
+~
+~
+0 0 20065
+S
+#20067
+Chancery Lane~
+A one-way, tree-lined street forms the western boundary of London.  The
+lane that once connected the Knights Templar to their temples in Holborn has
+taken on a decidedly urban character in the last three centuries; while
+retaining its vast Georgian buildings, a steady rise of legal offices and
+solicitors take premises on Chancery Lane, filling the antique shops where
+wig makers, strongbox makers, law stationers and booksellers once peddled
+their skills and wares.  Antique cobblestones pave the street, necessitating
+slow vehicular traffic.  Sidewalks dotted with old iron lamps struggle to
+illuminate the weaving maze of alleyways branching out from here through the
+city of London.  To the east the perfect elegance of West End lifts high in
+skyscrapers and Georgian high-rises.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20068
+D2
+~
+~
+0 0 20066
+S
+#20068
+West End~
+The Royal Academy of Arts hosts exhibitions, discussions, and events to
+promote the visual arts to the north, sequestered away behind four layered
+levels of ornate, grayish cream Regency architecture.  Pennant flags drape
+down the face of the academy, tumbling to the tips of an iron-spired fence. 
+An enclosed bus stop is situated between two tall iron streetlamps.  To the
+northwest Chinatown is packed with colorful restaurants.  Everything is on
+display in storefront window, and bright red paper lanterns drape from tall,
+historic buildings, crossing the street up and down the entire ward.  Pubs
+serving traditional fish and chips and bars serving contemporary small
+plates saturate the West End with endless options.  Black Hackney carriages
+zip easily down sidestreets and alleys.  The road cuts sharply south toward
+Chancery Lane.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20069
+D3
+~
+~
+0 0 20067
+S
+#20069
+West End~
+From its commercial plazas to its side streets and back alleys, the West
+End whirs with unyielding, not necessarily positive energy.  The West End is
+home to London's two most famous squares, Leicester Square and Trafalgar
+Square.  Trafalgar Square's statuesque lions stoically watch over the
+plaza's incessant activity, black iron and four in number, indifferently
+gazing through white and brown structural antiquity.  Nelson's Column stands
+proudly at the square's center.  Locals and tourists descend on Oxford
+Street, the West End's answer to commercial pursuits.  Every
+hole-in-the-wall shop on the ground level of bustling streetsides is filled
+to the brim with chains or local curiosities.  Iconic double-decker buses
+and smart car cabs weave freely through three lanes of traffic.  To the east
+New Bridge Street's massive through-way turns at a subtle angle.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20070
+D3
+~
+~
+0 0 20068
+S
+#20070
+New Bridge Street~
+To the east the Old Bailey follows the line of the City of London's
+fortified wall; to the west West End's heavy, solid crowding narrows traffic
+down to two lanes.  North and south, New Bridge Street is immersed in
+history, with more than its share of mind-blowing antiquity and historic
+splendor.  The eight lanes of traffic, bicycle and pedestrian paths are
+crowded in by a labyrinth of milestones in the city's unique and compelling
+biography; architectural statements layering centuries of style.  The
+Shard's glittering glass spire and a notoriously gherkin-shaped high-rise
+provide enough innovation to put a crackle in the air, but these sparkling
+touches of modern urbanity fail to drown out the West End's well-preserved,
+centuries old narrative.  Architectural grandeur rises up all around New
+Bridge Street, ancient remains dot the shadows of alleys, and pubs punctuate
+the ground level of wedge buildings that split the traffic lanes.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20081
+D1
+~
+~
+0 0 20073
+D2
+~
+~
+0 0 20071
+D3
+~
+~
+0 0 20069
+S
+#20071
+New Bridge Street~
+New Bridge Street is immersed in history, with more than its share of
+mind-blowing antiquity and historic splendor.  The eight lanes of traffic,
+bicycle and pedestrian paths are crowded in by a labyrinth of milestones in
+the city's unique and compelling biography; architectural statements
+layering centuries of style.  The Shard's glittering glass spire and a
+notoriously gherkin-shaped high-rise provide enough innovation to put a
+crackle in the air, but these sparkling touches of modern urbanity fail to
+drown out the West End's well-preserved, centuries old narrative. 
+Architectural grandeur rises up all around New Bridge Street, ancient
+remains dot the shadows of alleys, and pubs punctuate the ground level of
+wedge buildings that split the traffic lanes.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20070
+D2
+~
+~
+0 0 20072
+S
+#20072
+New Bridge Street~
+New Bridge Street is immersed in history, with more than its share of
+mind-blowing antiquity and historic splendor.  The eight lanes of traffic,
+bicycle and pedestrian paths are crowded in by a labyrinth of milestones in
+the city's unique and compelling biography; architectural statements
+layering centuries of style.  The Shard's glittering glass spire and a
+notoriously gherkin-shaped high-rise provide enough innovation to put a
+crackle in the air, but these sparkling touches of modern urbanity fail to
+drown out the West End's well-preserved, centuries old narrative. 
+Architectural grandeur rises up all around New Bridge Street, ancient
+remains dot the shadows of alleys, and pubs punctuate the ground level of
+wedge buildings that split the traffic lanes.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20071
+D2
+~
+~
+0 0 20049
+S
+#20073
+Old Bailey~
+A three-story Italianate, white brick building spans the entirety of the
+block upon which it was built; the Old Bailey, just outside the western wall
+of the City of London, named after the street on which it is located, which
+itself follows the line of the original bailey.  The Central Criminal Court
+is held in the Old Bailey, beautifully invited through arches carved with
+scales and axioms.  The glittering bronze cast statue of Lady Justice rests
+atop the highest spire above the court's central dome; the dome is supported
+by doric columns, and long, capstone windows run orderly rows on all three
+levels of the building.  The architecture up and down Bailey reflects the
+regal elegance of the court.  Wide traffic lanes mull with cautious vehicles
+and less-cautious pedestrians.  Old Dutch Elm trees flare their branches in
+tended fans between the antique street lamps.  The road curves steadily left
+onto New Bridge Street.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20074
+D3
+~
+~
+0 0 20070
+S
+#20074
+Old Bailey~
+A three-story Italianate, white brick building spans the entirety of the
+block upon which it was built; the Old Bailey, just outside the western wall
+of the City of London, named after the street on which it is located, which
+itself follows the line of the original bailey.  The Central Criminal Court
+is held in the Old Bailey, beautifully invited through arches carved with
+scales and axioms.  The glittering bronze cast statue of Lady Justice rests
+atop the highest spire above the court's central dome; the dome is supported
+by doric columns, and long, capstone windows run orderly rows on all three
+levels of the building.  The architecture up and down Bailey reflects the
+regal elegance of the court.  Wide traffic lanes mull with cautious vehicles
+and less-cautious pedestrians.  Old Dutch Elm trees flare their branches in
+tended fans between the antique street lamps.  A narrow alley runs furtively
+between two buildings to the north.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20075
+D3
+~
+~
+0 0 20073
+S
+#20075
+King Edward Street~
+Little more than an alley lined with black iron terraces and arched
+cellar doors that hug close to the foundations of post-industrial
+warehouses, King Edward Street is home to a shockingly complete silence. 
+Rats frequently tumble and forage through the bags of garbage that have been
+piling up for decades.  To the south the alley opens into the jarringly
+contradictory municipal district of London.  To the north the alley darkens
+and the walls seem to loom in closer.  High above, a laundry line connects
+from the western warehouse to the east, dangling battered and rain-soaked
+Union Jack pennant flags.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20076
+D2
+~
+~
+0 0 20074
+S
+#20076
+King Edward Street~
+Little more than an alley lined with black iron terraces and arched
+cellar doors that hug close to the foundations of post-industrial
+warehouses, King Edward Street is home to a shockingly complete silence.  A
+three-hundred year old pub fits into the east wall: two shops knocked
+together, wood-heavy interior visible through the greasy window panes.  Rats
+frequently tumble and forage through the bags of garbage that pile up around
+the tavern's door.  To the north the alley opens into the bleak dark of
+King's Cross.  To the south the alley slithers onward.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20077
+D1
+~
+~
+1 0 20122
+D2
+~
+~
+0 0 20075
+S
+#20077
+King's Cross~
+At a glance, not a single bulb on the wrought iron streetlamps is lit by
+day or night; some of the glass tops are shattered, others are simply
+missing.  Those few that remain intact are dark.  The end of World War II
+marked the beginning of fierce decline in King's Cross; life simply left
+this bastion of post-industrial brick and mortar.  Once-industrial brick
+warehouses are re-imagined as flop-houses for the homeless and worse,
+ensuring the borough's seedy reputation goes unshed.  Pubs still stake their
+claim in King's Cross, struggling for visibility through sooty windows. 
+Both loose and bagged refuse spills out of the countless alleys slithering
+through abandoned cathedrals, warehouses and taped off, collapsed tube
+entrances.  To the west a long bridge floating over an industrial river
+winds steadily toward fairer ground at Covent Garden.  South, King Edward
+Street's narrow lane slips between two block towers.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20082
+D2
+~
+~
+0 0 20076
+D3
+~
+~
+0 0 20078
+S
+#20078
+King's Cross~
+At a glance, not a single bulb on the wrought iron streetlamps is lit by
+day or night; some of the glass tops are shattered, others are simply
+missing.  Those few that remain intact are dark.  The end of World War II
+marked the beginning of fierce decline in King's Cross; life simply left
+this bastion of post-industrial brick and mortar.  Once-industrial brick
+warehouses are re-imagined as flop-houses for the homeless and worse,
+ensuring the borough's seedy reputation goes unshed.  Pubs still stake their
+claim in King's Cross, struggling for visibility through sooty windows. 
+Both loose and bagged refuse spills out of the countless alleys slithering
+through abandoned cathedrals, warehouses and taped off, collapsed tube
+entrances.  To the immediate north the vast brick edifice of the King's
+Cross Station forms a single beacon of overt activity, inviting strangers
+and travelers through an otherwise secluded district.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 0 20121
+D1
+~
+~
+0 0 20077
+D3
+~
+~
+0 0 20079
+S
+#20079
+Farringdon Street~
+Farringdon Street is a densely-packed study in contrasts; a jarring
+amalgamation of antique and modern architecture, skyscrapers and
+centuries-old custom houses casting dense shadows over the constant motion
+of red buses and taxis which herding along the multi-lane road.  Countless
+alleys, some sequestered behind scrolled iron grates, some open to the
+streetsides reeking of refuse, slither complex labyrinths through brutalist
+flats and neo-classical high-rises.  A striking lack of lampposts occupy the
+sidewalks or center berm.  After dusk the headlamps of cars and buses mingle
+with the red, green and yellow glow of the traffic lights; beyond these and
+thousands of occupied windows, all else is dark.  King's Cross turns
+languorously eastward, gloomy and dully-lit.
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20080
+S
+#20080
+Farringdon Street~
+A broad thoroughfare runs north and south down Farringdon Street, skirting 
+between the towering blocks of historic buildings, v-shaped Victorian wedges 
+and the modern, jarringly visible high-rises; glass monstrosities and 
+treasures alike, questionably modeled after modern architecture.  A stout 
+dividing wall separates the flow of traffic, broken only by the towering 
+concrete supports of the overpass bridges. Sidewalks and bicycle lanes flank
+the street on both sides, running dangerously close to the open mouths of
+heavily-shadowed alleys.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20079
+D2
+~
+~
+0 0 20081
+S
+#20081
+Farringdon Street~
+Flat-faced buildings of in varying shades of gray and brown frame
+Farringdon Street's southernmost stretch, speckled amidst modern, taller
+cousins.  The broad thoroughfare is hedged in rough cobblestone sidewalks. 
+Litter chokes the rain gutters and overflows from public bins.  Massive
+maple trees crowd the sidewalks, branches peppering the cobbles with leaves.
+Shops, public houses, tenement flats and offices fill up faster than the
+city can produce them.  Constant, heavy traffic mulls red buses, taxis and
+private vehicles up and down four well-marked lanes, with the majority
+flowing south toward New Bridge Street.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20080
+D2
+~
+~
+0 0 20070
+S
+#20082
+Covent Garden~
+Covent Garden's central square remains this neighborhood's primary
+attraction, but its fetching streetscape doesn't end with the bustling
+marketplace, visible to the north in a fantastical frame of mint green iron
+and glass.  Street performers and food stalls share Covent Gardens' iconic
+plaza and winding side streets with cheese shops, casual taverns, art
+museums, and opera houses that cater to those looking for less trafficked
+locales.  The Piazza is the heart of Covent Garden, where tourists,
+shoppers, meanderers, performers, lovers and friends crowd together in the
+neighborhood's famous square.  Pocket change is perpetually palmed over to
+the countless entertainers and diversions in this unyieldingly charming
+neighborhood.  To the west the idyllic block ends and West Smithfield
+begins.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20083
+D3
+~
+~
+0 0 20077
+S
+#20083
+Covent Garden~
+A large selection of shops, from high-street brands to designer labels,
+pack in red brick Georgian buildings; black-framed windows and iron bollards
+cut in sidewalks.  Between them the street is soft brick, worn down over
+centuries of foot traffic.  The Tea House to the north of the walkway bears
+a crowded window display, each framed pane filled with a different type of
+tea; from Earl Grey to Japanese Genmaicha Green.  18th century bow windows
+are packed across a quarter mile stretch to the south, lit with genuine gas
+lamps.  To the east rests Aldgate, the eastern-most gateway through the
+London Wall leading from the Square Mile to East End and White Chapel.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20084
+D3
+~
+~
+0 0 20082
+S
+#20084
+Aldgate~
+Aldgate is the eastern-most gateway through the London Wall leading from
+the City of London to Whitechapel and Covent Garden, taking in roads from
+Camden Town and splitting eight lanes of traffic.  The gateway and its two
+circular towers stand at the corner of the modern Duke's Palace, with a busy
+thoroughfare passing through it.  Like London's other gates, Aldgate is
+fortified with portcullises and chained, constructed in a more classical
+than functional style.  Tall iron street lamps flank the sidewalks like rows
+of soldiers, casting globes of yellow light on wet cobblestones.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20085
+D2
+~
+~
+0 0 20103
+D3
+~
+~
+0 0 20083
+S
+#20085
+Whitechapel~
+Supporting an alternative scene within the heart of the city, Whitechapel
+often challenges established norms.  Both classic and cutting edge,
+Whitechapel is home to well-attended mosques, historical buildings like the
+Royal London Hospital, and avant-garde movements spearheaded by
+world-renowned museums like Whitechapel Art Gallery.  The neighborhood
+embodies struggle, survival, and success -- its tumultuous past and sooty
+exterior cannot overshadow the achievements of its staid residents and
+unflinching creativity.  London's largest Bangladeshi population lives in
+Whitechapel, contributing to an unusually dense number of curry stands and
+open-air, colorful Indian markets.  Graffiti is everywhere, alleys are dark
+and hundreds of ancient buildings date all the way from the medieval period
+to Victorian custom houses.  To the west the Aldgate splits the road,
+dividing London into West and East End.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20086
+D3
+~
+~
+0 0 20084
+S
+#20086
+Whitechapel~
+On the eastern quarter of Whitechapel, Brick Lane beckons outdoor art
+enthusiasts and large scale expressionists to wander its sidewalks and
+ponder its wall space.  The neighborhood becomes more and more mixed the
+closer to the Moorgate it crowds.  A residential block of massive red brick
+flats -- each story fitted with its own curving pipe of coal chimneys --
+hint at the district's dark past.  The docks of Wapping and the textile
+manufacturing warehouses stand empty with broken windows, crowding corners
+and layering between custom houses.  A mixture of tower block housing and
+modern developments strain to overcome the edge of despondence lingering at
+the before St.  John's Gate.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20087
+D3
+~
+~
+0 0 20085
+S
+#20087
+St. John's Gate~
+A surprisingly out-of-place Tudor gate crafted of blunt gray stone -- no
+Victorian folly but the real deal, dating back to the 12th century and the
+Knights Hospitaller.  Inside is a small museum that covers the history of
+the order, as well as its 19th-century revival in Britain as the secular
+Order of St John and the foundations of St.  John Ambulance.  The gate was
+built in 1504 as a grand entrance to the priory; though most of the
+buildings were destroyed when Henry VIII dissolved every monastery in the
+country, the gate survived.  It had a varied afterlife, not least as a
+Latin-speaking coffee house run, without much success, by William Hogarth's
+father during Queen Anne's reign.  Restored in the 19th century, it also
+housed the Old Jerusalem Tavern, where writers and artists, including
+Charles Dickens, frequently met.  To the east the streets lead toward Sun
+Street and Hackney.  To the west, Whitechapel's notorious Brick Lane hugs
+along a darkened city dock.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20088
+D2
+~
+~
+0 0 20100
+D3
+~
+~
+0 0 20086
+S
+#20088
+Sun Street~
+Worn down and sagging Georgian buildings flank two lanes of vehicular
+traffic, three bicycle lanes and mottled concrete sidewalks.  While in the
+glittering west the glass monoliths of the Shard and Gherkin shine over
+mazes of rooftops and coal chimneys, here the divide between the Square Mile
+and Hackney is struggling for light.  Near every iron alley gate bears a
+broken lock or smashed hinges; vagrants slumber down cobblestone passages
+and smack heads harass passersby for pounds.  The Georgian brick is
+assaulted with artless graffiti on a daily basis; profanity and half-hatched
+political sentiments.  To the west the road splits around a wide roundabout,
+leading toward St.  John's Gate.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20089
+D3
+~
+~
+0 0 20087
+S
+#20089
+Sun Street~
+Worn down and sagging Georgian buildings flank two lanes of vehicular
+traffic, three bicycle lanes and mottled concrete sidewalks.  While in the
+glittering west the glass monoliths of the Shard and Gherkin shine over
+mazes of rooftops and coal chimneys, here the divide between the Square Mile
+and Hackney is struggling for light.  Near every iron alley gate bears a
+broken lock or smashed hinges; vagrants slumber down cobblestone passages
+and smack heads harass passersby for pounds.  The Georgian brick is
+assaulted with artless graffiti on a daily basis; profanity and half-hatched
+political sentiments.  To the north a dark, narrow cul-de-sac weaves out a
+space for Deeds Street.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20131
+D1
+~
+~
+0 0 20090
+D3
+~
+~
+0 0 20088
+S
+#20090
+Sun Street~
+Worn down and sagging Georgian buildings flank two lanes of vehicular
+traffic, three bicycle lanes and mottled concrete sidewalks.  While in the
+glittering west the glass monoliths of the Shard and Gherkin shine over
+mazes of rooftops and coal chimneys, here the divide between the Square Mile
+and Hackney is struggling for light.  Near every iron alley gate bears a
+broken lock or smashed hinges; vagrants slumber down cobblestone passages
+and smack heads harass passersby for pounds.  The Georgian brick is
+assaulted with artless graffiti on a daily basis; profanity and half-hatched
+political sentiments.  To the south a suspiciously tree-lined through-way
+leads into Marylebone along the Regency Canal.  
+~
+0 0 1
+1
+0 0
+D2
+~
+~
+0 0 20091
+D3
+~
+~
+0 0 20089
+S
+#20091
+Marylebone Borough~
+Rich, red windowpanes contrast against regal, white stone buildings in
+Marylebone.  Intimate bookstores, family-owned patisseries, and high-end
+boutiques help the neighborhood maintain a cozy village vibe despite its
+east London location.  Cricket players outnumber cobblestones in Marylebone,
+and with its very own green space there's plenty of room for competitions. 
+The contrast of white stone, red brick and polished black details complement
+one another to quaint visual perfection.  Behind the front row of
+Georgian-styled shops and block flats a lazy canal treads steadily
+northward, dividing Marlebone from Hackney.  Sun Street turns sharply
+westward to the immediate north of a bridge and intersection.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20090
+D2
+~
+~
+0 0 20092
+S
+#20092
+Marylebone Borough~
+Rich, red windowpanes contrast against regal, white stone buildings in
+Marylebone.  Intimate bookstores, family-owned patisseries, and high-end
+boutiques help the neighborhood maintain a cozy village vibe despite its
+east London location.  Cricket players outnumber cobblestones in Marylebone,
+and with its very own green space there's plenty of room for competitions. 
+The contrast of white stone, red brick and polished black details complement
+one another to quaint visual perfection.  Behind the front row of
+Georgian-styled shops and block flats a lazy canal treads steadily
+northward, dividing Marlebone from Hackney.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20091
+D2
+~
+~
+0 0 20093
+S
+#20093
+Marylebone Borough~
+Rich, red windowpanes contrast against regal, white stone buildings in
+Marylebone.  Intimate bookstores, family-owned patisseries, and high-end
+boutiques help the neighborhood maintain a cozy village vibe despite its
+east London location.  Cricket players outnumber cobblestones in Marylebone,
+and with its very own green space there's plenty of room for competitions. 
+The contrast of white stone, red brick and polished black details complement
+one another to quaint visual perfection.  Behind the front row of
+Georgian-styled shops and block flats a lazy canal treads steadily
+northward, dividing Marlebone from Hackney.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20092
+D2
+~
+~
+0 0 20094
+S
+#20094
+Marylebone Borough~
+Rich, red windowpanes contrast against regal, white stone buildings in
+Marylebone.  Intimate bookstores, family-owned patisseries, and high-end
+boutiques help the neighborhood maintain a cozy village vibe despite its
+east London location.  Cricket players outnumber cobblestones in Marylebone,
+and with its very own green space there's plenty of room for competitions. 
+The contrast of white stone, red brick and polished black details complement
+one another to quaint visual perfection.  Behind the front row of
+Georgian-styled shops and block flats a lazy canal treads steadily
+northward, dividing Marlebone from Hackney.  Gresham Street winds away from
+the borough through a large roundabout.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20093
+D2
+~
+~
+0 0 20095
+S
+#20095
+Haggerston Borough~
+Haggerston's worn-in atmosphere is attributed to its motley mix of
+progressively designed apartment complexes, orderly cafe counters, and
+meticulously boarded up windows.  Sharing the same offbeat attitude as
+nearby Brixton, artists and students often congregate in Haggerston -- a
+neighborhood known for its laissez-faire attitude, where unpredictability is
+expected.  This northeast London locale is best suited to those who
+appreciate a graffiti-friendly aesthetic and an everyday, multicultural
+community.  Like several communities along Regent's Canal, Haggerston is
+enjoying a neighborhood revival as creative minds use old spaces for new
+endeavors.  The canal itself has been embraced as a natural amenity, with
+modern apartments breaking ground along its banks.  Street art pervades
+intrepidly imaginative empty spaces; blank walls and the faces of red brick
+warehouses.  A bicycle is the best -- and frequently only -- way of
+exploring Haggerston.  Traffic is so congested that even the smallest taxis
+avoid the roads.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20094
+D1
+~
+~
+2 0 20137
+D2
+~
+~
+0 0 20059
+S
+#20096
+Royal Borough of Greenwich~
+Taking international trend-setting to new extremes, the world sets its
+watch to Greenwich Mean Time.  Greenwich not only establishes the benchmark
+for global time keeping, it's also home to architectural splendor, forested
+parks, rich maritime history, and popular antiques markets.  Victorian and
+Georgian buildings lend the neighborhood a rustic opulence, while the ships
+docked along its southeast London banks serve as an ever-present reminder of
+nautical inclinations.  Narrow streets are lined with boutiques and local
+restaurants.  An abundance of traditional British food is on offer, from pie
+and mash to fish and chips.  High Street bears countless pubs, and Grand
+Victorian buildings make ideal spaces for sprawling apartments with high
+ceilings.  Leafy and green with innumerable old houses and open spaces,
+families who move to Greenwich tend to stay for generations.  To the south
+an unremarkable suburban neighborhood sprawls, lined in modern streetlights.
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20097
+D2
+~
+~
+0 0 20056
+S
+#20097
+Royal Borough of Greenwich~
+Taking international trend-setting to new extremes, the world sets its
+watch to Greenwich Mean Time.  Greenwich not only establishes the benchmark
+for global time keeping, it's also home to architectural splendor, forested
+parks, rich maritime history, and popular antiques markets.  Victorian and
+Georgian buildings lend the neighborhood a rustic opulence, while the ships
+docked along its southeast London banks serve as an ever-present reminder of
+nautical inclinations.  Narrow streets are lined with boutiques and local
+restaurants.  An abundance of traditional British food is on offer, from pie
+and mash to fish and chips.  High Street bears countless pubs, and Grand
+Victorian buildings make ideal spaces for sprawling apartments with high
+ceilings.  Leafy and green with innumerable old houses and open spaces,
+families who move to Greenwich tend to stay for generations.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20098
+D2
+~
+~
+0 0 20096
+S
+#20098
+Royal Borough of Greenwich~
+Taking international trend-setting to new extremes, the world sets its
+watch to Greenwich Mean Time.  Greenwich not only establishes the benchmark
+for global time keeping, it's also home to architectural splendor, forested
+parks, rich maritime history, and popular antiques markets.  Victorian and
+Georgian buildings lend the neighborhood a rustic opulence, while the ships
+docked along its southeast London banks serve as an ever-present reminder of
+nautical inclinations.  Narrow streets are lined with boutiques and local
+restaurants.  An abundance of traditional British food is on offer, from pie
+and mash to fish and chips.  High Street bears countless pubs, and Grand
+Victorian buildings make ideal spaces for sprawling apartments with high
+ceilings.  Leafy and green with innumerable old houses and open spaces,
+families who move to Greenwich tend to stay for generations.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20099
+D1
+~
+~
+1 22023 20175
+D2
+~
+~
+0 0 20097
+S
+#20099
+Royal Borough of Greenwich~
+Taking international trend-setting to new extremes, the world sets its
+watch to Greenwich Mean Time.  Greenwich not only establishes the benchmark
+for global time keeping, it's also home to architectural splendor, forested
+parks, rich maritime history, and popular antiques markets.  Victorian and
+Georgian buildings lend the neighborhood a rustic opulence, while the ships
+docked along its southeast London banks serve as an ever-present reminder of
+nautical inclinations.  Narrow streets are lined with boutiques and local
+restaurants.  An abundance of traditional British food is on offer, from pie
+and mash to fish and chips.  High Street bears countless pubs, and Grand
+Victorian buildings make ideal spaces for sprawling apartments with high
+ceilings.  Leafy and green with innumerable old houses and open spaces,
+families who move to Greenwich tend to stay for generations.  To the west
+runs the opulent sprawl of Belgravia Borough.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20100
+D2
+~
+~
+0 0 20098
+D3
+~
+~
+0 0 20101
+S
+#20100
+Royal Borough of Greenwich~
+Taking international trend-setting to new extremes, the world sets its
+watch to Greenwich Mean Time.  Greenwich not only establishes the benchmark
+for global time keeping, it's also home to architectural splendor, forested
+parks, rich maritime history, and popular antiques markets.  Victorian and
+Georgian buildings lend the neighborhood a rustic opulence, while the ships
+docked along its southeast London banks serve as an ever-present reminder of
+nautical inclinations.  Narrow streets are lined with boutiques and local
+restaurants.  An abundance of traditional British food is on offer, from pie
+and mash to fish and chips.  High Street bears countless pubs, and Grand
+Victorian buildings make ideal spaces for sprawling apartments with high
+ceilings.  Leafy and green with innumerable old houses and open spaces,
+families who move to Greenwich tend to stay for generations.  To the north
+a Tudor gate blockades traffic.
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20087
+D2
+~
+~
+0 0 20099
+S
+#20101
+Belgravia Borough~
+Belgravia is regal London dressed in its Sunday best.  Classical
+architecture, white stucco residences, and stone churches characterize the
+neighborhood's fashionably restrained streets.  Its aristocratic ambiance
+comes at a high price, but the borough's secluded gardens and private
+estates are unmatched.  Although daunting refinement places Belgravia in a
+class of its own, the neighborhood remains close to destinations that
+encourage relaxation: taverns and wine bars cloud the ground floors of
+historic buildings.  As one of London's wealthiest areas, Belgravia boasts
+multi-million dollar homes and celebrity residents.  This immaculate
+community is predominately residential, but it borders livelier
+neighborhoods like Chelsea and Pimlico.  Sought-after residences often fetch
+millions and foreign embassies represent their nations in Belgrave Square. 
+Belgravia doesn't reserve perfection just for its homes; the neighborhood's
+green spaces are just as emblematic of sophistication.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20099
+D3
+~
+~
+0 0 20102
+S
+#20102
+Belgravia Borough~
+Belgravia is regal London dressed in its Sunday best.  Classical
+architecture, white stucco residences, and stone churches characterize the
+neighborhood's fashionably restrained streets.  Its aristocratic ambiance
+comes at a high price, but the borough's secluded gardens and private
+estates are unmatched.  Although daunting refinement places Belgravia in a
+class of its own, the neighborhood remains close to destinations that
+encourage relaxation: taverns and wine bars cloud the ground floors of
+historic buildings.  As one of London's wealthiest areas, Belgravia boasts
+multi-million dollar homes and celebrity residents.  This immaculate
+community is predominately residential, but it borders livelier
+neighborhoods like Chelsea and Pimlico.  Sought-after residences often fetch
+millions and foreign embassies represent their nations in Belgrave Square. 
+Belgravia doesn't reserve perfection just for its homes; the neighborhood's
+green spaces are just as emblematic of sophistication.  
+~
+0 0 1
+1
+0 0
+D1
+~
+~
+0 0 20101
+D3
+~
+~
+0 0 20104
+S
+#20103
+Camden Town~
+Leather, studs, and combat boots are common apparel in Camden Town, an
+alternative oasis away from the prestige of royalty and Parliament.  More
+often than not, Camden Town's building facades feature politically charged
+commentary and saturated hues that pay homage to Pop art.  Question
+authority is not required of enjoying the north London neighborhood --
+numerous pubs, music venues, and street markets exude invitingly creative
+atmospheres.  Distinctive streetscapes greet visitors from the moment they
+exit the tube at Camden Town Station.  Tourists, teenagers, and Londoners
+flock in to walk, shop, and engage in spirited talk.  By maneuvering
+bustling crowds and high-trafficked streets glimpses of each stall and
+shop's cheeky merchandise is provided.  Camden Lock is a manually-operated
+twin lock bridge that connects the East waterways with the West of London. 
+An outcropping of old stone bridges span an artificial canal that carries
+tourists to Little Venice, Maida Vale.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20104
+S
+#20104
+Belgravia Borough~
+Belgravia is regal London dressed in its Sunday best.  Classical
+architecture, white stucco residences, and stone churches characterize the
+neighborhood's fashionably restrained streets.  Its aristocratic ambiance
+comes at a high price, but the borough's secluded gardens and private
+estates are unmatched.  Although daunting refinement places Belgravia in a
+class of its own, the neighborhood remains close to destinations that
+encourage relaxation: taverns and wine bars cloud the ground floors of
+historic buildings.  As one of London's wealthiest areas, Belgravia boasts
+multi-million dollar homes and celebrity residents.  This immaculate
+community is predominately residential, but it borders livelier
+neighborhoods like Chelsea and Pimlico.  Sought-after residences often fetch
+millions and foreign embassies represent their nations in Belgrave Square. 
+Belgravia doesn't reserve perfection just for its homes; the neighborhood's
+green spaces are just as emblematic of sophistication.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20103
+D1
+~
+~
+0 0 20102
+D2
+~
+~
+0 0 20105
+S
+#20105
+Knightsbridge~
+As an epicenter of prestigious vocations and inimitable style,
+exclusivity reigns in Knightsbridge.  Its towering, columned edifices are
+home to renowned department stores like Harrods, couture fashion houses like
+Jimmy Choo, and banks that handle finances for the Queen.  Perhaps there's
+more to Knightsbridge than its posh digs and bevy of swanky, velvet-roped
+restaurants, but when a neighborhood is as top-tier as this one is, no one
+seems to notice: From its residences to its residents, Knightsbridge is
+immaculate, well-bred and well-behaved.  The neighborhood's famous
+department stores and designer boutiques ensure their clientele make a
+stylish entrance and an extravagant exit.  Alongside world-renowned
+department store Harrods, brands like Burberry and Harvey Nichols offer
+shoppers plush garments to try on and take home.  Daily displays of wealth
+circle roundabouts and wait at red lights in Knightsbridge.  To the north
+the incredible span of Belgravia flows around antique skyscrapers.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20104
+D2
+~
+~
+0 0 20106
+S
+#20106
+Knightsbridge~
+As an epicenter of prestigious vocations and inimitable style,
+exclusivity reigns in Knightsbridge.  Its towering, columned edifices are
+home to renowned department stores like Harrods, couture fashion houses like
+Jimmy Choo, and banks that handle finances for the Queen.  Perhaps there's
+more to Knightsbridge than its posh digs and bevy of swanky, velvet-roped
+restaurants, but when a neighborhood is as top-tier as this one is, no one
+seems to notice: From its residences to its residents, Knightsbridge is
+immaculate, well-bred and well-behaved.  The neighborhood's famous
+department stores and designer boutiques ensure their clientele make a
+stylish entrance and an extravagant exit.  Alongside world-renowned
+department store Harrods, brands like Burberry and Harvey Nichols offer
+shoppers plush garments to try on and take home.  Daily displays of wealth
+circle roundabouts and wait at red lights in Knightsbridge.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20105
+D2
+~
+~
+0 0 20107
+S
+#20107
+Knightsbridge~
+As an epicenter of prestigious vocations and inimitable style,
+exclusivity reigns in Knightsbridge.  Its towering, columned edifices are
+home to renowned department stores like Harrods, couture fashion houses like
+Jimmy Choo, and banks that handle finances for the Queen.  Perhaps there's
+more to Knightsbridge than its posh digs and bevy of swanky, velvet-roped
+restaurants, but when a neighborhood is as top-tier as this one is, no one
+seems to notice: From its residences to its residents, Knightsbridge is
+immaculate, well-bred and well-behaved.  The neighborhood's famous
+department stores and designer boutiques ensure their clientele make a
+stylish entrance and an extravagant exit.  Alongside world-renowned
+department store Harrods, brands like Burberry and Harvey Nichols offer
+shoppers plush garments to try on and take home.  Daily displays of wealth
+circle roundabouts and wait at red lights in Knightsbridge.  To the south
+Threadneedle Street meanders through tower blocks and corner buildings.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+0 0 20106
+D2
+~
+~
+0 0 20044
+S
+#20108
+~
+~
+0 4 0
+1
+0 0
+S
+#20109
+~
+~
+0 4 0
+1
+0 0
+S
+#20110
+Hallway at the Pavilion Hotel~
+Framed photographs of eclectic celebrity guests are clustered in with
+ovular Victorian portraits; the walls are lined from ceiling to floor in
+faces.  The dim, flickering lighting is provided in sconces fashioned after
+golden antlers; tea candles line the branching horns.  The doors to the
+hotel rooms are surprisingly simple for what lies behind them -- heavy,
+thick wood fitted with locks and bolts, swinging outward from the hall into
+fantastic spaces.  A persian rug runner carpets the center walkway, covering
+smokey black tiles with warmth.  The corkscrew staircase runs a tight spiral
+through the ceiling, leading to an ornate trap door.  Downward the stairs
+open broadly, revealing hints of light and cobalt carpet in the basement
+salon.  
+~
+0 4 0
+1
+0 0
+D0
+~
+~
+0 0 20025
+D1
+~
+~
+1 0 20111
+D2
+~
+~
+1 0 20113
+D3
+~
+~
+1 0 20112
+D4
+~
+~
+1 0 20114
+D5
+~
+~
+0 0 20116
+S
+#20111
+"Indian Summer" at the Pavilion~
+A dark gem of a room, small but exquisite, "Indian Summer" is boldly
+painted a vivid shade of pink, often quoted as "the navy blue of India". 
+The vivid pink in turn has been elaborately and painstakingly over-painted
+with golden swirls reminiscent of the art nouveau artist Gustav Klimt;
+curling intones, bringing to mind the intangible animation of heat waves.  A
+sub-Continental flavor is evoked by the use of heavy colonial furniture, a
+teak four-poster bed and sumptuous, darkly purple brocade fabrics.  Colored
+glass and crystal lanterns complete the picture, giving the room the feel of
+being locked in an exotic jewelery box.  A checked quilt with massive
+squares of gold, purple and pink fabric is cast across the foot of the bed. 
+Purple velvet ottomans pepper the Persian rug that runs wall to wall; a faux
+gilt privacy screen divides the room in pointless portions.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 20110
+S
+#20112
+"Better Red Than Dead" at the Pavilion~
+An intimate double bedded room decorated entirely in shades of red, a
+voluptuous symphony of claret, vermilion and burgundy, elegantly combined
+with antique French furniture, theatrical curtains and flamboyant velvet bed
+hangings.  The result is an enchanting and original room, peacefully located
+at the back of the building.  A dark walnut vanity table dating back to
+Edwardian styles sits at the beside, housing a menagerie of gold
+curiosities; figurines, a hand-mirror, jewelery box and hair brush.  Tiny,
+red gold lampshades arch in pairs from the red-papered walls; gold fleur de
+lys' pattern the wallpaper.  The sheets on the beds are brilliant blood red
+satin with embossed patterns in gold, swept under rumpled velveteen covers. 
+A television is mounted high in the top right corner.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 20110
+S
+#20113
+"Enter the Dragon" at the Pavilion~
+Highly oriental bordello in style, this is a spacious, first floor
+balcony room with twin beds draped in richly crimson silk.  The spirit of
+Eastern exoticism is captured by the extensive use of imagery and patterns
+-- on dark bronze walls, draping silk curtains, even the ceiling -- and by
+the carefully assembled collection of Chinese treasures: carved and gilded
+wooden masks compete for attention with antique wedding chests and intricate
+screens, while an English Victorian bamboo desk reminds occupants of the
+West's fascination with the East.  Red tassels dangle from the bed curtains
+and window dressings.  The light is provided in a golden glow, seeping out
+from under ridged red shades.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20110
+S
+#20114
+"White Days Soul Nights" at the Pavilion~
+A light and frothy confection in shades of white and cream, "White Days,
+Soul Nights" is a peaceful attic room with a double bed and a deliciously
+airy feel.  Restrained, painted antique French furniture is offset by white
+painted floor boards, whilst magnificent gilt and crystal wall sconces lend
+an opulent note of effete perfection.  A window pelmet imaginatively
+fashioned from an antique wedding dress is the finishing touch on the
+northern wall, revealing the emerald green expanse of Hyde Park's urban
+oasis through heavy, rain-speckled glass.  White iron scrolling wreaths the
+full length mirror beside the claw-footed ivory bathtub.  The vanity table
+is petite and cream colored, fit into a corner; a padded bench with tufted
+seating rests before it, strewn with a white crocheted throw.  
+~
+0 0 0
+1
+0 0
+D5
+~
+~
+1 0 20110
+S
+#20115
+The Black Friar Public House~
+Built on the site of a 13th-century Dominican Priory, the interior of The
+Black Friar is a work of art nouveau extravaganza.  The walls are made from
+swirls of cream and golden marble; jolly friars appear everywhere in
+sculptures, mosaics and bronze reliefs, and a church-like bar with English
+ale on tap stands jarringly against the impression of religious antiquity. 
+The Friar is a traditional pub of unique character, revered for its eclectic
+range of real ales and its comforting food, which are served, as they should
+be, with a generous measure of famous British hospitality.  Marred, round
+tables are ringed with matching black walnut stools throughout the main
+floor.  Through a high dormer window a beer garden is spied, clustering
+close to the back wall.  
+~
+0 12288 0
+1
+0 0
+D2
+~
+~
+1 0 20029
+S
+#20116
+The Silver Salon at the Pavilion~
+Hidden away in the basement of the Pavilion, an unassuming paneled door
+rests open to reveal a glittering salon well-convinced by its own opulence
+and magnificence.  No expense has been spared in the creation of an eclectic, 
+arguably formal space, its impressive proportions alone testament to the size 
+of the upstairs rooms.  The walls have been painstakingly decorated with 
+silver leaf to give the impression of a hall of mirrors, set against a 
+background of deep, cobalt blue paint.  A rare Anglo-Indian carved table 
+divides the room into contrasting halves, one sophisticated and masculine 
+with damask upholstery and rich Turkish textiles, the other feminine with 
+delicate, gilded French chairs and gilt console tables. Sumptuous silk 
+curtains are draped elegantly beneath lavish organza pelmets, shimmering 
+seductively in the light of Italian chandeliers and old church candlesticks.
+The tromp l'oeil painted ceiling of clouded sky is a triumphant conclusion to
+the space.  A corkscrew staircase rests outside the door, leading back up
+into the main body of the hotel.  
+~
+0 0 0
+1
+0 0
+D4
+~
+~
+0 0 20110
+S
+#20117
+Shakespeare's Globe Theater~
+Unlike other venues for Shakespearean plays, the new Globe is designed to
+resemble the original as closely as possible, including an arena open to the
+fickle London skies, leaving the seven hundred "groundlings" to stand in the
+city's notorious downpours.  The building is constructed entirely of English
+oak, with mortise and tenon joints; no structural steel was used.  The seats
+are simple benches rising in playhouse tiers, and the Globe has the first
+and only thatched roof permitted in London since the Great Fire of 1666,
+both treated with fire retardants and generously equipped with sprinklers. 
+The stage pit has a concrete surface and an extensive backstage support area
+for actors and musicians.  To the north the reception opens in wide oaken
+doors, swinging out toward a brick-hedged and lamp-lit stairway between the
+Globe and Southwark.  
+~
+0 0 0
+1
+0 0
+E
+lore~
+Despite the worldwide popularity of Shakespeare over the centuries, the
+Globe was almost a distant memory when American actor (and, later, film
+director) Sam Wanamaker came searching for it in 1949.  Undeterred by the
+fact that the theater's foundations had vanished beneath a row of
+heritage-listed Georgian houses, Wanamaker set up the Globe Playhouse Trust
+in 1970 and began fund-raising for a memorial theater.  Work started only
+200m from the original Globe site in 1987, but Wanamaker died four years
+before it opened in 1997.  
+~
+D0
+~
+~
+1 0 20118
+S
+#20118
+Borough of Southwark~
+Like the perfect pot of afternoon tea, Southwark has been culturally
+steeping for centuries.  The neighborhood is home to many of the city's
+iconic landmarks -- some of London's most iconic bridges, buildings, and
+museums are located in Southwark.  Brick and steel overpasses run alongside
+transparent glass facades and stone cathedrals; from the tallest stories
+panoramic views of history abutting modernity reveal themselves in flawless
+urbanity.  Old brick warehouses line the roadways; some have been remodeled
+into ultra-modern marvels while others remain endearingly sooty.  Luminous
+vaulted bridges contrast Southwark's dark tunnel spaces and alleys; the
+neighborhood's striking contradictions only add to its visual mystique. 
+White exterior walls framed with naked timbers rise up high in a thatch
+roofed structure; the only thatching in London since the Great Fire, pressed
+between a pair of slightly taller Edwardian high-rises to the south.  A
+brick-edged and lamp-lit stairway leads up from the rear end of Southwark to
+the curious structure, identifiable at a glance as Shakespeare's Globe
+Theater.  
+~
+0 0 1
+1
+0 0
+D2
+~
+~
+1 0 20117
+D3
+~
+~
+0 0 20062
+S
+#20119
+All Hallows-by-the-Tower~
+Built on the site of a Roman building with traces of ancient pavement
+still lining the crypt, the church has been expanded and rebuilt several
+times throughout well over a thousand years, layering architecture
+throughout countless centuries of style.  The outer walls are 15th century,
+hedging in a 7th century Saxon arch doorway from the original church. 
+Brasses riddle the interior; three outstanding wooden statues of saints
+guide the faithful up to an exquisite Baptismal font cover, one of the
+finest pieces of carving in England.  The altar is of plain stone from the
+castle of Richard I at Athlit in the Holy Land.  Ancient, well-swept wood
+floors lead through rows of hardy oak pews, all facing the baroque windows
+looking out over the River Thames.  
+~
+0 0 0
+1
+0 0
+E
+lore~
+During the 1666 Great Fire, English diarist Samuel Pepys -- who lived
+very nearby -- climbed the church tower at All Hallows to watch the
+spreading conflagration before being forced to evacuate to the South Bank. 
+The 1666 fire began less than a quarter mile away in Pudding Lane and All
+Hallows was an early target of its flames.  British Navy Admiral Sir William
+Penn, recently retired to shore duty, oversaw efforts to save the church
+from the fire.  
+~
+D0
+~
+~
+1 0 20038
+S
+#20120
+Cable Nightclub under Southwark Bridge~
+Cable is housed within the atmospheric tunnels under Bridge railway
+station, hidden by day behind an unassuming, industrial roll-up door.  The
+raw industrial feel of the original viaducts combined with high end sound
+and light installations smacks visitors with such a void of culture it
+doubles back upon itself; a dark haze of energy clings to the ancient
+bricks, flowing through writhing crowds and keeping them in motion 'til
+dawn.  The bar cuts a horseshoe shape in the middle of the crowds, serving
+drinks and less savory chemicals from a surprisingly complete collection of
+narcotics and middle-shelf liquors.  Bass-heavy music pounds at a frantic
+rate, thudding out of speakers mounted throughout the tunnel.  The club
+doesn't seal its door until the sun rises, letting the addled horde to spill
+out into the daylight after a night spent dazed in the tunnels.  
+~
+0 4096 0
+1
+0 0
+D4
+~
+~
+1 0 20062
+S
+#20121
+King's Cross Station~
+Two massive arches of dull brown brick are centered by a moderate clock
+tower, iron hands ticking and tocking their way around roman numerals. 
+Black-framed panes of glass fill the arches; beneath them gunmetal awnings
+direct travelers between two destinations: King's Cross, and the London
+Underground.  The latter has collapsed, leaving broken concrete prey to
+graffiti.  Stairwells marked by curling designs and bronze letters organize
+the approaches to individual platforms.  The homeless huddle in the sticky,
+plastic seats provided for passengers in limbo.  Up on Plaform Nine, a
+plaque has been installed for literary fans -- "Nine and Three Quarters" in
+neatly etched bronze adorns a high brick column, marking the precise opening
+to the Hogwarts Express.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20078
+S
+#20122
+The Harrow~
+A dark and hazy enclosure formed between two knocked-together Victorian
+shops, sequestered away into an alley little wider than a couple walking
+shoulder to shoulder, the Harrow suits its namesake with heavy, tined wood
+beams and distressed floorboards.  The bar dominates the majority of the
+pub, lined with four-legged stools and centuries' worth of scratches, burns
+and spills.  What light there is has been provided by a low iron mount
+hanging above the foundation line between the two shops; dull yellow bulbs
+struggle to pierce the smoky shadows.  The windows are black-framed and
+filled with thick glass.  The darkness of the alley pours through them,
+seeming to thicken the air inside.  
+~
+0 4096 0
+1
+0 0
+D1
+~
+~
+2 0 20153
+D3
+~
+~
+1 0 20076
+S
+#20123
+The Ritzy Picturehouse~
+The arched opera ceiling is detailed in shades of crimson and goldenrod. 
+It descends parallel to rows of red-cushioned theater seating, ending at an
+archaic stage and screen that rises two stories, filling the entirety of the
+northern wall and edged with dramatic curtains.  Like many cinemas of the
+period, it is fitted with an organ.  In 2009, the decor and color scheme was
+restored from its original style and a live music venue was added, called
+Upstairs.  Access to the upper wings is provided via grand staircases which
+hug the walls, open to the reception and ticket lines; open again along the
+sides of the theater proper.  Movie showings range from the most modern of
+releases to old cult classics on Friday nights.  Popcorn and soft drinks are
+sold with chips and curry in the red-carpeted reception.  Posted everywhere
+are lit signs for upcoming shows, and notices reminding movie-goers to turn
+off their cellphones.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20058
+D4
+~
+~
+0 0 20126
+S
+#20124
+The Old Post Office Bakery~
+Bread has always been a communal activity linked to cooperative living;
+the sight of an old oven in a back courtyard of some village still gives
+rise to images of community, of sharing; on that premise the massive brick
+bread ovens are immediately exposed to the eyes upon stepping through the
+old black-painted door, rippling waves of nigh-tangible heat into the
+delectably scented air.  The Old Post Office Bakery is a fruit grown for
+thirty years from the labor, love and loyalty of its local workers;
+handcrafted baked goods use staple ingredients without artificial additives.
+The breads, cakes, pasties and sausage rolls sold from behind the tarnished
+copper counter come wrapped in parchment, prepared precisely as they would
+have been in antiquity.  Baskets of hard-crusted baguettes point up at the
+low plaster ceilings.  Seating is scarce -- a half-dozen mismatched tables
+and armchairs clustered behind the display window.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20057
+S
+#20125
+St. Paul's Cathedral~
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20047
+S
+#20126
+Upstairs at the Ritzy~
+A wide, square loft with warm wood flooring is speckled with tables and
+chairs, a single tea candle situated in the center of each table, enclosed
+in a red glass holder.  The ceiling is low and the walls composed of modern
+windows.  A stage is squished into the corner furthest from the stairwells,
+outfitted with whatever equipment is required of the evening's performers'. 
+Live music ranges from reggae through afro-beat and vintage swing; folk,
+blues, balkan and beyond filter between nights occupied solely by stand-up
+comedy.  One entire wall is plastered with posters and notices.  The bar,
+solid river rock hauled up from the bank of the Thames, serves beer on tap
+and cocktails.  
+~
+0 4096 0
+1
+0 0
+D5
+~
+~
+0 0 20123
+S
+#20127
+Viajante Restaurant~
+Surprise-filled menus combining unconventional ingredients are served
+through a petite, monochrome dining room; post-modern lighting curls
+delicate black swirls across the high ceiling, suspending red-shades and
+circular bulbs that bleed cooling light over iron-legged tables and antique
+chairs.  The striking architecture of the former town hall is eerily
+accentuated with pieces of modern art; sculptures and wall-hangings dangling
+from historic fresco and walnut transom windows.  A padded black leather bar
+flanked with low stools runs the width of the south wall, filtered under the
+light of flickering, multi-color prisms.  One entire wall, situated to the
+right, is decorated solely with the town hall's original light fixtures.  To
+the north a pair of ornately carved doors lead out into the arguable
+destitution of Bethnal Green.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20052
+S
+#20128
+The old Roman Bath~
+With walls formed of layers of brick in that peculiar flat and
+neat-looking aspect which implies the impress of Roman hands, the bath has
+been written floridly about in countless dialogues spanning centuries of
+documentation.  One of the oldest structures in London, one of its few real
+and genuine remains dating back to the Roman occupation, the brickwork rises
+high into a central arch, plain beyond quaint relics of the Stuart period --
+crumbling statuary flanks the sides of the main and ancillary baths, both
+frigidly cold and filled solely by rainwater.  Countless gaps in the ceiling
+expose the skies over London.  Teenagers and frisky couples make ample use
+of the cold waters; the police are known to patrol and check for skinny
+dippers.  To the east an unmarked passage leads toward Chancery Lane's
+manicured avenue.  
+~
+0 133120 0
+1
+0 0
+D1
+~
+~
+1 0 20065
+S
+#20129
+Manor at Strawberry Hill~
+With its snow-white walls and Gothic turrets, this fantastical and
+totally restored 18th-century creation is the work of art historian, author
+and politician Horace Walpole.  Studded with elaborate stained glass, the
+building reaches its astonishing apogee in here in the gallery, with its
+magnificent papier-mache ceiling rising in cathedral arches and walls
+painted a matte shade of vermilion.  Keyhole windows line the gallery's
+western wall, revealing expansive grounds and well-tended gardens.  The
+ornate marble floors are veined with caramel and oft covered with legitimate
+Tudor rugs.  Double doors encased in marble capstones stand at the furthest
+point of the gallery.  Along the eastern wall elaborate, gilt arches reveal
+single doors beneath them.  Gloomy gray staircases wind off to libraries and
+private chambers.  
+~
+0 0 0
+1
+0 0
+E
+@temp~
+#G[#gComfortably warm#G]#n
+~
+D1
+~
+~
+1 20011 20000
+D4
+~
+~
+0 0 20130
+S
+#20130
+A Gray and Periwinkle Bedroom~
+Soft periwinkle blue wallpaper pinstriped with silver accents papers the
+walls in parchment down to the waist level; from there to the floorboards
+cool gray wood is polished to a high shine.  There is a marked absence of
+furniture in the room -- a bed wisely dominates the majority of space,
+centered in front of a pair of stained glass windows dating back to the
+Tudors.  Four high posts of ashen wood reach for the vaulted ceiling. 
+Comfortable egyptian cotton sheets are neatly fitted over the expansive
+mattress; the coverlet is surprisingly grounded for its surroundings.  A
+simple quilt, sewn from countless squares of mismatched, blue-shaded fabric,
+drapes across the bed, vanishing at the head under a pile of tidy pillows. 
+No closet, armoire or wardrobe is on hand; the one article of furniture
+beyond the bed is a small, ash wood table at the bedside.  A half-finished
+book is cast across its surface.  
+~
+0 0 0
+1
+0 0
+D5
+~
+~
+0 0 20129
+S
+#20131
+Deeds Street~
+A narrow street branches steadily yet tersely northward, terminating in a
+small cul-de-sac almost immediately.  A block intended to include a
+prosperous little shopping circle and park have been abandoned: buildings
+sit half-constructed and a few articles of machinery stand rusting and
+abandoned.  The absence of artificial light plunges the cul-de-sac into
+darkness after nightfall.  Only a single building appears to be
+fully-constructed; four-stories tall, base lit by flashing neon signs for a
+dubious gentleman's club.  The neon reads "The Puddin' & Pie".  
+~
+0 0 1
+1
+0 0
+D2
+~
+~
+0 0 20089
+D4
+~
+~
+1 0 20135
+D5
+~
+~
+1 0 20132
+S
+#20132
+The Puddin' & Pie~
+At the base of the stairs leading down from Deeds Street is the small
+gentleman's club known as "The Puddin'& Pie."  It is a far cry from its more
+illustrious cousins that are dotted around the city of London.  Low ceilings
+make the opening room feel tight and cozy.  The opening room has more in
+common with a Pub than a club, High tables with stools scattered about and a
+large prominent oak bar taking up the majority of the room.  The Bouncer and
+the Bartender are both young men who look barely old enough to be in the
+building and lightly dressed women serve as waitress' when they are not on
+the Main stage.  A pair of large double doors lead off to the main stage and
+a tucked in the back close to the bar is a small room.  The neon signs above
+denote it as the "VIP Room."  
+~
+0 4096 0
+1
+0 0
+D2
+~
+~
+1 0 20133
+D3
+~
+~
+1 0 20134
+D4
+~
+~
+1 0 20131
+S
+#20133
+VIP Room at Puddin' & Pie~
+Tucked in the back behind the bar is a small room.  For legal reasons the
+door doesn't actually click shut, however a handy chair is available if the
+door needs to stay shut.  The music of the club is only slightly muffled in
+the back room and only dim red lights keep the room from being completely
+pitch black.  Along each of the walls is a vinyl covered cushioned bench and
+in the center of the room a pole.  The floor is covered in a smooth tile
+that looks like it was chosen because it was easy to clean.  The room smells
+strongly of perfume and bleach.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20132
+S
+#20134
+The Main Stage at Puddin' & Pie~
+A large vaulted ceiling stretches up above the main stage to make the
+room feel massive.  The main stage takes up the majority of the room, with
+lights pointed to the stage to completely illuminate it.  A set of three
+poles are arranged in triangular shape.  Aside from the main stage the room
+is only dimly lit by a pale red light.  Along the walls large booths are
+shadowed even more than the rest of the room granting privacy.  Only a
+single dancer takes the main stage at a time, however there are other women
+who stroll around delivering drinks or selling dance tokens.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 0 20132
+S
+#20135
+Deeds Street Flats~
+Above the Gentleman's club are what would once have been nice and high
+end flats.  While small the building is solidly constructed and blocks the
+majority of the sound from the club below.  The main stairwell curls up from
+the ground floor to three stories of flats.  Each level of the building
+holds four flats, giving the entire building twelve living spaces.  After
+the area was abandoned the once nice flats have had to be sold to whoever
+would by them.  The Deeds Street Flats are now known as little more than a
+crack house.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 20182 20165
+D1
+~
+~
+1 20186 20173
+D3
+~
+~
+1 20012 20136
+D5
+~
+~
+1 0 20131
+S
+#20136
+A Disheveled Flat~
+On the first floor of the Deeds Street Flats is the one belonging to the
+owner of the club below.  The small flat is laid out in a very modern design
+with a full kitchen complete with washer and dryer.  The Flat is a one
+bedroom with an attached bath.  The main room is spacious for its size and
+leads out to a small balcony that overlooks the cul-de-sac.  Most of the
+house looks very well lived in with clothing, both men and women's scattered
+around.  The bedroom walls are plastered completely with a mix of posters
+from obscure 70's British punk bands and modern alternative metal bands.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+1 20012 20135
+S
+#20137
+Turkish Bath House~
+~
+0 2048 0
+1
+0 0
+D3
+~
+~
+2 0 20095
+S
+#20138
+A Loft in The Old Library~
+This reclaimed loft opens wide into a welcoming living space.  Floor to
+ceiling windows space along the Southern wall to spill rain speckled light
+and a fine view of the winding Thames out over the ground floor.  An
+abstract painting set along the Eastern wall frames an aged baroque couch
+who bends before a low ottoman.  A slim wet room is immediately available to
+the left of the dual-doored entryway while an open air staircase arches over
+the Northern half of the space, leading upwards towards an airy mezzanine.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 20013 20031
+D4
+~
+~
+0 0 20139
+S
+#20139
+The Mezzanine Bedroom and Study~
+A curving bannister wraps the edge of the mezzanine, offering an
+unobstructed view through to the Southern windows.  Half of this slim space
+is taken up by the bedroom where a low platform tucked over with silky cream
+sheets rests.  A study nestles about the top of the staircase where a
+crowded bookcase filled to the brim with myriad texts follows the curving
+wall while a cluttered desk nestles alongside.  The top of the open stairs
+leads downwards from here while a slim portal opens into the master
+bathroom.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20140
+D5
+~
+~
+0 0 20138
+S
+#20140
+An Airy Marbled Bathroom~
+Comfortable instead of claustrophobic, this ornate bathroom is tucked
+into one corner of the mezzanine.  Marbled counters are fitted with a set of
+sinks, set beneath a wall to wall mirror.  A step in shower features a low
+half-wall and intricately tiled flooring while frosted glass windows bring a
+more natural lighting to the space.  A slim doorway opens out into the rest
+of the mezzanine.  
+~
+0 2048 0
+1
+0 0
+D2
+~
+~
+1 0 20139
+S
+#20141
+A Claustrophobic Hedge Thicket~
+High stone walls limned in centuries of moss form a narrow enclosure
+spanning countless miles; the darkness and tangled mires of thorny branches
+overwhelm the boggy mud to the south, while to the north the walls steadily
+crumble, lowering little by little, stone by stone, until an opening paved
+in ancient cobbles succeeds in battling the thicket for prominence.  The
+light of the three moons cast the hedge in shades of bronze and silver,
+always full and always brilliant.  Both thorns and walls stretch high enough
+to nearly touch them, seeming to sway at their tallest points, grasping for
+sharp beams of light.  In the gray stone thousands of pigeon holes house the
+croaking, chirruping, moaning echoes of unearthly beasts.  
+~
+0 524292 4
+1
+0 0
+D0
+~
+~
+0 0 20142
+S
+#20142
+A Crumbling Square Wreathed in Brambles~
+The broad square is broken around its edges, crumbling into a muddy crust
+of foliage; puddles of sparkling rain water fill the holes in the
+cobblestones.  Fantastically huge ruins sprawl out all around, most
+prominent in the twin walls that lie to the immediate south, thick with
+shadows and veins of palpable glamour.  Moss limns the ancient stones of
+falling architecture; eras range from Roman to Victorian, seamlessly
+blended, no style appearing any older than the others.  Thorny brambles
+crowd through the majority of footpaths and winding streets, leaving them
+wholly impassable; to the west and north openings are carved through the
+looming hedge, leading through dangerous landscapes and more stony ruins.  
+~
+0 0 4
+1
+0 0
+D0
+~
+~
+0 0 20144
+D1
+~
+~
+0 0 20161
+D2
+~
+~
+0 0 20141
+D3
+~
+~
+0 0 20143
+S
+#20143
+A Fallen Tower in a Heavy Grove~
+Sitting on its side with the entirety of its lower half submerged under
+layers of soil, foliage and crumbled stone, a clock-tower eerily alike Big
+Ben ticks and tocks its irregular rhythm through thick silence. 
+Phosphorescent light floats through the broken spaces along the tower
+proper; will-o'-the-wisps hovering and darting their languorous paths,
+tempting onlookers to follow.  Those that do find a swift drop off behind
+the tower's structure; a sudden, sharp outcropping that tumbles deeper down
+than the eye could perceive.  The occasional cry seems to echo from the
+blackness, rising up over the cliff-side and distorting as it ricochets
+through the clock-tower's innards.  The tower's spire points directly west,
+perhaps inadvertent in its post; a winding footpath follows the line of the
+spire, hedged between gently swaying brambles.  
+~
+0 0 4
+1
+0 0
+D1
+~
+~
+0 0 20142
+D3
+~
+~
+0 0 20145
+S
+#20144
+A Heavy Thicket of Dark Briars~
+The growth is so dense here that the thorns are near impossible to avoid;
+tangles of looming, curling, interwoven branches rope wildly over the heaps
+of broken marble walls, climbing steadily upward toward the twin moons and
+encroaching constantly over the razor thin path that winds south to north. 
+In the latter direction the hedge appears to lighten and thin; to the south
+a broad square opens, surrounded by crumbling architecture.  Here the
+darkness is near complete, making travel a peril and passage intimidating. 
+In a black thicket to the immediate west -- a cove formed inside reaching
+fingers of thorns and brambles -- a curious ring of massive tree trunks
+stand out against the tangle.  
+~
+0 0 4
+1
+0 0
+D2
+~
+~
+0 0 20142
+D3
+~
+~
+1 20157 20157
+S
+#20145
+The Thorny Ruins of a Bathhouse~
+The foundation is all that truly remains of what was once an extravagant
+Roman bathhouse; divided into six central chambers, the thorns have
+reclaimed what may have never truly stood.  Tendrils of heavy foliage drape
+over the one standing wall, situated along the furthest western corner.  A
+statue of Mars sits cockeyed upon its head in the crumbling atrium; behind
+it the frigidarium's mosaic floor is swept under a thick layer of leaves and
+wild fingers of brambles.  Brass braziers curl a haze of intoxicating smoke
+along the ledge that still ostensibly leads to the caldarium; in the hottest
+chamber, though exposed to the open air and wrought with the encroaching
+tangles of hedge greens, steam rises from a pool of marble-edged water.  The
+marble is veined with blackened moss, but it's warm to the touch.  To the
+east the thorns loom around a narrow path toward a pointing spire.  
+~
+0 524288 4
+1
+0 0
+D1
+~
+~
+0 0 20143
+S
+#20146
+Tree-Lined Lane to Kelmscott Manor~
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 0 20148
+D3
+~
+~
+0 0 20147
+S
+#20147
+The Old Apple Orchard at Kelmscott Manor~
+~
+0 131072 1
+1
+0 0
+D1
+~
+~
+0 0 20146
+S
+#20148
+The Commons at Kelmscott Manor~
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20146
+S
+#20149
+The London Underground Market~
+In London ("under London" may be a better description) the Market is
+perpetually in motion, swinging pendulous between the real and the unreal --
+a constant quest to the Knights of the Freehold, who are tasked every new
+moon with tracking down and solving the puzzle behind the latest entrance. 
+The Market of London is in a constant state of motion, wreathed on all four
+corners by the tendrils of bridges -- the bridges reach like fingers,
+grasping for Gates to connect to, unceremoniously torn away when the Market
+deigns to leave.  At it's core the Underground is a dense cluster of Middle
+Eastern souks, bright with colorful stalls and scarves, smoky with fumes and
+whirls of incense gravitationally drawn toward the statue of a two-headed
+horse at the very center.  Fanning out, market squares of traditional
+European villages fit together like the pieces of a puzzle, filling miles of
+ground.  The outer rings resemble the archetypal image of gypsy camps and
+tinkerer's wagons.  The Underground Market is inarguably anachronistic;
+wooden stalls, vigorous barkers, hobs and fae in cloaks, tophats, full
+medieval or Victorian dress stand cheek-to-jowl with credit card machines
+and electronic cash registers.  
+~
+0 655364 4
+1
+0 0
+E
+laws~
+#RNo Violence.#n Goblin merchants won't be intimidated, and they won't tolerate 
+people trying to injure their customers. Bad for business.
+#n
+#RYou Get What's Advertised.#n If a merchant tells you that a ten-penny nail has
+the power to kill someone when it's driven into its victim's shadow, it has 
+that power. It may have other side effects, mind, and the method of death may
+be something unexpected and inconvenient -- but you get what's advertised. 
+Note, though, that there is no law requiring a merchant to advertise all the
+properties or catches to his wares, and there never will be.
+#n
+#RHonor Your Deals.#n This cuts both ways. A merchant must provide the wares, and
+the customer must provide payment. Defaulting on a deal is more than just bad
+form (and a potential Clarity hit) -- it riles up the Market, potentially 
+against the whole freehold and certainly against the defaulter.
+#n
+#RNo Refunds.#n If you regret trading away something, you'd better find something
+the merchant really wants in order to buy it back -- at an inflated rate, most
+likely. That's a brand-new deal.
+~
+S
+#20150
+Topside on the S.S. Serendipity~
+Thick steel painted cherry red makes up the topside of this industrial
+barge with railings positioned along the outter edge painted white.  The two
+colors stand in stark contrast to one another, making their appearance with
+the occasional pole rising on the deck topped with floodlights.  Half a
+dozen shipping containers rest on the deck in various states of occupation,
+rust and wear giving them character.  The topside of the ship is utterly
+ordinary, typical as any shipyard inspection could find with a staircase
+leading up to the helm and a pair of compartments nearby locked by a pair of
+white steel doors leading belowdeck.  
+~
+0 0 6
+1
+0 0
+D0
+~
+~
+0 0 20027
+D5
+~
+~
+0 0 20151
+S
+#20151
+Commons of the S.S. Serendipity~
+Steel stairs spiraling down from the barge's topside opens up to a well
+lit chamber with anything but the normal affair.  The equivalent of a mess
+hall can be found with multiple steel tables spanning the room along with
+foldable chairs and a open counter leading back into the ship's kitchen. 
+Any other signs of normalcy are forgotten by the time the initial mess is
+passed, leading into an open room more akin to a meeting hall than anything
+the ship was originally designed for.  Four individual seats can be found,
+each one of them luxurious in their own right ranging a gamut of tastes from
+an old Victorian wingback to a far too comfortable looking beanbag chair.  
+~
+0 0 6
+1
+0 0
+D1
+~
+~
+1 0 20152
+D4
+~
+~
+0 0 20150
+S
+#20152
+Quarters on the S.S. Serendipity~
+Low hanging bulbs cast light on the crew quarters, made larger by the
+owner of the vessel to accommodate a far larger crew than the vessel's
+original intended.  Dozens of steel framed beds are mounted along the
+flooring, stacked in bunks two high to accommodate for space.  One hundred
+and fifty count total with clean sheets and two pillows each.  Shelves are
+built into the walls along with storage alcoves at the very end of the
+quarters with double doors and a pair of locks fastened to them bound with
+industrial chain.  Only a handful of the bunks appear to be lived in on a
+regular basis with personal effects littering them.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+1 0 20151
+S
+#20153
+The Drunken Duck~
+A single loose brick pushed in and a muttered word summons the sight of a
+old stylized wooden door only to disappear to the outside world, hiding all
+that can be found within from mortal eyes.  Archaic woodwork opens into a
+spacious, cozy, pub with a high ceiling supported by crossbeams of varnished
+timber.  Fairy lights dance within polished glass braziers, casting a
+comfortable glow on the a dozen tables making up the common room with a
+stone hearth visible at its center.  Winter months see a pair of logs
+burning for heat though otherwise dormant.  Various framed pictures can be
+found on the walls depicting all manner of folk in various states of
+merriment, taking different forms to patrons with the sight or mundane if a
+bit odd to the rare mortal.  A copper bar runs the length of the wall with a
+massive man of few words handling it at all hours of the day and a
+television perpetually running BBC or sporting events.  
+~
+0 143360 0
+1
+0 0
+D3
+~
+~
+2 0 20122
+S
+#20154
+A Gated Courtyard~
+An iron gate with silver embelishments gives way to the front walkway
+leading up to a red brick mansion with coal grey shingles.  Cobblestone
+neatly put together and carefully maintained, giving way to only the
+occasional crack from decades of use, gives way to a courtyard surrounded by
+exquisitely sculpted hedge walls.  The greenery surrounds and gives privacy
+to the front walk with a stone three tiered fountain that sprays water in
+cascading arcs from the very top to overflow into each of the basins below
+it.  Multiple vibrant purple and blue flowers can be found along the walk
+surrounding the circular path around the fountain.  The walk ends at a stone
+staircase leading up to the front doors of the mansion.  
+~
+0 0 1
+1
+0 0
+D0
+~
+~
+1 20155 20155
+D2
+~
+~
+1 0 20009
+S
+#20155
+An Old Tudor Mansion~
+Double doors open to admit entry to the receiving room of the mansion and
+its many passages beyond.  Opulent furnishings can be found throughout the
+chamber with a crystal chandelier hanging overhead.  Paintings decorate the
+walls, ranging from old pieces depicting English countrysides and long dead
+heroes of the past while the occasional sculpture or bust accents them. 
+Hard wood floors with decorative rugs mark the way within, leading to
+hallways that give way to various sitting rooms, dining, and all manner of
+chambers both small and grand.  Where gloom might be expected in such a
+large, spacious, building, careful lighting and the occasional personal
+touch seems to have invaded the mansion with a welcoming air.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 20155 20154
+D4
+~
+~
+0 0 20156
+S
+#20156
+A Well-Appointed Bedroom~
+Blue wallpaper with floral design covers the spacious walls of the
+bedroom without any other adornment to hide them, broken only by a pair of
+wall mounted lights surrounding the bed.  The bed is a grand affair with
+four posts and dark satin sheets, the threadcount of which could lend
+likeness to a cloud for anyone currently occupying them.  A trio of windows
+open up along the far wall, framed by curtains matching color with the bed. 
+Little in the way of additional furniture can be found save for a chaise
+lounge and a man shaped manikin reserved for a long pea coat.  A walk in
+closet and entry into a private bath are the only other distinguishing marks
+to the chamber.  
+~
+0 0 0
+1
+0 0
+D5
+~
+~
+0 0 20155
+S
+#20157
+A Firelit Longhouse~
+Timber pillars resting on stones rise to support two long, rafter-bracing
+roof beams.  At each pair of pillars the beams are tied together with a
+cross beam; descending from the pinnacle of each cross is a shorter pillar
+supporting the ridge, and each pillar's foot is carved into tiers of high
+and low benches.  The upper rafters form a strong triangular structure; the
+lower rafters, hidden behind rustic wainscoting, carry the weight of the
+majority of the structure.  Peat moss packed thickly between the rafters
+keeps the Hedge's oft-turbulent storms at bay.  Smooth, unfinished wood
+comprises the floor, and three distinct chambers branch along the narrow
+structure; here the long central hearth rises above the flooring, filled
+with smoldering coals and a sizable, smokeless fire.  To the north timber
+flanks the opening to another chamber.  To the south, vast doors swing out
+into a clearing in brambles.  
+~
+0 0 4
+1
+0 0
+D0
+~
+~
+0 0 20158
+D1
+~
+~
+1 20157 20144
+S
+#20158
+Central Chamber in a Firelit Longhouse~
+~
+0 0 4
+1
+0 0
+D2
+~
+~
+0 0 20157
+D4
+~
+~
+0 0 20159
+S
+#20159
+The High Rafters of a Firelit Longhouse~
+~
+0 0 4
+1
+0 0
+D5
+~
+~
+0 0 20158
+S
+#20160
+Asda Supercentre~
+Lightly tinted cyan glass and weight-monitored sliding doors preface the
+entrance to this monstrosity of a shopping hub.  The glowing letters 'ASDA'
+arch over the metallic awning at the front entrance, parting open to reveal
+age-worn, thoroughly-buffed linoleum flooring.  Unremarkable steel shelves,
+racks, and top-lit displays fill the entirety of the building; a row of
+check-out lines, depressed cashiers and electronic registers divide the
+greater body of labyrinthine aisles from the entrance.  Lime green signs
+dangle above each aisle, describing the types of wares contained.  Convex
+mirrors reflect the aisles from the far wall, visible to employees, and
+sterile, occasionally flickering white fluorescents shine down on shoppers. 
+~
+0 65536 0
+1
+0 0
+D1
+~
+~
+1 0 20063
+S
+#20161
+Ghost Street~
+This narrow, winding road seems almost superimposed over London Wall in
+the mortal realm.  Massive buildings line the sides of Ghost street, bearing
+surprisingly modern design but made from ancient materials.  The vast
+majority of the building's inhabitants are the same 'Ghosts' who are said to
+haunt the mad.  A scant few have been cleared by Hobs or Changelings to be
+used as save havens; Hollows crop up as often as they can, filling little
+hidey holes and larger constructs with a mimicry of life.  The Brierholme
+Tower, made of hand hewn stone and reflective modern glass, stands as an
+example of the anachronism at play in the London hedge.  
+~
+0 0 4
+1
+0 0
+D0
+~
+~
+1 20183 20162
+D3
+~
+~
+0 0 20142
+S
+#20162
+Brierholme Towers~
+The main lobby of the Brierholme towers is laid out much like the fine
+towering hotels of London proper save for a few details.  Floors of crude
+cobblestone with invasive weeds creeping up through the cracks and a massive
+fountain much like one might discover from an open courtyard dominate the
+decor.  Bone dry and showing no signs of recent life, the fountain stands
+like a testament to times old amid the modern architecture as if the
+building's creators had trampled on its old home.  A broken elevator lies in
+ruin with its clockwork mechanisms in pieces, leaving a spiral staircase the
+only means to ascend the towering building.  The doors leading out from
+lobby on the ground floor are dominated with a shimmering archway, providing
+a pathway to the mortal realm for those with the ability to use them or
+simply regressing back to the hedge.  
+~
+0 0 4
+1
+0 0
+D2
+~
+~
+1 20183 20161
+D4
+~
+~
+0 0 20163
+S
+#20163
+The Greenhouse~
+The Greenhouse is not just a single floor, but instead several floors
+exposed on all sides by reflective glass walls that let the rays of the sun
+in, while still providing privacy from the Hedge beyond.  Rows and Rows of
+planters, each encased in glass, are laid out across the floors creating a
+vast selection of Goblin Fruits.  Intricate ducts and channels create a
+pathway for collected rainwater to be channeled down to each of the
+planters.  The Common healing fruits grow and bloom by the season.  A few
+more exotic varieties each contained with in their own specialized
+greenhouses.  The very top floor of the Greenhouse houses large vats used in
+the brewing process, as well as kegs and bottles for the finished product.  
+~
+0 0 4
+1
+0 0
+E
+stats~
+Workshop, Gardens 3 and Brewing 1
+~
+D4
+~
+~
+0 0 20164
+D5
+~
+~
+0 0 20162
+S
+#20164
+The Suites at Brierholme~
+The top floor of the building is divided out into four sections creating
+four Suites above.  The spiral stair case empties out into a large circular
+room.  The roof above has caved in and exposes the sky above.  From the hole
+the Cistern that holds the collected rainwater for the Greenhouse can be
+seen.  At each cardinal point in the circle is a large stone arch with heavy
+oak doors.  The Names of the inhabitants glowing on the entrance.  
+~
+0 0 4
+1
+0 0
+D1
+~
+~
+1 20183 20166
+D5
+~
+~
+0 0 20163
+S
+#20165
+A Tidy Spartan Flat~
+This apartment is smallish but well kept, with hardwood floors and beige
+walls.  Set up in a mock studio style, there's a kitchenette off to one
+side, with some basic and very possibly second hand appliances.  It looks
+largely unused, with little in the fridge aside from frozen meals, bottles
+of water, and a few scattered containers of condiments.  A futon rather than
+a bed has been set up along another wall of the apartment, a dresser nearby
+likely housing a wardrobe, and the center of the homely place is dominated
+by a shabby but comfortable looking sofa in front of a modestly sized,
+slightly out of date television.  The last remaining wall is occupied by a
+desk and computer set up, perhaps the most modern looking thing in the room;
+not top of the line by any stretch, but above average.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 20182 20135
+S
+#20166
+Cal's Suite at Brierholme~
+The eastern wing of The Suites bares the name Cal emblazoned on the heavy
+wooden door.  Behind it is a wedge shaped room.  The smallest corner of the
+curved wedge is the door that extends out to the large rounded windows that
+look out of the Hedge.  Inside the room is a functional flat with basic
+plumbing and drainage.  A large stone fireplace is the only source of warmth
+and also serves as a cooking pit.  A large bed is butted up against the
+opposite wall and is covered in a collection of furs and skins of various
+hedge beasts.  
+~
+0 0 4
+1
+0 0
+D3
+~
+~
+1 20183 20164
+S
+#20167
+Geek Chic Main Floor~
+There is no denying that this establishment takes its name to heart. 
+This nightclub's walls are decorated with artistic renderings of various
+geeky pursuits from video games, to movies to depictions of fantasy
+monsters, all brilliantly illuminated in vibrant colors.  Similarly colored
+chandeliers with draping strands of LED lights hang from the ceiling,
+pulsing in time with the music.  Attractive dancers, both male and female in
+cosplay outfits dance in cages in various places, suspended over the dance
+floor.  At the back is a long bar with a healthy supply of drinks.  A
+bouncer stands near a set of stairs leading up to a VIP area, while a built
+in arcade is off to the south and to the east the ball pit resides.  
+~
+0 4096 0
+1
+0 0
+D0
+~
+~
+1 0 20058
+D1
+~
+~
+0 0 20169
+D2
+~
+~
+0 0 20168
+D4
+~
+~
+0 0 20170
+S
+#20168
+Geek Chic Arcade~
+No expense was spared on this luxurious arcade and gaming space.  State
+of the art VR booths mingle with the latest in arcade cabinets while still
+paying homage to classic favorites like pac man and space invaders.  One
+wall is dominated by classic pinball.  Upholstered couches and chairs are
+set out with more conventional console gaming opportunities.  Headphones are
+available for the visitors who want to focus on their games, for the music
+from the club filters in from the north.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20167
+S
+#20169
+Geek Chic Ball Pit~
+A full Olympic size swimming pool has been converted into a ball pit
+filled with multicolored glow-in-the-dark balls.  Playful neon no running
+signs are posted on the walls while at the far end there is a lit
+lifeguard's stand with an employee watching over the proceedings.  Ropes
+dangle from the ceiling so that revelers can swing into the pit.  The same
+music that fills the club is pumped into this room through speakers, though
+it is at a lower level.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+0 0 20167
+S
+#20170
+Geek Chic VIP Room~
+This section of the club is more fantastical than the rest of the
+building.  Careful work has gone into creating a room that seamlessly
+combines the decorations with the furniture.  Like out of a fairy tale
+forest, roots form comfortable chairs, vines into padded swings.  LED lights
+awash in blues and whites and yellows and greens provide illumination as a
+starry sky from the arched ceiling.  A faint low fog covers the floor,
+pumped in from the walls.  Some modern touches are carefully hidden around
+the room, including a television or two as well as speakers providing some
+soft house music.  
+~
+0 12288 0
+1
+0 0
+D5
+~
+~
+0 0 20167
+S
+#20171
+Galley in a Slender Houseboat~
+A battered honey wood butcher block fills an excess of space up the
+rug-strewn center of the galley.  Behind it the "kitchen" provides minimal,
+patched-in opportunity for cooking; an ancient gas range stove hugs wall
+across from an open-faced shelf made of copper piping.  Breads, boxes of
+cereal and tea tins crowd every available inch of shelf space.  An old,
+well-loved sofa with floral cushions and a wicker frame is pushed into the
+saloon with a couple small, round pub tables with scarred tops.  Across from
+the sofa a laptop and potted fern occupy a long pine counter.  High-angled
+windows framed in pine match the wall paneling, though generous portions
+have been painted pea green.  A large, creamy white paper lantern hangs from
+the middle of the saloon's ceiling.  To the south a wood arch opens into the
+stateroom.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 20185 20031
+D2
+~
+~
+0 0 20172
+S
+#20172
+Spacious Stateroom in a Houseboat~
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+0 0 20171
+S
+#20173
+A Well-Kept Flat~
+Beyond the front door lies the home of someone who likes their space to
+be tidy.  Scuffed hardwood flooring stretches out underfoot, complemented by
+the sandy beige color painted on the walls; it persists into the kitchen,
+joined to the living room with an island bar separating the two.  The
+furnishings are simple, old leather covering a plush couch and
+cherry-stained wood forming the coffee table and end tables.  A set of large
+doors lead out to a short balcony bedecked with living plants, ivy vines
+climbing the trellis set against the flat's wall.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 0 20174
+D3
+~
+~
+1 20186 20135
+S
+#20174
+A Simply-Furnished Master Suite~
+The sandy beige from the living room seeps into the bedroom, though the
+flooring has been covered by a white area rug rather than left in its
+hardwood state.  Adjoined to the bedroom is the only bathroom in the flat,
+kept neutral in hue with a shower and tub, easily accessed by crossing the
+floor and opening the door.  A queen-sized bed rests in the center of the
+room on a short riser, accompanied by a dresser and shallow closet.  Deeds
+Street and surrounding buildings can be seen through the windows.  
+~
+0 0 0
+1
+0 0
+D2
+~
+~
+1 0 20173
+S
+#20175
+A Modern London Mansion~
+Sleek, modern architecture mark this newer building.  All the decorations
+are marked by the bleeding edge of technological progress.  In the large
+receiving area a large inclusive entertainment center has been arranged with
+multiple large TV screens and a host of stereo and gaming systems arranged
+below them.  Several pieces of furniture have keypads built in from which
+the climate control, TVs and stereos can be controlled.  Tasteful art
+decorates the wall, a mixture of references to Video Games and more classic
+art pieces depicting landscapes.  The public areas of the house also
+includes a long bar and all of the amenities a person could want.  In
+addition to standard locks, powerful magnetic locks secure the doors.  
+~
+0 0 0
+1
+0 0
+D1
+~
+~
+0 0 20176
+D2
+~
+~
+1 22023 20177
+D3
+~
+~
+1 22023 20098
+D4
+~
+~
+1 22023 20178
+S
+#20176
+A Landscaped Backyard~
+In keeping with the modern style, this backyard is not as expansive as it
+could be, yet for London it has quite a bit of space.  Hedges line the yard,
+obscuring the privacy fences from the eye.  They have been carefully
+sculpted into fantastical shapes with smooth curving lines that add to a
+sense of wonder.  Flowers line the paths through the yard as they flow
+towards a nearby gazebo and to the water feature that is a functioning set
+of tiered swimming pools connected by manmade waterfalls.  Underneath the
+awning of the building is a large heated Jacuzzi with a small outdoor bar.  
+~
+0 0 0
+1
+0 0
+D3
+~
+~
+0 0 20175
+S
+#20177
+A Large Workshop~
+This large workshop is divided into a couple of different sections, each
+devoted to a different sort of work.  It runs the gamut from at the near end
+a section with a variety of high tech gadgets and computers to the far end
+having what looks to be an actual working forge.  The room is heavily
+ventilated, so that despite all the work that is done here, the room doesn't
+remain dark and smoky.  There is one corner that isn't as obviously devoted
+to working, appearing much like a small laboratory with a number of
+substances kept under careful lock and key, as is the room its self, hefty
+magnetic locks providing security.  
+~
+0 0 0
+1
+0 0
+D0
+~
+~
+1 22023 20175
+S
+#20178
+A Master Bedroom~
+The walls of this room are almost entirely covered with posters depicting
+various gaming and movie icons.  Where they aren't covered is the large TV
+that is situated across from the foot of the large, silk covered bed with a
+number of gaming systems hooked up to it.  Discreet speakers are located in
+the corners of the room, hooked both into the TV and to the desktop computer
+that is situated against the eastern end of the room.  The computer looks to
+be at the cutting edge and is often open to show feeds from the security
+cameras located around the estate.  
+~
+0 131072 0
+1
+0 0
+D5
+~
+~
+1 22023 20175
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 22000 2 1
+D 0 22001 1 2
+D 0 22001 3 2
+D 0 22002 0 1
+D 0 22002 1 2
+D 0 22004 3 2
+D 0 22006 1 1
+D 0 22006 2 1
+D 0 22007 3 1
+D 0 20000 3 2
+D 0 20007 1 1
+D 0 20008 3 1
+D 0 20009 0 1
+D 0 20024 2 1
+D 0 20025 0 1
+D 0 20029 0 1
+D 0 20031 0 2
+D 0 20031 2 2
+D 0 20033 0 1
+D 0 20038 0 2
+D 0 20038 2 1
+D 0 20040 3 2
+D 0 20041 1 2
+D 0 20041 2 2
+D 0 20047 0 2
+D 0 20052 2 1
+D 0 20057 2 1
+D 0 20058 0 1
+D 0 20058 2 1
+D 0 20062 5 1
+D 0 20063 3 1
+D 0 20065 3 1
+D 0 20076 1 1
+D 0 20078 0 1
+D 0 20095 1 1
+D 0 20098 1 2
+D 0 20110 1 1
+D 0 20110 2 1
+D 0 20110 3 1
+D 0 20110 4 1
+D 0 20111 3 1
+D 0 20112 1 1
+D 0 20113 0 1
+D 0 20114 5 1
+D 0 20115 2 1
+D 0 20117 0 1
+D 0 20118 2 1
+D 0 20119 0 1
+D 0 20120 4 1
+D 0 20121 2 1
+D 0 20122 1 1
+D 0 20122 3 1
+D 0 20123 2 1
+D 0 20124 0 1
+D 0 20125 2 2
+D 0 20127 0 1
+D 0 20128 1 1
+D 0 20129 1 2
+D 0 20131 4 1
+D 0 20131 5 1
+D 0 20132 2 1
+D 0 20132 4 1
+D 0 20133 0 1
+D 0 20135 0 2
+D 0 20135 1 2
+D 0 20135 3 2
+D 0 20135 5 1
+D 0 20136 1 2
+D 0 20137 3 1
+D 0 20138 2 2
+D 0 20139 0 1
+D 0 20140 2 1
+D 0 20144 3 2
+D 0 20146 0 1
+D 0 20148 2 1
+D 0 20151 1 1
+D 0 20152 3 1
+D 0 20153 3 1
+D 0 20154 0 2
+D 0 20154 2 1
+D 0 20155 2 2
+D 0 20157 1 2
+D 0 20160 1 1
+D 0 20161 0 2
+D 0 20162 2 2
+D 0 20164 1 2
+D 0 20165 2 2
+D 0 20166 3 2
+D 0 20167 0 1
+D 0 20171 0 2
+D 0 20173 0 1
+D 0 20173 3 2
+D 0 20174 2 1
+D 0 20175 2 2
+D 0 20175 3 2
+D 0 20175 4 2
+D 0 20177 0 2
+D 0 20178 5 2
+O 0 20001 0 20000
+O 0 20000 0 20002
+O 0 20002 0 20005
+O 0 20003 0 20006
+O 0 20004 0 20007
+O 0 20005 0 20008
+O 0 20006 0 20012
+O 0 20007 0 20027
+O 0 20007 0 20031
+O 0 20008 0 20115
+O 0 20009 0 20045
+O 0 20010 0 20123
+O 0 27 0 20139
+O 0 20156 0 20130
+O 0 20184 0 20167
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

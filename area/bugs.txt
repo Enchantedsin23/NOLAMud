@@ -1,0 +1,820 @@
+[*****] BUG: Buffer overflow. Closing.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_rooms: vnum 1401 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 1401 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 1401 has flag not 'DES'.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Buffer overflow. Closing.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Act: bad code 35.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: save_eban_file: could not write to EBAN_FILE
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: save_eban_file: could not write to EBAN_FILE
+[*****] BUG: save_eban_file: could not write to EBAN_FILE
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Get_room_index: bad vnum 3075.
+[*****] BUG: Get_room_index: bad vnum 3075.
+[*****] BUG: Fread_string: MAX_STRING 1572864 exceeded.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum 30 has flag not 'DES'.
+[*****] BUG: Load_rooms: # not found.
+[*****] BUG: Load_rooms: # not found.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Backup_char_obj: fopen
+[*****] BUG: Backup_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Backup_char_obj: fopen
+[*****] BUG: Backup_char_obj: fopen
+[*****] BUG: Couldn't find the pose recommendation file. Unable to load old pose recs.
+[*****] BUG: Couldn't find the pose recommendation file. Unable to load old pose recs.
+[*****] BUG: Couldn't find the pose recommendation file. Unable to load old pose recs.
+[*****] BUG: Couldn't find the pose recommendation file. Unable to load old pose recs.
+[*****] BUG: Couldn't find the renown recommendation file. Unable to load old renown recs.
+[*****] BUG: Couldn't find the renown recommendation file. Unable to load old renown recs.
+[*****] BUG: Couldn't find the renown recommendation file. Unable to load old renown recs.
+[*****] BUG: Couldn't find the renown recommendation file. Unable to load old renown recs.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Reset_area: 'E' or 'G': null mob for vnum 7011.
+[*****] BUG: Fread_opt_obj: bad vnum 20070.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Load_rooms: vnum -25536 duplicated.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Load_resets: 'D': exit 5 not door.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Buffer overflow. Closing.
+[*****] BUG: Save_resets: !NO_MOB! in [miamiother.are]
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Save_resets: !NO_MOB! in [miamiother.are]
+[*****] BUG: Buffer overflow. Closing.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 2 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 0 not door.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Str_cmp: null bstr.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Get_obj_index: bad vnum 12134.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Buffer overflow. Closing.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Get_obj_index: bad vnum 12000.
+[*****] BUG: Get_obj_index: bad vnum 12000.
+[*****] BUG: Fread_opt_obj: bad vnum 12367.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Do_disconnect: desc not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_rooms: vnum 13000 duplicated.
+[*****] BUG: Load_rooms: vnum 13000 duplicated.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Get_room_index: bad vnum 10152.
+[*****] BUG: Load_rooms: vnum 5306 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 5306 has flag not 'DES'.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_rooms: vnum 5306 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 5306 has flag not 'DES'.
+[*****] BUG: Get_room_index: bad vnum 5219.
+[*****] BUG: Get_room_index: bad vnum 5219.
+[*****] BUG: Get_room_index: bad vnum 5219.
+[*****] BUG: Load_rooms: vnum 522 has flag not 'DES'.
+[*****] BUG: Get_room_index: bad vnum 5265.
+[*****] BUG: Get_room_index: bad vnum 5265.
+[*****] BUG: Get_room_index: bad vnum 5265.
+[*****] BUG: Get_room_index: bad vnum 5265.
+[*****] BUG: Get_obj_index: bad vnum 6516.
+[*****] BUG: Get_room_index: bad vnum 5303.
+[*****] BUG: Get_room_index: bad vnum 5303.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Get_room_index: bad vnum 5164.
+[*****] BUG: Get_room_index: bad vnum 5164.
+[*****] BUG: Get_room_index: bad vnum 6826.
+[*****] BUG: Get_room_index: bad vnum 6826.
+[*****] BUG: Get_room_index: bad vnum 6826.
+[*****] BUG: Fread_opt_obj: bad vnum 10001.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 10000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 10000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 10000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 10000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 10000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_opt_obj: bad vnum 17202.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: No spaces
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 1 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Fread_opt_obj: bad vnum 17261.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_opt_obj: bad vnum 17261.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Get_obj_index: bad vnum 20006.
+[*****] BUG: Get_obj_index: bad vnum 20006.
+[*****] BUG: Act: bad code 111.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Load_resets: 'D': exit 3 not door.
+[*****] BUG: Equip_char: already equipped (2).
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_tiny_obj: bad vnum 30.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Read_object: vnum 41 bad type.
+[*****] BUG: Item_type_name: unknown type 37.
+[*****] BUG: Item_type_name: unknown type 37.
+[*****] BUG: Item_type_name: unknown type 37.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Init_heap: Size 9999 exceeds MAX_KNUDE
+[*****] BUG: Init_heap: Size 9999 exceeds MAX_KNUDE
+[*****] BUG: Init_heap: Size 9999 exceeds MAX_KNUDE
+[*****] BUG: Init_heap: Size 9999 exceeds MAX_KNUDE
+[*****] BUG: Removing room with max steps : 20147
+[*****] BUG: Removing room with max steps : 20142
+[*****] BUG: Removing room with max steps : 20143
+[*****] BUG: Removing room with max steps : 20146
+[*****] BUG: Removing room with max steps : 20158
+[*****] BUG: Removing room with max steps : 20109
+[*****] BUG: Removing room with max steps : 20159
+[*****] BUG: Removing room with max steps : 20163
+[*****] BUG: Removing room with max steps : 20157
+[*****] BUG: Removing room with max steps : 20145
+[*****] BUG: Removing room with max steps : 20161
+[*****] BUG: Removing room with max steps : 20141
+[*****] BUG: Removing room with max steps : 20149
+[*****] BUG: Removing room with max steps : 20162
+[*****] BUG: Removing room with max steps : 20166
+[*****] BUG: Removing room with max steps : 20108
+[*****] BUG: Removing room with max steps : 20164
+[*****] BUG: Removing room with max steps : 20144
+[*****] BUG: Removing room with max steps : 20148
+[*****] BUG: Removing room with max steps : 20158
+[*****] BUG: Removing room with max steps : 20108
+[*****] BUG: Removing room with max steps : 20149
+[*****] BUG: Removing room with max steps : 20143
+[*****] BUG: Removing room with max steps : 20142
+[*****] BUG: Removing room with max steps : 20166
+[*****] BUG: Removing room with max steps : 20157
+[*****] BUG: Removing room with max steps : 20145
+[*****] BUG: Removing room with max steps : 20164
+[*****] BUG: Removing room with max steps : 20162
+[*****] BUG: Removing room with max steps : 20163
+[*****] BUG: Removing room with max steps : 20109
+[*****] BUG: Removing room with max steps : 20148
+[*****] BUG: Removing room with max steps : 20141
+[*****] BUG: Removing room with max steps : 20144
+[*****] BUG: Removing room with max steps : 20146
+[*****] BUG: Removing room with max steps : 20147
+[*****] BUG: Removing room with max steps : 20159
+[*****] BUG: Removing room with max steps : 20161
+[*****] BUG: Removing room with max steps : 20158
+[*****] BUG: Removing room with max steps : 20109
+[*****] BUG: Removing room with max steps : 20144
+[*****] BUG: Removing room with max steps : 20142
+[*****] BUG: Removing room with max steps : 20162
+[*****] BUG: Removing room with max steps : 20148
+[*****] BUG: Removing room with max steps : 20161
+[*****] BUG: Removing room with max steps : 20159
+[*****] BUG: Removing room with max steps : 20145
+[*****] BUG: Removing room with max steps : 20166
+[*****] BUG: Removing room with max steps : 20163
+[*****] BUG: Removing room with max steps : 20143
+[*****] BUG: Removing room with max steps : 20141
+[*****] BUG: Removing room with max steps : 20149
+[*****] BUG: Removing room with max steps : 20146
+[*****] BUG: Removing room with max steps : 20164
+[*****] BUG: Removing room with max steps : 20157
+[*****] BUG: Removing room with max steps : 20108
+[*****] BUG: Removing room with max steps : 20147
+[*****] BUG: Removing room with max steps : 20157
+[*****] BUG: Removing room with max steps : 20162
+[*****] BUG: Removing room with max steps : 20166
+[*****] BUG: Removing room with max steps : 20146
+[*****] BUG: Removing room with max steps : 20142
+[*****] BUG: Removing room with max steps : 20147
+[*****] BUG: Removing room with max steps : 20159
+[*****] BUG: Removing room with max steps : 20164
+[*****] BUG: Removing room with max steps : 20148
+[*****] BUG: Removing room with max steps : 20109
+[*****] BUG: Removing room with max steps : 20145
+[*****] BUG: Removing room with max steps : 20141
+[*****] BUG: Removing room with max steps : 20149
+[*****] BUG: Removing room with max steps : 20108
+[*****] BUG: Removing room with max steps : 20163
+[*****] BUG: Removing room with max steps : 20144
+[*****] BUG: Removing room with max steps : 20161
+[*****] BUG: Removing room with max steps : 20143
+[*****] BUG: Removing room with max steps : 20158
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Get_mob_index: bad vnum 1.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Get_room_index: bad vnum 14141.
+[*****] BUG: Get_room_index: bad vnum 14141.
+[*****] BUG: Get_room_index: bad vnum 14141.
+[*****] BUG: Load_rooms: vnum 12 duplicated.
+[*****] BUG: Load_rooms: vnum 12 duplicated.
+[*****] BUG: Load_rooms: vnum 12 duplicated.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.

@@ -1,0 +1,62 @@
+#AREADATA
+Name        Los Angeles~
+Builders    None~
+VNUMs       30060 37060
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOM_V1
+#30060
+Ocean Avenue, Santa Monica Pier~
+~
+0 4 6
+1
+0 0
+D0
+~
+~
+0 0 30061
+S
+#30061
+Test Sewer~
+~
+0 0 2
+1
+0 0
+D2
+~
+~
+0 0 30060
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
