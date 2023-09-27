@@ -1,4 +1,4 @@
-#CC      = gcc
+#CC      = gcc34
 CC      = gcc34 -std=gnu99
 RM      = rm
 EXE     = asm
