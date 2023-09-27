@@ -809,8 +809,8 @@ void do_bloodlinedisc (CHAR_DATA * ch, char *argument)
 		improve = DISC_ANIMALISM;
 	else if (!str_cmp (arg, "celerity"))
 		improve = DISC_CELERITY;
-	else if (!str_cmp (arg, "resilience"))
-		improve = DISC_RESILIENCE;
+	else if (!str_cmp (arg, "blood sorcery"))
+		improve = DISC_blood sorcery;
 	else if (!str_cmp (arg, "vigor"))
 		improve = DISC_VIGOR;
 	else if (!str_cmp (arg, "fleeting winter"))
@@ -1060,7 +1060,7 @@ void do_changeling (CHAR_DATA * ch, char *argument)
 	ch->mod_attributes[ATTRIB_STR] = ch->mod_attributes[ATTRIB_STR] + 4;
 	ch->mod_attributes[ATTRIB_DEX] = ch->mod_attributes[ATTRIB_DEX] + 1;
 	ch->mod_attributes[ATTRIB_STA] = ch->mod_attributes[ATTRIB_STA] + 3;
-	ch->mod_attributes[ATTRIB_APP] = ch->mod_attributes[ATTRIB_APP] - 11;
+	ch->mod_attributes[ATTRIB_COM] = ch->mod_attributes[ATTRIB_COM] - 11;
 	ch->mod_attributes[ATTRIB_MAN] = ch->mod_attributes[ATTRIB_MAN] - 3;
 
 
