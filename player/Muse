@@ -1,0 +1,304 @@
+#PLR
+NAM Muse~
+DDS Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description.  
+~
+DNG ~
+AUR ~
+VOI a female voice with a Californian accent~
+RDS Muse~
+MND A pretty pretty faerie~
+TEH .~
+WIK I have no such thing.~
+PEF Guys, I need to make a character.~
+REP Written up for referring to caucasiAn coworker as "my negro."~
+SID BLAH~
+TRI LOLOLO~
+LOD rfqrf3f~
+IMS Test~
+CTM Tue Jun 28 00:01:34 2011~
+LTM Fri Mar 15 00:35:48 2013~
+LHS c-174-50-186-239.hsd1.ca.comcast.net~
+PLN 0
+PLS 0
+SEX 0
+VSN 3
+HOM 3706
+WXY 0 0
+HXY 0 0
+VOT 0
+LVT 0 0 0
+LVL 12
+ROD -1
+RDT 1
+VRT 0 0 0
+SCR 0
+TRS 12
+PLY 55318416
+PIC 24529
+RPF 1362463912
+ROM 18153
+KAD 0 0 5 0
+WPN 0 0 0 0 0 0 0 0 0 0 0 0 0
+SPL 4 4 4 4 4
+STN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+LHP 0 0 8192 0 0 0 0
+HMM 7 7 1000 1000 1000 1000
+GLD 20
+EXP 21
+ACT 17992
+EXT 8
+POS 9
+HIT 0
+DAM 0
+ARM 100
+WRC 1
+SVC 0
+CAN -1
+CNC 0
+CVC 0
+BBC 1
+AVC 1
+SST 1965
+RNT ~
+VIB 0PTM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+THM 0 -1 -1 0 0
+SDG banana rama~
+MLD Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description. 
+Description.  Description.  Description.  Description.  Description.  
+~
+ATT 3 3 3 3 3 3 3 3 3
+TAL 2 2 2 2 2 2 2 2 2 2
+TLX 3 3 3 3 3 3 3 3 3 3
+SKI 2 2 2 2 2 2 2 2 2 2
+SKX 3 3 3 3 3 3 3 3 3 3
+KNO 2 2 2 2 2 2 2 2 2 2
+KNX 3 3 3 3 3 3 3 3 3 3
+PSW MuT6QhxB3U6yk~
+BFI #C!#c!#C!#c!#C!#c!#C!#c!#C Muse is here #c!#C!#c!#C!#c!#C!#c!#C!#n~
+BFO #C!#c!#C!#c!#C!#c!#C!#c!#C Muse is not here #c!#C!#c!#C!#c!#C!#c!#C!#n~
+TTL My Little Pony: Roleplaying is Magic~
+PRT #p     [#wST#p] #n~
+EML Muse~
+A_P 13 13 13 13 13
+LAN 8 0
+WFF 1 1
+SCO 21 0 0 0 0 0
+BLD 10 10
+WIL 1 1
+CON 0 0 0
+MRT elf-mittens~
+MRT ducks~
+MRT gay pimp~
+MRT prince~
+MRT restraining order~
+MRT a real ordeal~
+MRT equestrian kitchen~
+MRT jew fury~
+MEM Oliver Oliver~
+SKL 100 'peek'
+SKL 100 'english'
+SKL 100 'german'
+SKL 100 'mandarin'
+SKL 100 'japanese'
+SKL 100 'russian'
+SKL 100 'arabic'
+SKL 100 'latin'
+SKL 100 'italian'
+SKL 100 'spanish'
+SKL 100 'hebrew'
+SKL 100 'gaelic'
+SKL 100 'indonesian'
+SKL 100 'greek'
+SKL 100 'slavic'
+SKL 100 'french'
+SKL 100 'korean'
+SKL 100 'vietnamese'
+SKL 100 'cantonese'
+SKL 100 'tagalog'
+SKL 100 'hindu'
+ETR 'Flaws' 'Bridezilla' 1~ 
+ETR 'Flaws' 'hemm' 1~ 
+ETR 'Flaws' 'Cheats at Poker' 1~ 
+ETR 'Flaws' 'Ramona' 1~ 
+ETR 'Flaws' 'Hoopskirt' 1~ 
+ETR 'Flaws' 'No patience for Patience' 1~ 
+ETR 'Flaws' 'A Thousand Snakes' 1~ 
+ETR 'Deepest Darkest Secrets' 'Secretly Plays Walker' 1~ 
+ETR 'Deepest Darkest Secrets' 'Secretly Plays Ambrose' 1~ 
+ETR 'Deepest Darkest Secrets' 'Secretly Plays David' 1~ 
+ETR 'Deepest Darkest Secrets' 'Secretly plays Everyone' 1~ 
+End
+
+#OBJ
+NST 0
+NAM vehicle~
+SDS a generic vehicle~
+DDS A generic vehicle idles on the curb, waiting for an owner to restring it.
+~
+PNC This is a generic vehicle. Use this space to describe the interior.
+~
+PFC This is a generic vehicle. Use this space to describe the exterior.
+~
+QMK Muse~
+VNM 1009
+EFL 0
+WFL 1
+ITT 27
+WEI 5
+RES 25
+LVL 12
+CST 40
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM vehicle~
+SDS a generic vehicle~
+DDS A generic vehicle idles on the curb, waiting for an owner to restring it.
+~
+PNC This is a generic vehicle. Use this space to describe the interior.
+~
+PFC This is a generic vehicle. Use this space to describe the exterior.
+~
+QMK Muse~
+VNM 1009
+EFL 0
+WFL 1
+ITT 27
+WEI 5
+RES 25
+LVL 12
+CST 40
+VAL 0 0 0 0
+End
+
+#O 3706 1 0 -1 0 0 100 25 0 2 0 0 0
+#OBJ
+NST 0
+NAM coat~
+SDS a Burberry Prorsum quilted velvet coat in a dark shade of eggplant purple~
+DDS A generic jacket is here
+~
+QMK Muse~
+VNM 3361
+EFL 0
+WFL 1025
+ITT 13
+WEI 5
+RES 25
+LVL 1
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM heels~
+SDS a pair of soft black Ralph Lauren heels with gold trimmings around the busk~
+DDS A pair of generic boots are here
+~
+QMK Muse~
+VNM 3358
+EFL 0
+WFL 65
+ITT 9
+WEI 5
+RES 25
+LVL 1
+CST 0
+VAL 5 0 0 0
+End
+
+#OBJ
+NST 0
+NAM closet~
+SDS #pMarie's closet#n~
+DDS #pMarie's closet#n~
+QMK Muse~
+VNM 3032
+EFL 0
+WFL 1
+ITT 15
+WEI 2
+RES 25
+LVL 1
+CST 20
+VAL 200 0 0 0
+End
+
+#O 1008 1 0 -1 30 0 100 25 0 0 0 0 0
+#O 3361 1 0 -1 0 0 100 25 0 0 0 0 0
+#O 1011 1 0 -1 40 0 100 25 0 0 0 0 0
+#OBJ
+NST 0
+NAM held item~
+SDS a generic held item~
+DDS A generic held item is here
+~
+QMK Muse~
+VNM 1002
+EFL 0
+WFL 8193
+ITT 5
+WEI 1
+RES 25
+LVL 12
+CST 2000
+VAL 0 6 3 1
+End
+
+#OBJ
+NST 0
+NAM modi doll~
+SDS #ca small squishy #CModi#c doll for when the other STs are being STUPID#n~
+DDS #ca small squishy #CModi#c doll for when the other STs are being STUPID#n
+~
+QMK Muse~
+VNM 13000
+EFL 0
+WFL 8193
+ITT 13
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM modi doll~
+SDS #ca small squishy #CModi#c doll for when the other STs are being STUPID#n~
+DDS #ca small squishy #CModi#c doll for when the other STs are being STUPID#n
+~
+QMK Muse~
+VNM 13000
+EFL 0
+WFL 8193
+ITT 13
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 0 0 0 0
+End
+
+#END
