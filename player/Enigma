@@ -1,1 +1,320 @@
+#PLR
+NAM Enigma~
+DDS Some kind of faerie?
+~
+AUR ~
+VOI a female voice with a Californian accent~
+RDS Enigma~
+MND A pretty pretty faerie~
+TEH ~
+WIK http://pennydreadful.org/wiki/index.php?title=User:Merry~
+PEF Please don't send me hair.~
+REP Lollipop Guild~
+SID Society~
+TRI Romancer~
+LOD Summer~
+NTR Temperance~
+DNR Sloth~
+CTM Tue Jun 28 00:01:34 2011~
+LTM Thu Apr 27 13:19:42 2017~
+LHS c-73-151-147-6.hsd1.ca.comcast.net~
+PLN 0
+PLS 0
+SEX 2
+VSN 3
+HOM 13
+WXY 0 0
+HXY 0 0
+LVL 12
+ROD -1
+RDT 7
+VRT 0 0 0
+SCR 0
+TRS 12
+PLY 1530743838
+PIC 30942
+RPF 1460938509
+ROM 3700
+KAD 0 0 5 0
+WPN 0 0 0 0 0 0 0 0 0 0 0 0 0
+SPL 4 4 4 4 4
+STN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HMM 7 7 1000 1000 1000 1000
+GLD 16
+EXP 247
+ACT 17992
+EXT 8
+AFB 256
+POS 9
+SAV -2
+HIT 0
+DAM 0
+ARM 98
+DEF 2097152
+WRC 1
+SVC 0
+CAN -9
+CNC 1
+BBC 1
+SST 0
+RNT Buzzing from Merry's back pocket, the lyrics "My milkshake brings all the boys to the yard..." rattle her phone.~
+VIB 0PTM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+THM 0 -1 -1 0 0
+SDG banana rama~
+TDC Test.
+~
+BIO This is a test.
+~
+NBL 20
+TDS 24
+MLD Some kind of faerie?
+~
+BRD 11 1465396283 1461979688 1465533521 1466202742 1462326702 1464989497 1475269102 0 1482902772 0 0
+ATT 3 3 3 3 3 1 1 3 1
+TAL 2 2 2 2 2 1 2 2 2 2
+TLX 3 3 3 3 3 1 3 3 3 3
+SKI 2 2 2 2 2 2 2 2 2 2
+SKX 3 3 3 3 3 3 3 3 3 3
+KNO 2 2 2 2 2 2 2 2 2 2
+KNX 3 3 3 3 3 3 3 3 3 3
+PSW MuT6QhxB3U6yk~
+BFI MERRY IS HERE!~
+BFO MERRY IS GONE!~
+TTL Enigma is the #eGhost in the Shell#n.~
+PRT #g   [#nCoder#g] #n~
+EML Merry~
+C_T Thu May 19 07:18:12 2016~
+C_C ðP}¶t  BY Merry~
+C_S Boooo~
+A_P 13 13 13 13 13
+FRT 13234
+LAN 8 0
+WFF 1 1
+SCO 74 0 0 0 0 0
+PWS 0 0 0 4 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0
+GNS 0 1 0 0 0 0 0 0 0 0
+BLD 10 10
+WIL 2 2
+CON 9 0 0
+FLW lala~
+CNO this is a pledge (bonus)~
+MEM Oliver Oliver~
+MEM Jormundurrr Jorm~
+MEM Lainey Elaine~
+SKL 100 'peek'
+SKL 100 'english'
+SKL 100 'german'
+SKL 100 'mandarin'
+SKL 100 'japanese'
+SKL 100 'russian'
+SKL 100 'arabic'
+SKL 100 'latin'
+SKL 100 'italian'
+SKL 100 'spanish'
+SKL 100 'hebrew'
+SKL 100 'gaelic'
+SKL 100 'indonesian'
+SKL 100 'greek'
+SKL 100 'slavic'
+SKL 100 'french'
+SKL 100 'korean'
+SKL 100 'vietnamese'
+SKL 100 'cantonese'
+SKL 100 'tagalog'
+SKL 100 'hindu'
+End
 
+#OBJ
+NST 0
+NAM vehicle~
+SDS a generic vehicle~
+DDS A generic vehicle idles on the curb, waiting for an owner to restring it.
+~
+PNC This is a generic vehicle. Use this space to describe the interior.
+~
+PFC This is a generic vehicle. Use this space to describe the exterior.
+~
+QMK Muse~
+VNM 1009
+EFL 0
+WFL 1
+ITT 27
+WEI 5
+RES 25
+LVL 12
+CST 40
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM beetle~
+SDS a bitchin' blue VW Beetle~
+DDS A bitchin' blue VW Beetle idles against the curb.~
+PNC A bitchin' car interior.~
+PFC A bitchin' blue VW Beetle.~
+QMK Merry~
+QON Merry~
+VNM 1009
+EFL 0
+WFL 1
+ITT 27
+WEI 5
+RES 25
+LVL 12
+CST 40
+VAL 0 0 0 0
+End
+
+#O 1008 1 0 5 30 0 100 25 0 0 0 0 0
+#O 3361 1 0 6 0 0 100 25 0 0 0 0 0
+#OBJ
+NST 0
+NAM torchlight newbie~
+SDS a plastic torchlight with a weak press-thumb toggle~
+DDS A plastic torchlight with a weak press-thumb toggle is here.
+~
+QMK Merry~
+VNM 3365
+EFL 65
+WFL 1
+WLC 13
+ITT 1
+WEI 1
+RES 25
+LVL 12
+CST 0
+VAL 0 0 1000 0
+End
+
+#O 1010 1 0 14 30 0 100 25 0 0 0 0 0
+#OBJ
+NST 0
+NAM messenger bag newbie~
+SDS a spacious canvas messenger bag with a broad shoulder strap~
+DDS A spacious canvas messenger bag with a broad shoulder strap is here.
+~
+QMK Merry~
+VNM 3032
+EFL 0
+WFL 513
+WLC 15
+ITT 15
+WEI 2
+RES 25
+LVL 12
+CST 20
+VAL 1000 0 0 0
+End
+
+#OBJ
+NST 0
+NAM password queensguard~
+SDS a fading square of vellum scribbled with a complex password~
+DDS A fading square of vellum scribbled with a complex password lies here.
+~
+QMK Merry~
+VNM 20157
+EFL 32
+WFL 8193
+ITT 18
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM password queensguard~
+SDS a fading square of vellum scribbled with a complex password~
+DDS A fading square of vellum scribbled with a complex password lies here.
+~
+QMK Merry~
+VNM 20157
+EFL 32
+WFL 8193
+ITT 18
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM password queensguard~
+SDS a fading square of vellum scribbled with a complex password~
+DDS A fading square of vellum scribbled with a complex password lies here.
+~
+QMK Merry~
+VNM 20157
+EFL 32
+WFL 8193
+ITT 18
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM phone cell phone cellphone~
+SDS a generic cell phone protected within a gray Otter Box case~
+DDS A generic cell phone protected within a gray Otter Box case is here.
+~
+QMK Merry~
+VNM 40
+EFL 0
+WFL 8193
+WLC 12
+ITT 3
+WEI 0
+RES 25
+LVL 12
+CST 0
+VAL 1 1 1 -1
+End
+
+#OBJ
+NST 0
+NAM dinah key~
+SDS a small house key~
+DDS a small house key is here.
+~
+QMK Merry~
+VNM 20186
+EFL 0
+WFL 8193
+ITT 18
+WEI 0
+RES 25
+LVL 11
+CST 0
+VAL 0 0 0 0
+End
+
+#OBJ
+NST 0
+NAM oakland baseball cap newbie~
+SDS an Oakland A's baseball cap with some noticeable weathering~
+DDS An Oakland A's baseball cap with some noticeable weathering rests here.
+~
+QMK Enigma~
+VNM 3706
+EFL 0
+WFL 17
+WLC 2
+ITT 9
+WEI 5
+RES 25
+LVL 12
+CST 0
+VAL 2 0 0 0
+End
+
+#END
